@@ -1,0 +1,441 @@
+1530945045164 translator: language is EN
+1530945045307 versionNumber=39.67.5 demo=false
+1530945045335 server name is "The Big 6 Gay"
+1530945045336 map_t.bin does not exist, cannot determine the server's WorldVersion.
+1530945045338 Loading networking libraries...
+1530945045338 Loading steam_api64...
+1530945045340 Loading RakNet64...
+1530945045341 Loading ZNetJNI64...
+1530945045363 znet: ZNet loaded
+1530945045363 znet: Compiled with SERVER_STEAMAPI == 0
+1530945045363 znet: Starting with bServer == true
+1530945045363 znet: SteamAPI initialised successfully
+1530945045363 SteamUtils initialised successfully
+1530945045377 ERROR: Missing translation "UI_ServerOptionDesc_TimeMultiplier"
+LightingFPS set to 15
+1530945045396 reading C:\Users\conmc\Zomboid\Server\The Big 6 Gay.ini
+1530945045403 writing C:\Users\conmc\Zomboid\Server\The Big 6 Gay.ini
+1530945045440 znet: Java_zombie_core_znet_SteamGameServer_Init
+1530945045918 znet: SteamGameServer seems to be initialized
+1530945045918 znet: Java_zombie_core_znet_SteamGameServer_SetProduct
+1530945045971 znet: Java_zombie_core_znet_SteamGameServer_SetGameDescription
+1530945045971 znet: Java_zombie_core_znet_SteamGameServer_SetModDir
+1530945045971 znet: Java_zombie_core_znet_SteamGameServer_SetDedicatedServer
+1530945046021 znet: Java_zombie_core_znet_SteamGameServer_SetMaxPlayerCount
+1530945046072 znet: Java_zombie_core_znet_SteamGameServer_SetServerName '6 Months In Big Gay'
+1530945046123 znet: Java_zombie_core_znet_SteamGameServer_SetMapName 'Muldraugh, KY'
+1530945046124 znet: Java_zombie_core_znet_SteamGameServer_SetGameTags 'hidden;hosted'
+1530945046124 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='description' value=''
+1530945046124 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='version' value='39.67.5'
+1530945046124 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='open' value='1'
+1530945046124 znet: Java_zombie_core_znet_SteamGameServer_SetKeyValue key='public' value='0'
+1530945046125 znet: Java_zombie_core_znet_SteamWorkshop_n_1Init
+1530945046125 znet: Java_zombie_core_znet_SteamGameServer_LogOnAnonymous
+1530945046148 znet: Java_zombie_core_znet_SteamGameServer_EnableHeartBeats
+1530945046149 Waiting for response from Steam servers
+1530945046777 znet: OnSteamServersConnected
+1530945046777 znet: Public IP: 76.88.95.251
+1530945046785 user database "C:\Users\conmc\Zomboid\db\The Big 6 Gay.db"
+admin password changed via -adminpassword option
+1530945047039 Router detection/configuration starting.
+1530945047039 If the server hangs here, set UPnP=false.
+1530945050069 UPnP-enabled internet gateway found: http://192.168.1.1:1780/control?WANIPConnection
+1530945050074 External IP address: 76.88.95.251
+1530945050074 trying to setup port forwarding rules...
+1530945050074 znet: Using http://192.168.1.1:1780/control?WANIPConnection to map external UDP port 16261 to local port 16261...
+1530945050074 znet: Checking if the port is already mapped...
+1530945050083 znet: Failed to get existing mapping: 714 (NoSuchEntryInArray)
+1530945050083 znet: Adding mapping to the routing table...
+1530945050095 znet: UPNP_AddPortMapping() succeeded, testing now...
+1530945050100 znet: UPNP_GetSpecificPortMappingEntry() succeeded, seems that we're good
+1530945050100 znet: UPNP_GetSpecificPortMappingEntry() results: intClient == '192.168.1.144', intPort == '16261', duration == '86400'
+Default port has been mapped successfully
+1530945050100 znet: Using http://192.168.1.1:1780/control?WANIPConnection to map external UDP port 8766 to local port 8766...
+1530945050100 znet: Checking if the port is already mapped...
+1530945050104 znet: Failed to get existing mapping: 714 (NoSuchEntryInArray)
+1530945050104 znet: Adding mapping to the routing table...
+1530945050114 znet: UPNP_AddPortMapping() succeeded, testing now...
+1530945050118 znet: UPNP_GetSpecificPortMappingEntry() succeeded, seems that we're good
+1530945050118 znet: UPNP_GetSpecificPortMappingEntry() results: intClient == '192.168.1.144', intPort == '8766', duration == '86400'
+SteamPort1 has been mapped successfully
+1530945050118 znet: Using http://192.168.1.1:1780/control?WANIPConnection to map external UDP port 8767 to local port 8767...
+1530945050118 znet: Checking if the port is already mapped...
+1530945050123 znet: Failed to get existing mapping: 714 (NoSuchEntryInArray)
+1530945050123 znet: Adding mapping to the routing table...
+1530945050133 znet: UPNP_AddPortMapping() succeeded, testing now...
+1530945050137 znet: UPNP_GetSpecificPortMappingEntry() succeeded, seems that we're good
+1530945050137 znet: UPNP_GetSpecificPortMappingEntry() results: intClient == '192.168.1.144', intPort == '8767', duration == '86400'
+SteamPort2 has been mapped successfully
+Initialising Server Systems...
+1530945051367 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945051653 translator: language is EN
+1530945051678 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_battery.txt
+1530945051679 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_brake.txt
+1530945051680 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_door.txt
+1530945051681 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine.txt
+1530945051681 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine_door.txt
+1530945051682 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_gastank.txt
+1530945051702 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_glovebox.txt
+1530945051703 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_headlight.txt
+1530945051707 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_heater.txt
+1530945051708 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_muffler.txt
+1530945051709 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger.txt
+1530945051711 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger_compartment.txt
+1530945051712 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_radio.txt
+1530945051713 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_seat.txt
+1530945051714 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_suspension.txt
+1530945051715 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_tire.txt
+1530945051715 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk.txt
+1530945051716 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk_door.txt
+1530945051717 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_window.txt
+1530945051717 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_windshield.txt
+1530945051718 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\Lot_Rural_Farmhouse_00_distribution.txt
+1530945051720 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\camping.txt
+1530945051758 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\evolvedrecipes.txt
+1530945051760 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farmdistribution.txt
+1530945051762 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farming.txt
+1530945051772 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\fixing.txt
+1530945051774 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items.txt
+1530945051860 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items_radio.txt
+1530945051864 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\moveables.txt
+1530945051864 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\multistagebuild.txt
+1530945051866 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\newitems.txt
+1530945051984 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\beenbit.txt
+1530945052018 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\chewedbyzombies.txt
+1530945052018 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingalreadymembers.txt
+1530945052020 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetinghub.txt
+1530945052021 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingsloner.txt
+1530945052022 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingteamup.txt
+1530945052023 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveaggressive.txt
+1530945052024 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveneutral.txt
+1530945052026 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerfriendlyneutral.txt
+1530945052027 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerneutralaggressive.txt
+1530945052034 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupaggressiveaggressive.txt
+1530945052041 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupneutralaggressive.txt
+1530945052042 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\givenitem.txt
+1530945052043 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\killedzombie.txt
+1530945052044 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainalreadymembers.txt
+1530945052045 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainhub.txt
+1530945052046 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainloner.txt
+1530945052046 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainteamup.txt
+1530945052047 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\npcgroupcommands.txt
+1530945052050 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\patchedup.txt
+1530945052050 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalk.txt
+1530945052053 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkbleeding.txt
+1530945052053 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeing.txt
+1530945052054 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeingbleeding.txt
+1530945052054 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes.txt
+1530945052095 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes_radio.txt
+1530945052095 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\suburbsdistribution.txt
+1530945052098 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\uniquerecipes.txt
+1530945052099 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\burntvehicles.txt
+1530945052102 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\carnormal.txt
+1530945052126 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\smallcar.txt
+1530945052131 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\sportcar.txt
+1530945052134 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vans.txt
+1530945052161 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carluxury.txt
+1530945052176 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern.txt
+1530945052179 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern02.txt
+1530945052181 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_offroad.txt
+1530945052183 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_smallcar02.txt
+1530945052186 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_suv.txt
+1530945052190 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi.txt
+1530945052195 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi2.txt
+1530945052197 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles.txt
+1530945052214 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles_mccoy.txt
+1530945052217 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesfixing.txt
+1530945052227 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesitems.txt
+1530945052251 Loading: media/lua/shared/ISBaseObject.lua
+1530945052255 Loading: media/lua/shared/JoyPad/JoyPadSetup.lua
+1530945052298 Loading: media/lua/shared/NPCs/MainCreationMethods.lua
+1530945052310 Loading: media/lua/shared/Reloading/ISRackAction.lua
+1530945052311 Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua
+1530945052324 Loading: media/lua/shared/Reloading/ISReloadAction.lua
+1530945052325 Loading: media/lua/shared/Reloading/ISReloadManager.lua
+1530945052332 Loading: media/lua/shared/Reloading/ISReloadUtil.lua
+1530945052352 Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua
+1530945052355 Loading: media/lua/shared/Reloading/ISReloadable.lua
+1530945052359 Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua
+1530945052364 Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua
+1530945052368 Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua
+1530945052374 Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua
+1530945052380 Loading: media/lua/shared/Reloading/stormysReload.lua
+1530945052381 require("timedactionshelper") failed
+1530945052382 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945052383 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945052384 Loading: media/lua/shared/Sandbox/SandboxVars.lua
+1530945052384 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945052385 Loading: media/lua/shared/SoundBanks/SoundBanks.lua
+1530945052390 Loading: media/lua/shared/SpawnRegions.lua
+1530945052391 Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua
+1530945052415 Loading: media/lua/shared/StashDescriptions/StashUtil.lua
+1530945052416 Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua
+1530945052419 Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua
+1530945052421 Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua
+1530945052424 Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua
+1530945052427 Loading: media/lua/shared/Util/BuildingHelper.lua
+1530945052427 Loading: media/lua/shared/Util/ISPriorityTable.lua
+1530945052428 Loading: media/lua/shared/Util/LuaList.lua
+1530945052430 Loading: media/lua/shared/Util/LuaNet.lua
+1530945052431 Loading: media/lua/shared/Util/StringReplacer.lua
+1530945052432 Loading: media/lua/shared/Util/Vector2.lua
+1530945052432 Loading: media/lua/shared/a_requires.lua
+1530945052433 require("NPCs/SadisticAIDirector/SadisticAIDirector") failed
+1530945052433 Loading: media/lua/shared/defines.lua
+1530945052433 Loading: media/lua/shared/iwbumstempmodelcompat.lua
+1530945052434 Loading: media/lua/shared/keyBinding.lua
+1530945052435 Loading: media/lua/shared/luautils.lua
+1530945052547 Loading: media/lua/server/BuildingObjects/ISAnvil.lua
+1530945052574 Loading: media/lua/server/BuildingObjects/ISBuildingObject.lua
+1530945052623 Loading: media/lua/server/BuildingObjects/ISBSFurnace.lua
+1530945052651 Loading: media/lua/server/BuildingObjects/ISBuildUtil.lua
+1530945052672 Loading: media/lua/server/BuildingObjects/ISCompost.lua
+1530945052682 Loading: media/lua/server/BuildingObjects/ISDestroyCursor.lua
+1530945052695 Loading: media/lua/server/BuildingObjects/ISDoubleDoor.lua
+1530945052707 Loading: media/lua/server/BuildingObjects/ISDoubleTileFurniture.lua
+1530945052722 Loading: media/lua/server/BuildingObjects/ISEmptyGraves.lua
+1530945052730 Loading: media/lua/server/BuildingObjects/ISLightSource.lua
+1530945052744 Loading: media/lua/server/BuildingObjects/ISMetalDrum.lua
+1530945052753 Loading: media/lua/server/BuildingObjects/ISMoveableCursor.lua
+1530945052781 Loading: media/lua/server/BuildingObjects/ISNaturalFloor.lua
+1530945052787 Loading: media/lua/server/BuildingObjects/ISPaintCursor.lua
+1530945052799 Loading: media/lua/server/BuildingObjects/ISSimpleFurniture.lua
+1530945052807 Loading: media/lua/server/BuildingObjects/ISWoodenContainer.lua
+1530945052827 Loading: media/lua/server/BuildingObjects/ISWoodenDoor.lua
+1530945052838 Loading: media/lua/server/BuildingObjects/ISWoodenDoorFrame.lua
+1530945052849 Loading: media/lua/server/BuildingObjects/ISWoodenFloor.lua
+1530945052859 Loading: media/lua/server/BuildingObjects/ISWoodenStairs.lua
+1530945052866 Loading: media/lua/server/BuildingObjects/ISWoodenWall.lua
+1530945052874 Loading: media/lua/server/BuildingObjects/PaintingReference.lua
+1530945052898 Loading: media/lua/server/BuildingObjects/RainCollectorBarrel.lua
+1530945052920 Loading: media/lua/server/Camping/BuildingObjects/campingCampfire.lua
+1530945052945 Loading: media/lua/server/Camping/BuildingObjects/campingTent.lua
+1530945052966 Loading: media/lua/server/Camping/ISCampfire.lua
+1530945052981 Loading: media/lua/server/Camping/camping.lua
+1530945052994 Loading: media/lua/server/Camping/camping_fuel.lua
+1530945053007 Loading: media/lua/server/Camping/camping_text.lua
+1530945053022 Loading: media/lua/server/ClientCommands.lua
+1530945053040 Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursor.lua
+1530945053049 Loading: media/lua/server/Farming/BuildingObjects/farmingPlot.lua
+1530945053056 Loading: media/lua/server/Farming/ISPlant.lua
+1530945053074 Loading: media/lua/server/Farming/ScavengeDefinition.lua
+1530945053086 Loading: media/lua/server/Farming/basicFarming.lua
+1530945053103 Loading: media/lua/server/Farming/farmingCommands.lua
+1530945053126 Loading: media/lua/server/Farming/farming_displayInfo.lua
+1530945053177 Loading: media/lua/server/Farming/farming_vegetableconf.lua
+1530945053228 Loading: media/lua/server/FireFighting/FireFighting.lua
+1530945053242 Loading: media/lua/server/FireFighting/ISExtinguishCursor.lua
+1530945053253 Loading: media/lua/server/Fishing/BuildingObjects/FishingNet.lua
+1530945053267 Loading: media/lua/server/HealthSystem/HealthUpdate.lua
+1530945053277 Loading: media/lua/server/ISBuildingBlueprintManager.lua
+1530945053291 Loading: media/lua/server/ISCoordConversion.lua
+1530945053300 Loading: media/lua/server/ISDoor.lua
+1530945053314 Loading: media/lua/server/ISObjectClickHandler.lua
+1530945053331 Loading: media/lua/server/Items/Distributions.lua
+1530945053385 Loading: media/lua/server/Items/ItemBindingHandler.lua
+1530945053401 Loading: media/lua/server/Items/ItemPicker.lua
+1530945053411 Loading: media/lua/server/Items/ScriptItemInterface.lua
+1530945053417 Loading: media/lua/server/Items/SuburbsDistributions.lua
+1530945053427 Loading: media/lua/server/Items/WorldFiller.lua
+1530945053455 Loading: media/lua/server/Map/MetaEnum.lua
+1530945053462 Loading: media/lua/server/Movers/ISBaseMover.lua
+1530945053478 Loading: media/lua/server/Movers/MoverStateMachine.lua
+1530945053489 Loading: media/lua/server/Movers/MoverStates/ISBaseState.lua
+1530945053498 Loading: media/lua/server/Movers/MoverStates/MoveToState.lua
+1530945053507 Loading: media/lua/server/Movers/Rabbit.lua
+1530945053534 Loading: media/lua/server/NPCs/Behaviour/BaseBehaviour.lua
+1530945053541 Loading: media/lua/server/NPCs/Behaviour/GuardBehaviour.lua
+1530945053574 Loading: media/lua/server/NPCs/FetchQuest.lua
+1530945053592 Loading: media/lua/server/NPCs/ISConversationScript.lua
+1530945053602 Loading: media/lua/server/NPCs/NPCEncountersMain.lua
+1530945053612 Loading: media/lua/server/NPCs/NPCHouse.lua
+1530945053632 Loading: media/lua/server/NPCs/SadisticAIDirector/EventSystem.lua
+1530945053641 new event system
+1530945053642 Loading: media/lua/server/NPCs/SadisticAIDirector/MetaSurvivor.lua
+1530945053660 Loading: media/lua/server/NPCs/SadisticAIDirector/MetaSurvivorGroup.lua
+1530945053695 Loading: media/lua/server/NPCs/SadisticAIDirector/RelationshipModifiers/Modifiers.lua
+1530945053707 Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticAIDirector.lua
+1530945053718 Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticMusicDirector.lua
+1530945053729 Loading: media/lua/server/NPCs/SadisticAIDirector/SurvivorSelector.lua
+1530945053765 Loading: media/lua/server/NPCs/SendOnLootMission.lua
+1530945053772 Loading: media/lua/server/NPCs/TestThing.lua
+1530945053777 Loading: media/lua/server/NewSelectionSystem/GridSquareSelector.lua
+1530945053783 Loading: media/lua/server/Professions/Professions.lua
+1530945053788 Loading: media/lua/server/Seasons/season.lua
+1530945053798 Loading: media/lua/server/Seasons/seasonProps.lua
+1530945053806 Loading: media/lua/server/Traps/BuildingObjects/TrapBO.lua
+1530945053823 Loading: media/lua/server/Traps/ISTrap.lua
+1530945053833 Loading: media/lua/server/Traps/ISUI/ISTrapMenu.lua
+1530945053839 Loading: media/lua/server/Traps/TrapDefinition.lua
+1530945053845 Loading: media/lua/server/Traps/TrapRecipeCode.lua
+1530945053850 Loading: media/lua/server/Traps/TrapSystem.lua
+1530945053859 Loading: media/lua/server/Traps/trappingCommands.lua
+1530945053867 require("TrapSystem") failed
+1530945053867 Loading: media/lua/server/TurnBased/TurnBasedMain.lua
+1530945053872 Loading: media/lua/server/TutorialHelperFunctions.lua
+1530945053884 Loading: media/lua/server/Vehicles/VehicleCommands.lua
+1530945053892 Loading: media/lua/server/Vehicles/VehicleDistributions.lua
+1530945053905 Loading: media/lua/server/Vehicles/Vehicles.lua
+1530945053922 Loading: media/lua/server/XpSystem/XPSystem_SkillBook.lua
+1530945053930 Loading: media/lua/server/XpSystem/XpSystem_text.lua
+1530945053936 Loading: media/lua/server/XpSystem/XpUpdate.lua
+1530945053945 Loading: media/lua/server/katebaldspottutorial.lua
+1530945053952 Loading: media/lua/client/SurvivalGuide/ISTutorialPanel.lua
+1530945053955 Loading: media/lua/client/ISUI/ISPanel.lua
+1530945053956 Loading: media/lua/client/ISUI/ISUIElement.lua
+1530945053961 Loading: media/lua/client/ISUI/ISRichTextPanel.lua
+1530945053963 Loading: media/lua/client/ISUI/ISButton.lua
+1530945053971 Loading: media/lua/server/mapScripts.lua
+1530945053978 Loading: media/lua/server/metazones/metazoneHandler.lua
+1530945053985 Loading: media/lua/server/recipecode.lua
+1530945053993 Loading: media/lua/server/timedactionshelper.lua
+1530945053999 Loading: C:/Users/conmc/Zomboid/Server/The Big 6 Gay_SandboxVars.lua
+1530945054067 Loading: C:/Users/conmc/Zomboid/Server/The Big 6 Gay_spawnregions.lua
+1530945054117 Loading: media/maps/Muldraugh, KY/spawnpoints.lua
+1530945054129 Loading: media/maps/Riverside, KY/spawnpoints.lua
+1530945054145 Loading: media/maps/Rosewood, KY/spawnpoints.lua
+1530945054169 Loading: media/maps/West Point, KY/spawnpoints.lua
+Loading world...
+1530945054270 IsoMetaGrid.Create: begin scanning directories
+1530945054283 Looking in these map folders:
+1530945054283     A:\SteamLibrary\steamapps\common\ProjectZomboid\media\maps\Muldraugh, KY
+1530945054283     A:\SteamLibrary\steamapps\common\ProjectZomboid\media\maps\West Point, KY
+1530945054283 <End of map-folders list>
+1530945054294 IsoMetaGrid.Create: finished scanning directories in 0.024 seconds
+1530945054294 IsoMetaGrid.Create: begin loading
+1530945054524 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945054528 tiledef: loading media/tiledefinitions.tiles
+1530945054914 tiledef: loading media/newtiledefinitions.tiles
+1530945058415 tiledef: loading media/tiledefinitions_erosion.tiles
+1530945058514 tiledef: loading media/tiledefinitions_apcom.tiles
+1530945058621 tiledef: loading media/tiledefinitions.tiles
+1530945059046 tiledef: loading media/newtiledefinitions.tiles
+1530945060305 MOVABLES: Object has only one face defined for group: (Streetname Sign) sheet = street_decoration_01
+1530945060305 MOVABLES: Not all members have a valid face defined for group: (Streetname Sign) sheet = street_decoration_01
+1530945060996 MOVABLES: Difference in SpriteGrid settings for members of group: (Wooden Bench) sheet = furniture_seating_indoor_03
+1530945060996 MOVABLES: Object has too many faces defined for group: (White Simple Chair) sheet = furniture_seating_indoor_03
+1530945061029 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Tattoo Parlor Sign) sheet = location_shop_accessories_genericsigns_01
+1530945061030 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Bail Bonds Sign) sheet = location_shop_accessories_genericsigns_01
+1530945061047 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Pony Roam-o Sign) sheet = signs_one-off_01
+1530945061410 tiledef: loading media/tiledefinitions_erosion.tiles
+1530945061476 tiledef: loading media/tiledefinitions_apcom.tiles
+
+################## Radio Init ##################
+:: Searching for radio data files:
+Reading xml: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData.xml
+RadioData nodes len: 1
+Reading RootInfo...
+RootInfo found
+Found element: SourceFile
+Found element: FileGUID
+GUID = b73aa63e-6286-4c32-9e48-3b0024c22b51
+Found element: Version
+Version = 0
+valid file: true
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData.xml
+:: Searching for translation files:
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_DE.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_ES.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_FR.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_JP.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_PL.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_RU.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Found file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData_TR.txt
+ Adding translation: b73aa63e-6286-4c32-9e48-3b0024c22b51
+ Adding (vanilla) file: A:\SteamLibrary\steamapps\common\ProjectZomboid\media\radio\RadioData.xml
+ - GUID: b73aa63e-6286-4c32-9e48-3b0024c22b51
+Radio loaded.
+################################################
+
+1530945064480 erosion: reading C:\Users\conmc\Zomboid\Saves\Multiplayer\The_Big_6_Gay\erosion.ini
+1530945065384 IsoMetaGrid.Create: finished loading in 11.09 seconds
+1530945065385 can't find map objects file: media/maps/West Point, KY/objects.lua
+1530945065385 Loading: media/maps/Muldraugh, KY/objects.lua
+1530945066035 ERROR: not adding suspicious zone "" "Vegitation" 9027,7530,9 179x10
+1530945066035 ERROR: not adding suspicious zone "" "Vegitation" 9206,7527,9 10x13
+1530945066035 ERROR: not adding suspicious zone "" "Vegitation" 9204,7527,9 2x3
+1530945066035 ERROR: not adding suspicious zone "" "Forest" 9216,7527,9 10x13
+1530945066035 ERROR: not adding suspicious zone "" "Forest" 9027,7540,9 199x15
+1530945066036 ERROR: not adding suspicious zone "" "DeepForest" 9226,7527,9 101x300
+1530945066036 ERROR: not adding suspicious zone "" "DeepForest" 9027,7555,9 199x272
+1530945066616 loading 11700 zones from map_zone.bin
+1530945066713 Max #ZONES on one chunk is 26
+1530945067626 reanimate: loaded 1 zombies
+1530945067739 Initialising RakNet...
+1530945067739 znet: Java_zombie_core_raknet_RakNetPeerInterface_Init
+1530945067739 znet: g_peer = 0x2783130
+1530945067739 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetMaximumIncomingConnections
+1530945067746 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetServerPort
+1530945067746 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetIncomingPassword
+1530945067747 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetOccasionalPing
+1530945067747 znet: Java_zombie_core_raknet_RakNetPeerInterface_Startup
+1530945067747 znet: Zomboid Steam Server started, ports 8766 and 16261 must be open on the router
+1530945067822 znet: OnRakPeerStartup
+1530945067840 znet: RakNet-through-Steam mode activated
+RakNet.Startup() return code: 0 (0 means success)
+1530945067840 [VOICE MANAGER] VoiceInit
+1530945067841 znet: Java_zombie_core_raknet_RakVoice_RVInitServer
+1530945067841 znet: g_peer = 0x2783130
+*** SERVER STARTED ****
+*** Steam is enabled
+server is listening on port 16261
+1530945067841 znet: Java_zombie_core_raknet_RakNetPeerInterface_GetServerIP
+1530945067842 LuaNet: Initializing...
+1530945067843 LuaNet: Registering server listener...
+1530945067843 LuaNet: Initialization [DONE], triggering events for 'LuaNet.onInitAdd'.
+1530945067843 ##########
+Server Steam ID 90115830916279301
+##########
+1530945068227 znet: OnPolicyResponse
+1530945068227 znet: Zomboid Server is VAC Secure
+Set host user:cashew
+1530945069131 znet: OnP2PSessionRequest
+1530945069530 znet: Client connecting
+1530945069530 znet: OnClientInitiateConnection
+1530945069530 znet: Sending server information
+1530945069631 znet: Client has begun authentication
+1530945069631 znet: got token from the client
+1530945069631 znet: BeginAuthSession() ok
+1530945069833 znet: OnValidateAuthTicketResponse response=0 SteamID=76561198045968247
+1530945069833 znet: Auth succeeded
+1530945071945 znet: New connection
+1530945071952 znet: Java_zombie_core_raknet_RakNetPeerInterface_GetClientSteamID
+1530945071952 [VOICE MANAGER] VoiceConnectAccept uuid=324260135660004361
+1530945072040 znet: Java_zombie_core_raknet_RakNetPeerInterface_getIPFromGUID
+1530945072055 znet: Java_zombie_core_raknet_RakNetPeerInterface_GetClientSteamID
+1530945072055 znet: Java_zombie_core_raknet_RakNetPeerInterface_GetClientOwnerSteamID
+1530945072060 76561198045968247 isCoopHost=true
+Connected new client cashew ID # 0 and assigned DL port 16262
+1530945103566 rain barrel: new barrel created 12061,6813 with 0 water
+1530945103566 rain barrel: new barrel created 12061,6814 with 0 water
+1530945103566 rain barrel: new barrel created 12061,6815 with 0 water
+1530945103566 rain barrel: new barrel created 12061,6816 with 0 water
+1530945103566 rain barrel: new barrel created 12061,6817 with 0 water
+1530945103567 rain barrel: new barrel created 12061,6818 with 0 water
+1530945103568 rain barrel: new barrel created 12061,6819 with 0 water
+1530945103569 rain barrel: new barrel created 12061,6820 with 0 water
+1530945103569 rain barrel: new barrel created 12061,6821 with 0 water
+1530945126358 Got get-parameter command: tag = get-parameter payload = external-ip
+1530945126468 Got get-parameter command: tag = get-parameter payload = steam-id
+1530945128685 znet: Java_zombie_core_znet_SteamGameServer_BUpdateUserData 'cashew' id=76561198045968247
+1530945147213 znet: Connection closed: reason=1 port=1
+1530945147213 znet: Disconnecting client #0 SteamID=76561198045968247
+1530945147213 [VOICE MANAGER] VoiceConnectClose uuid=324260135660004361
+1530945147213 znet: Java_zombie_core_raknet_RakVoice_CloseVoiceChannel
+Disconnected player "cashew" 76561198045968247
+1530945147395 Host user disconnected, stopping the server
+1530945147596 znet: OnValidateAuthTicketResponse response=6 SteamID=76561198045968247
+1530945147644 SaveAll took 48.178953 ms
+1530945147685 reanimate: saved 1 zombies
+Saving finish
+1530945147861 Saving took 265.140946 ms
+1530945153423 waiting for UdpEngine thread termination
+1530945153440 znet: Java_zombie_core_raknet_RakNetPeerInterface_Shutdown
+1530945153440 znet: Shutting down Steam Game Server
+1530945154519 znet: Java_zombie_core_znet_SteamUtils_n_1Shutdown

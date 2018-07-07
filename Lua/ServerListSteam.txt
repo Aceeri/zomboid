@@ -1,0 +1,7 @@
+name=[24/7] Evolution BETA - Zombies evolve every week, ends 06 July
+ip=108.61.235.122
+port=56261
+serverpassword=
+description=Evolution BETA runs for 4 real weeks and the zombies evolve every real week. They spread across the map, their senses improve, they get smarter. The server is online 24/7 for 4 real weeks which is almost 2 years in-game. The settings are "mid-core" survival, more immersive than default but not too hard. How long can you survive? This is the first BETA game which ends 06 July. Join us on Discord: https://discord.gg/Qycaref .
+user=Aceeri
+password=12435

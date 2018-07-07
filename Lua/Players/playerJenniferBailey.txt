@@ -1,0 +1,32 @@
+PlayerJenniferBailey
+{ 
+  Forename=Jennifer
+  Surname=Bailey
+  Toppal=Blouse_White;0.8705882430076599,0.9725490212440491,0.2862745225429535
+  Bottomspal=Trousers_White;0.0941176488995552,0.18039216101169586,0.239215686917305
+  Torso=Kate_2
+  Hair=F_Hair_Long_White;0.12156862765550613,0.14509804546833038,0.16078431904315948
+  Profession=lumberjack
+  Level=0
+  GlobalXp=570
+  PlayedTime=0
+  Female
+}
+Traits 
+{ 
+  addTrait=Axeman
+  addTrait=Stout
+  addTrait=Fit
+}
+Skills 
+{ 
+  addSkills=Blunt,0
+  addSkills=Blade,3
+  addSkills=Carpentry,0
+}
+Bonus 
+{ 
+  addGoldBoostBonus=1
+  addStartingGoldBonus=0
+  addXpBoostBonus=1
+}

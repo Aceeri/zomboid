@@ -1,0 +1,4 @@
+[01-07-18 22:50:27] added connection index=0 76561198045968247.
+[01-07-18 22:50:27] 76561198045968247 "cashew" attempting to join.
+[01-07-18 22:50:27] 76561198045968247 "cashew" allowed to join.
+[01-07-18 22:52:37] 76561198045968247 "cashew" removed connection index=0.

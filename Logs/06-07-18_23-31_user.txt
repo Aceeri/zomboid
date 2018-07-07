@@ -1,0 +1,6 @@
+[06-07-18 23:31:12] added connection index=0 76561198045968247.
+[06-07-18 23:31:12] 76561198045968247 "cashew" attempting to join.
+[06-07-18 23:31:12] 76561198045968247 "cashew" allowed to join.
+[06-07-18 23:32:08] 76561198045968247 "cashew" fully connected (12063,6797,0).
+[06-07-18 23:32:27] 76561198045968247 "cashew" removed connection index=0.
+[06-07-18 23:32:27] 76561198045968247 "cashew" disconnected player (12063,6798,0).

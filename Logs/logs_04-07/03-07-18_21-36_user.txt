@@ -1,0 +1,22 @@
+[03-07-18 21:36:19] added connection index=0 76561198045968247.
+[03-07-18 21:36:19] 76561198045968247 "cashew" attempting to join.
+[03-07-18 21:36:19] 76561198045968247 "cashew" allowed to join.
+[03-07-18 21:37:22] 76561198045968247 "cashew" fully connected (12065,6796,0).
+[03-07-18 21:37:31] added connection index=1 76561198095440441.
+[03-07-18 21:37:31] 76561198095440441 "aerosol birthday party" attempting to join.
+[03-07-18 21:37:31] 76561198095440441 "aerosol birthday party" allowed to join.
+[03-07-18 21:38:01] 76561198095440441 "aerosol birthday party" fully connected (12069,6796,0).
+[03-07-18 22:55:32] added connection index=2 76561198057785388.
+[03-07-18 22:55:32] 76561198057785388 "Brazen" attempting to join.
+[03-07-18 22:55:32] 76561198057785388 "Brazen" allowed to join.
+[03-07-18 22:56:17] 76561198057785388 "Brazen" fully connected (11643,6696,0).
+[03-07-18 23:04:18] user Brazen died at (11774,6612,0) (non pvp).
+[03-07-18 23:05:09] 76561198057785388 "Brazen" disconnected player (11774,6612,0).
+[03-07-18 23:05:12] 76561198057785388 "Brazen" fully connected (11792,6786,0).
+[03-07-18 23:17:55] user Brazen died at (11388,6780,0) (non pvp).
+[03-07-18 23:18:08] 76561198057785388 "Brazen" removed connection index=2.
+[03-07-18 23:18:08] 76561198057785388 "Brazen" disconnected player (11388,6780,0).
+[04-07-18 00:37:26] 76561198095440441 "aerosol birthday party" removed connection index=1.
+[04-07-18 00:37:26] 76561198095440441 "aerosol birthday party" disconnected player (12065,6796,0).
+[04-07-18 00:38:26] 76561198045968247 "cashew" removed connection index=0.
+[04-07-18 00:38:26] 76561198045968247 "cashew" disconnected player (12063,6797,0).

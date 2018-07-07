@@ -1,0 +1,522 @@
+[30-06-18 17:01:10] 76561198045968247 "cashew" container -1 8250,11603,0 [Base.BookFirstAid1].
+[30-06-18 17:01:16] 76561198045968247 "cashew" container -5 8247,11603,0 [Base.Bullets9mm].
+[30-06-18 17:01:19] 76561198045968247 "cashew" container -1 8247,11603,0 [Base.Pan].
+[30-06-18 17:01:22] 76561198045968247 "cashew" container -1 8247,11603,0 [Base.KitchenKnife].
+[30-06-18 17:01:25] 76561198045968247 "cashew" container -2 8247,11603,0 [Base.TinOpener, Base.Pot].
+[30-06-18 17:01:31] 76561198045968247 "cashew" container -2 8248,11603,0 [Base.Broccoli, farming.Tomato].
+[30-06-18 17:03:07] 76561198045968247 "cashew" container -1 8244,11637,0 [Base.Screwdriver].
+[30-06-18 17:03:12] 76561198095440441 "aerosol birthday party" container -1 8324,11814,0 [Base.Processedcheese].
+[30-06-18 17:03:13] 76561198045968247 "cashew" container -1 8244,11637,0 [Base.Woodglue].
+[30-06-18 17:03:15] 76561198095440441 "aerosol birthday party" container -1 8324,11814,0 [Base.WaterBottleFull].
+[30-06-18 17:03:19] 76561198045968247 "cashew" container -2 8245,11637,0 [Base.Hammer].
+[30-06-18 17:03:24] 76561198095440441 "aerosol birthday party" container -3 8327,11813,0 [Base.Mugl, farming.BroccoliBagSeed, farming.RedRadishBagSeed].
+[30-06-18 17:03:25] 76561198045968247 "cashew" container -2 8246,11637,0 [Base.Glue, Base.FishingRod].
+[30-06-18 17:05:19] 76561198045968247 "cashew" container -1 8286,11664,0 [Base.HuntingMag2].
+[30-06-18 17:06:49] 76561198045968247 "cashew" container -1 8285,11664,0 [Base.EngineerMagazine1].
+[30-06-18 17:06:52] 76561198045968247 "cashew" container -1 8285,11664,0 [Base.HuntingMag1].
+[30-06-18 17:06:58] 76561198045968247 "cashew" container +0 8285,11664,0 [Base.HuntingMag2, Base.HuntingMag1].
+[30-06-18 17:07:00] 76561198045968247 "cashew" floor +1 8285,11664,0 [Base.EngineerMagazine1].
+[30-06-18 17:07:25] 76561198045968247 "cashew" container -1 8288,11666,0 [Base.RollingPin].
+[30-06-18 17:07:34] 76561198045968247 "cashew" container -1 8289,11666,0 [Base.Plasticbag].
+[30-06-18 17:07:37] 76561198045968247 "cashew" container +0 8289,11666,0 [Base.Plasticbag].
+[30-06-18 17:07:43] 76561198045968247 "cashew" container -1 8290,11665,0 [Base.WaterBottleFull].
+[30-06-18 17:07:46] 76561198045968247 "cashew" container -1 8290,11665,0 [Base.Carrots].
+[30-06-18 17:07:49] 76561198045968247 "cashew" container -1 8290,11666,0 [Base.Pan].
+[30-06-18 17:08:01] 76561198045968247 "cashew" container -2 8290,11661,0 [Base.Sheet].
+[30-06-18 17:08:07] 76561198045968247 "cashew" container -1 8287,11660,0 [Base.BookCooking1].
+[30-06-18 17:08:10] 76561198045968247 "cashew" container -1 8287,11660,0 [Base.EngineerMagazine2].
+[30-06-18 17:08:12] 76561198095440441 "aerosol birthday party" container -6 8341,11716,0 [Base.Nails, Base.DuctTape].
+[30-06-18 17:08:13] 76561198045968247 "cashew" container -1 8287,11660,0 [Base.HuntingMag1].
+[30-06-18 17:08:15] 76561198095440441 "aerosol birthday party" container -2 8341,11716,0 [Base.Woodglue].
+[30-06-18 17:08:16] 76561198045968247 "cashew" container +0 8287,11660,0 [Base.EngineerMagazine2, Base.HuntingMag1].
+[30-06-18 17:08:27] 76561198095440441 "aerosol birthday party" container -1 8342,11716,0 [Base.BellPepper].
+[30-06-18 17:08:30] 76561198095440441 "aerosol birthday party" container -1 8342,11716,0 [Base.Corn].
+[30-06-18 17:08:39] 76561198095440441 "aerosol birthday party" container -1 8342,11716,0 [Base.Leek].
+[30-06-18 17:08:42] 76561198095440441 "aerosol birthday party" container -1 8342,11716,0 [Base.Watermelon].
+[30-06-18 17:09:12] 76561198095440441 "aerosol birthday party" container -1 8340,11719,0 [Base.Hammer].
+[30-06-18 17:09:15] 76561198095440441 "aerosol birthday party" container -1 8340,11719,0 [Base.Woodglue].
+[30-06-18 17:10:25] 76561198045968247 "cashew" container -5 8252,11689,0 [Base.Bullets9mm].
+[30-06-18 17:10:43] 76561198045968247 "cashew" container -1 8245,11690,0 [Base.BookFarming1].
+[30-06-18 17:11:10] 76561198045968247 "cashew" container -1 8247,11693,0 [Base.Schoolbag].
+[30-06-18 17:11:16] 76561198045968247 "cashew" container -1 8247,11693,0 [Base.Sheet].
+[30-06-18 17:11:31] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.KitchenKnife, Base.BookFirstAid1, Base.Bullets9mm].
+[30-06-18 17:11:34] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.TinOpener, Base.Woodglue, Base.Screwdriver, Base.Pot, Base.Hammer].
+[30-06-18 17:11:37] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.Glue, Base.Hammer, Base.FishingRod, Base.RollingPin].
+[30-06-18 17:11:40] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.Sheet, Base.WaterBottleFull, Base.Pan].
+[30-06-18 17:11:43] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.BookFarming1, Base.Sheet, Base.Bullets9mm, Base.BookCooking1].
+[30-06-18 17:11:46] 76561198045968247 "cashew" container +0 8252,11689,0 [Base.Sheet].
+[30-06-18 17:11:58] 76561198045968247 "cashew" container -1 8252,11689,0 [Base.BookFirstAid1].
+[30-06-18 17:12:01] 76561198045968247 "cashew" container -8 8252,11689,0 [Base.TinOpener, Base.KitchenKnife, Base.Pot, Base.Bullets9mm].
+[30-06-18 17:12:04] 76561198045968247 "cashew" container -6 8252,11689,0 [Base.Woodglue, Base.Screwdriver, Base.Glue, Base.Hammer, Base.FishingRod].
+[30-06-18 17:12:07] 76561198045968247 "cashew" container -2 8252,11689,0 [Base.WaterBottleFull, Base.RollingPin].
+[30-06-18 17:12:10] 76561198045968247 "cashew" container -7 8252,11689,0 [Base.Sheet, Base.Bullets9mm, Base.BookCooking1, Base.Pan].
+[30-06-18 17:12:12] 76561198095440441 "aerosol birthday party" container -1 8288,11623,0 [Base.Carrots].
+[30-06-18 17:12:13] 76561198045968247 "cashew" container -4 8252,11689,0 [Base.BookFarming1, Base.Bullets9mm, Base.Sheet].
+[30-06-18 17:12:15] 76561198095440441 "aerosol birthday party" container -1 8288,11623,0 [Base.Eggplant].
+[30-06-18 17:12:18] 76561198095440441 "aerosol birthday party" container -2 8288,11623,0 [Base.WaterBottleFull, Base.Processedcheese].
+[30-06-18 17:12:24] 76561198095440441 "aerosol birthday party" container -2 8288,11624,0 [Base.TinOpener].
+[30-06-18 17:12:33] 76561198095440441 "aerosol birthday party" container -1 8288,11624,0 [Base.Mugl].
+[30-06-18 17:12:36] 76561198095440441 "aerosol birthday party" container -1 8288,11624,0 [farming.StrewberrieBagSeed].
+[30-06-18 17:12:52] 76561198045968247 "cashew" container -1 8246,11711,0 [Base.ElectronicsMag1].
+[30-06-18 17:12:54] 76561198095440441 "aerosol birthday party" container -1 8288,11624,0 [Base.Chocolate].
+[30-06-18 17:12:58] 76561198045968247 "cashew" container +0 8246,11711,0 [Base.ElectronicsMag1].
+[30-06-18 17:13:03] 76561198095440441 "aerosol birthday party" container -1 8287,11624,0 [Base.Pan].
+[30-06-18 17:13:04] 76561198045968247 "cashew" container -1 8246,11710,0 [Base.NailsBox].
+[30-06-18 17:13:06] 76561198095440441 "aerosol birthday party" container -1 8287,11624,0 [Base.Macandcheese].
+[30-06-18 17:13:09] 76561198095440441 "aerosol birthday party" container -1 8287,11624,0 [Base.Wine2].
+[30-06-18 17:13:12] 76561198095440441 "aerosol birthday party" container -1 8287,11624,0 [Base.Chocolate].
+[30-06-18 17:13:15] 76561198095440441 "aerosol birthday party" container -1 8287,11624,0 [Base.TinnedSoup].
+[30-06-18 17:13:27] 76561198095440441 "aerosol birthday party" container -2 8286,11624,0 [Base.WaterBottleFull, farming.RedRadishBagSeed].
+[30-06-18 17:13:39] 76561198095440441 "aerosol birthday party" container -2 8285,11624,0 [Base.Crisps2].
+[30-06-18 17:13:55] 76561198045968247 "cashew" container -1 8243,11716,0 [Base.MechanicMag3].
+[30-06-18 17:14:00] 76561198095440441 "aerosol birthday party" container -1 8285,11624,0 [Base.WhiskeyFull].
+[30-06-18 17:14:01] 76561198045968247 "cashew" container +0 8243,11716,0 [Base.MechanicMag3].
+[30-06-18 17:14:16] 76561198045968247 "cashew" container -1 8246,11716,0 [Base.KitchenKnife].
+[30-06-18 17:14:19] 76561198045968247 "cashew" container -1 8246,11717,0 [Base.WaterBottleFull].
+[30-06-18 17:14:25] 76561198045968247 "cashew" container -1 8246,11717,0 [Base.Pan].
+[30-06-18 17:15:09] 76561198095440441 "aerosol birthday party" floor +1 8284,11626,0 [Base.TinOpener].
+[30-06-18 17:15:09] 76561198095440441 "aerosol birthday party" floor +1 8284,11626,0 [Base.TinOpener].
+[30-06-18 17:15:14] 76561198095440441 "aerosol birthday party" floor +1 8284,11626,0 [Base.Mugl].
+[30-06-18 17:15:14] 76561198095440441 "aerosol birthday party" floor +1 8284,11626,0 [Base.Mugl].
+[30-06-18 17:16:55] 76561198045968247 "cashew" container -1 8339,11614,0 [Base.Key2].
+[30-06-18 17:17:04] 76561198045968247 "cashew" container -1 8341,11618,0 [Base.RedPen].
+[30-06-18 17:17:12] 76561198095440441 "aerosol birthday party" container -1 8333,11616,0 [Base.Schoolbag].
+[30-06-18 17:19:01] 76561198045968247 "cashew" container -1 8348,11600,0 [Base.WaterBottleFull].
+[30-06-18 17:19:03] 76561198095440441 "aerosol birthday party" container -4 8348,11603,0 [Base.Crisps, Base.Crisps3, Base.CannedCarrots2, Base.TinnedSoup].
+[30-06-18 17:19:09] 76561198095440441 "aerosol birthday party" container -1 8348,11603,0 [Base.WhiskeyFull].
+[30-06-18 17:19:15] 76561198095440441 "aerosol birthday party" container -2 8348,11600,0 [Base.Crisps, Base.TinnedSoup].
+[30-06-18 17:19:18] 76561198095440441 "aerosol birthday party" container -2 8348,11600,0 [Base.PeanutButter, Base.WaterBottleFull].
+[30-06-18 17:19:21] 76561198095440441 "aerosol birthday party" container -1 8348,11600,0 [Base.TunaTin].
+[30-06-18 17:20:03] 76561198095440441 "aerosol birthday party" container -1 8353,11618,0 [Base.Duffelbag].
+[30-06-18 17:20:13] 76561198095440441 "aerosol birthday party" floor +1 8352,11616,0 [Base.Duffelbag].
+[30-06-18 17:20:26] 76561198095440441 "aerosol birthday party" floor +1 8352,11616,0 [Base.Schoolbag].
+[30-06-18 17:20:31] 76561198095440441 "aerosol birthday party" floor -1 8352,11616,0 [Base.Duffelbag].
+[30-06-18 17:20:42] 76561198095440441 "aerosol birthday party" container -5 8352,11616,0 [Base.Crisps, Base.Crisps3, Base.WhiskeyFull, Base.CannedCarrots2, Base.TinnedSoup].
+[30-06-18 17:20:45] 76561198095440441 "aerosol birthday party" container -5 8352,11616,0 [Base.Crisps, Base.PeanutButter, Base.TinnedSoup, Base.WaterBottleFull, Base.TunaTin].
+[30-06-18 17:21:10] 76561198045968247 "cashew" container -1 8359,11629,0 [Base.Cube].
+[30-06-18 17:23:22] 76561198045968247 "cashew" container -1 8336,11622,0 [Base.Key3].
+[30-06-18 17:23:25] 76561198045968247 "cashew" container -1 8334,11619,0 [Base.Key2].
+[30-06-18 17:23:57] 76561198095440441 "aerosol birthday party" container -1 8337,11609,0 [Base.Key5].
+[30-06-18 17:24:07] 76561198045968247 "cashew" container -5 8339,11606,0 [Base.Nails].
+[30-06-18 17:24:10] 76561198045968247 "cashew" container -1 8339,11606,0 [Base.Torch].
+[30-06-18 17:25:57] 76561198095440441 "aerosol birthday party" container -1 8356,11611,0 [Base.DuctTape].
+[30-06-18 17:26:00] 76561198095440441 "aerosol birthday party" container -1 8356,11611,0 [Base.Rope].
+[30-06-18 17:26:17] 76561198045968247 "cashew" floor +1 8372,11612,0 [Base.KitchenKnife].
+[30-06-18 17:26:17] 76561198045968247 "cashew" floor +1 8372,11612,0 [Base.KitchenKnife].
+[30-06-18 17:26:19] 76561198045968247 "cashew" floor +1 8372,11612,0 [Base.Pan].
+[30-06-18 17:26:48] 76561198095440441 "aerosol birthday party" container -1 8366,11621,0 [Base.HuntingKnife].
+[30-06-18 17:26:54] 76561198095440441 "aerosol birthday party" container -1 8366,11621,0 [Base.Glue].
+[30-06-18 17:27:03] 76561198095440441 "aerosol birthday party" container -1 8367,11621,0 [Base.Glue].
+[30-06-18 17:27:06] 76561198095440441 "aerosol birthday party" container -1 8368,11621,0 [Base.Glue].
+[30-06-18 17:27:13] 76561198045968247 "cashew" container -1 8366,11621,0 [Base.ElectronicsScrap].
+[30-06-18 17:28:39] 76561198095440441 "aerosol birthday party" container -1 8375,11556,0 [Base.ElectronicsMag4].
+[30-06-18 17:28:42] 76561198095440441 "aerosol birthday party" container -3 8375,11556,0 [Base.HuntingMag3, Base.MetalworkMag4, Base.MetalworkMag1].
+[30-06-18 17:30:10] 76561198045968247 "cashew" container -6 8352,11557,0 [Base.BaseballBat, Base.Bullets9mm].
+[30-06-18 17:30:18] 76561198095440441 "aerosol birthday party" container -1 8352,11554,0 [Base.Avocado].
+[30-06-18 17:30:21] 76561198095440441 "aerosol birthday party" container -1 8352,11554,0 [Base.Broccoli].
+[30-06-18 17:30:22] 76561198045968247 "cashew" container -1 8352,11554,0 [farming.Cabbage].
+[30-06-18 17:30:27] 76561198095440441 "aerosol birthday party" container -1 8352,11554,0 [Base.WaterBottleFull].
+[30-06-18 17:30:46] 76561198045968247 "cashew" container -1 8357,11552,0 [Base.FirstAidKit].
+[30-06-18 17:30:49] 76561198045968247 "cashew" container -2 8357,11552,0 [Base.PillsVitamins, Base.Disinfectant].
+[30-06-18 17:30:52] 76561198045968247 "cashew" container -2 8357,11552,0 [Base.Sheet].
+[30-06-18 17:32:55] 76561198045968247 "cashew" container -1 8335,11552,0 [Base.FishingMag2].
+[30-06-18 17:33:01] 76561198045968247 "cashew" container +0 8335,11552,0 [Base.FishingMag2].
+[30-06-18 17:33:15] 76561198095440441 "aerosol birthday party" container -1 8330,11557,0 [Base.Lemon].
+[30-06-18 17:33:18] 76561198095440441 "aerosol birthday party" container -1 8330,11557,0 [Base.Onion].
+[30-06-18 17:33:28] 76561198045968247 "cashew" container -1 8331,11559,0 [Base.Shotgun].
+[30-06-18 17:33:43] 76561198045968247 "cashew" container -1 8329,11557,0 [Base.ShotgunShellsBox].
+[30-06-18 17:33:45] 76561198095440441 "aerosol birthday party" container -1 8329,11558,0 [Base.CannedCorn].
+[30-06-18 17:33:48] 76561198095440441 "aerosol birthday party" container -1 8329,11558,0 [Base.CannedBolognese].
+[30-06-18 17:33:49] 76561198045968247 "cashew" container -2 8329,11558,0 [Base.ShotgunShellsBox].
+[30-06-18 17:33:51] 76561198095440441 "aerosol birthday party" container -2 8329,11558,0 [Base.CannedCornedBeef].
+[30-06-18 17:34:02] 76561198095440441 "aerosol birthday party" floor +1 8330,11558,0 [Base.Trousers].
+[30-06-18 17:34:19] 76561198045968247 "cashew" container +0 8331,11559,0 [Base.Sheet].
+[30-06-18 17:34:40] 76561198045968247 "cashew" container +0 8331,11559,0 [Base.RollingPin].
+[30-06-18 17:36:24] 76561198095440441 "aerosol birthday party" container -1 8305,11553,0 [Base.JuiceBox].
+[30-06-18 17:37:25] 76561198045968247 "cashew" container -1 8282,11555,0 [Base.MetalworkMag1].
+[30-06-18 17:37:31] 76561198045968247 "cashew" container +0 8282,11555,0 [Base.MetalworkMag1].
+[30-06-18 17:37:42] 76561198095440441 "aerosol birthday party" container -1 8285,11553,0 [Base.Apple].
+[30-06-18 17:37:45] 76561198095440441 "aerosol birthday party" container -1 8285,11553,0 [farming.Cabbage].
+[30-06-18 17:37:48] 76561198095440441 "aerosol birthday party" container -1 8285,11553,0 [Base.Carrots].
+[30-06-18 17:39:13] 76561198045968247 "cashew" container -1 8257,11551,0 [Base.ElectronicsMag4].
+[30-06-18 17:39:19] 76561198045968247 "cashew" container -1 8257,11551,0 [Base.BookMechanic1].
+[30-06-18 17:39:19] 76561198045968247 "cashew" container +0 8257,11551,0 [Base.ElectronicsMag4].
+[30-06-18 17:39:24] 76561198095440441 "aerosol birthday party" container -1 8257,11547,0 [Base.TinOpener].
+[30-06-18 17:39:28] 76561198045968247 "cashew" container +0 8257,11551,0 [Base.BookFarming1].
+[30-06-18 17:46:15] 76561198095440441 "aerosol birthday party" container -1 8234,11557,0 [Base.Newspaper].
+[30-06-18 17:46:51] 76561198095440441 "aerosol birthday party" container -1 8227,11554,0 [Base.Woodglue].
+[30-06-18 17:46:52] 76561198045968247 "cashew" container -1 8228,11551,0 [Base.MetalworkMag2].
+[30-06-18 17:48:18] 76561198095440441 "aerosol birthday party" container -1 8219,11552,0 [Base.HuntingMag2].
+[30-06-18 17:49:06] 76561198095440441 "aerosol birthday party" container -1 8207,11556,1 [Base.NormalHikingBag].
+[30-06-18 17:49:17] 76561198095440441 "aerosol birthday party" floor +1 8213,11554,1 [Base.NormalHikingBag].
+[30-06-18 17:49:26] 76561198095440441 "aerosol birthday party" floor -1 8213,11554,1 [Base.NormalHikingBag].
+[30-06-18 17:49:28] 76561198045968247 "cashew" container -1 8207,11556,1 [Base.Sheet].
+[30-06-18 17:49:29] 76561198095440441 "aerosol birthday party" floor +1 8213,11554,1 [Base.Duffelbag].
+[30-06-18 17:49:36] 76561198095440441 "aerosol birthday party" container -2 8213,11554,1 [Base.CannedCarrots2, Base.TinnedSoup].
+[30-06-18 17:49:39] 76561198095440441 "aerosol birthday party" container -6 8213,11554,1 [Base.WhiskeyFull, Base.PeanutButter, Base.TinnedSoup, farming.BroccoliBagSeed, Base.Blouse, Base.TunaTin].
+[30-06-18 17:49:42] 76561198095440441 "aerosol birthday party" container -6 8213,11554,1 [Base.Leek, Base.Hammer, Base.TinnedSoup, Base.Chocolate, Base.DuctTape].
+[30-06-18 17:49:45] 76561198095440441 "aerosol birthday party" container -12 8213,11554,1 [Base.Nails, farming.StrewberrieBagSeed, Base.Wine2, Base.Macandcheese, farming.RedRadishBagSeed, Base.Processedcheese].
+[30-06-18 17:49:48] 76561198095440441 "aerosol birthday party" container -6 8213,11554,1 [Base.Woodglue, Base.WhiskeyFull, Base.Watermelon, Base.Key5].
+[30-06-18 17:49:51] 76561198095440441 "aerosol birthday party" container -3 8213,11554,1 [Base.CannedCornedBeef, Base.CannedCorn, Base.CannedBolognese].
+[30-06-18 17:49:54] 76561198095440441 "aerosol birthday party" container -3 8213,11554,1 [Base.TinOpener, Base.Woodglue, Base.CannedCornedBeef].
+[30-06-18 17:50:07] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.BookFirstAid1, Base.Bullets9mm].
+[30-06-18 17:50:10] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Pot, Base.Bullets9mm].
+[30-06-18 17:50:13] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.TinOpener, Base.Woodglue, Base.Screwdriver].
+[30-06-18 17:50:16] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Hammer].
+[30-06-18 17:50:19] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Glue, Base.Hammer, Base.FishingRod].
+[30-06-18 17:50:22] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Pan].
+[30-06-18 17:50:25] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Sheet].
+[30-06-18 17:50:28] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Sheet, Base.Bullets9mm, Base.BookCooking1].
+[30-06-18 17:50:31] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Bullets9mm, Base.Sheet].
+[30-06-18 17:50:34] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.WaterBottleFull, Base.RedPen, Base.NailsBox].
+[30-06-18 17:50:37] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Nails, Base.ElectronicsScrap, Base.Cube, Base.Bullets9mm, Base.WaterBottleFull].
+[30-06-18 17:50:40] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.Trousers, Base.ShotgunShellsBox, Base.Bullets9mm].
+[30-06-18 17:50:43] 76561198045968247 "cashew" container +0 8213,11554,1 [Base.BookMechanic1].
+[30-06-18 17:50:54] 76561198045968247 "cashew" floor -1 8213,11554,1 [Base.Duffelbag].
+[30-06-18 17:51:25] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.BookCooking1].
+[30-06-18 17:51:28] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.BookFirstAid1, Base.BookMechanic1].
+[30-06-18 17:51:40] 76561198045968247 "cashew" container -1 8209,11555,0 [Base.ElectronicsMag5].
+[30-06-18 17:51:51] 76561198095440441 "aerosol birthday party" container +0 8209,11556,0 [Base.HuntingMag3, Base.HuntingMag2, Base.MetalworkMag4, Base.MetalworkMag1].
+[30-06-18 17:52:01] 76561198045968247 "cashew" container +0 8209,11555,0 [Base.MetalworkMag2].
+[30-06-18 17:52:04] 76561198045968247 "cashew" container +0 8209,11555,0 [Base.ElectronicsMag5].
+[30-06-18 17:52:06] 76561198095440441 "aerosol birthday party" container +0 8209,11556,0 [Base.ElectronicsMag4].
+[30-06-18 17:52:46] 76561198045968247 "cashew" container +0 8207,11553,0 [Base.WaterBottleEmpty].
+[30-06-18 17:52:49] 76561198045968247 "cashew" floor +1 8209,11552,0 [Base.Schoolbag].
+[30-06-18 17:53:28] 76561198045968247 "cashew" container -1 8207,11551,0 [Base.Chocolate].
+[30-06-18 17:53:37] 76561198045968247 "cashew" container -1 8207,11550,0 [farming.Strewberrie].
+[30-06-18 17:55:21] 76561198095440441 "aerosol birthday party" container -1 8207,11551,0 [Base.Pan].
+[30-06-18 17:55:27] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.Pan].
+[30-06-18 17:55:56] 76561198045968247 "cashew" floor +1 8216,11562,0 [Base.Pan].
+[30-06-18 17:56:07] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Disinfectant].
+[30-06-18 17:56:10] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.PillsVitamins].
+[30-06-18 17:56:13] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Torch].
+[30-06-18 17:57:01] 76561198045968247 "cashew" container -1 8194,11549,1 [Base.Axe].
+[30-06-18 17:57:04] 76561198045968247 "cashew" container -1 8194,11549,1 [Base.NailsBox].
+[30-06-18 17:57:07] 76561198045968247 "cashew" container -6 8193,11549,1 [Base.ShotgunShells].
+[30-06-18 17:57:13] 76561198045968247 "cashew" container -2 8193,11549,1 [Base.ShotgunShells].
+[30-06-18 17:57:16] 76561198045968247 "cashew" container -4 8193,11549,1 [Base.ShotgunShells].
+[30-06-18 17:57:22] 76561198045968247 "cashew" container -5 8196,11552,1 [Base.Nails].
+[30-06-18 17:57:25] 76561198045968247 "cashew" container -6 8195,11552,1 [Base.ShotgunShells].
+[30-06-18 17:57:28] 76561198045968247 "cashew" container -1 8195,11552,1 [Base.DuctTape].
+[30-06-18 17:57:39] 76561198095440441 "aerosol birthday party" container -2 8200,11552,0 [Base.Crisps, Base.Crisps2].
+[30-06-18 17:57:45] 76561198095440441 "aerosol birthday party" container -1 8200,11552,0 [Base.OatsRaw].
+[30-06-18 17:57:52] 76561198045968247 "cashew" container -1 8198,11549,0 [Base.Bread].
+[30-06-18 17:57:57] 76561198095440441 "aerosol birthday party" container -1 8198,11549,0 [Base.Apple].
+[30-06-18 17:58:25] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.ElectronicsScrap, Base.Glue, Base.Cube].
+[30-06-18 17:58:31] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Pot, Base.Sheet].
+[30-06-18 17:58:34] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Sheet].
+[30-06-18 17:58:37] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Sheet, Base.FishingRod].
+[30-06-18 17:58:40] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Pan].
+[30-06-18 17:58:43] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Hammer].
+[30-06-18 17:58:46] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Hammer].
+[30-06-18 17:58:49] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Nails, Base.NailsBox].
+[30-06-18 17:58:52] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Nails, Base.DuctTape].
+[30-06-18 17:59:16] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Nails].
+[30-06-18 17:59:19] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.NailsBox].
+[30-06-18 17:59:22] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Trousers].
+[30-06-18 17:59:49] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.ShotgunShells].
+[30-06-18 17:59:52] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.ShotgunShells].
+[30-06-18 17:59:55] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Bullets9mm].
+[30-06-18 17:59:58] 76561198045968247 "cashew" container +0 8212,11550,1 [Base.Bullets9mm].
+[30-06-18 18:01:07] 76561198045968247 "cashew" container -1 8217,11600,0 [Base.CannedCornedBeef].
+[30-06-18 18:01:10] 76561198045968247 "cashew" container -2 8217,11600,0 [Base.TinnedSoup, Base.Chocolate].
+[30-06-18 18:01:16] 76561198045968247 "cashew" container -1 8217,11603,0 [Base.Bullets9mm].
+[30-06-18 18:01:22] 76561198045968247 "cashew" container -4 8217,11603,0 [Base.Bullets9mm].
+[30-06-18 18:01:30] 76561198095440441 "aerosol birthday party" container -1 8217,11599,1 [Base.BaseballBat].
+[30-06-18 18:01:45] 76561198095440441 "aerosol birthday party" container -1 8224,11592,1 [Base.BaseballBat].
+[30-06-18 18:01:58] 76561198045968247 "cashew" container -1 8220,11604,1 [Base.NailsBox].
+[30-06-18 18:02:22] 76561198045968247 "cashew" container -1 8228,11598,0 [Base.HuntingMag3].
+[30-06-18 18:02:28] 76561198045968247 "cashew" container -1 8228,11598,0 [Base.EmptyPetrolCan].
+[30-06-18 18:02:31] 76561198045968247 "cashew" container -1 8228,11597,0 [Base.DuctTape].
+[30-06-18 18:02:42] 76561198095440441 "aerosol birthday party" floor +1 8222,11592,1 [Base.Blouse].
+[30-06-18 18:03:30] 76561198095440441 "aerosol birthday party" container -1 8217,11602,0 [Base.Crisps2].
+[30-06-18 18:03:37] 76561198045968247 "cashew" container -4 8249,11612,0 [Base.Bullets9mm].
+[30-06-18 18:03:40] 76561198045968247 "cashew" container -2 8249,11612,0 [Base.AlarmClock2, Base.Bullets9mm].
+[30-06-18 18:05:12] 76561198095440441 "aerosol birthday party" container -1 8209,11596,1 [Base.Disinfectant].
+[30-06-18 18:05:15] 76561198095440441 "aerosol birthday party" container -1 8209,11596,1 [Base.PillsSleepingTablets].
+[30-06-18 18:05:16] 76561198045968247 "cashew" container -1 8204,11598,1 [Base.MechanicMag1].
+[30-06-18 18:05:21] 76561198095440441 "aerosol birthday party" container -1 8209,11596,1 [Base.PillsVitamins].
+[30-06-18 18:05:31] 76561198045968247 "cashew" container -6 8206,11601,1 [Base.Nails, Base.DuctTape].
+[30-06-18 18:05:33] 76561198095440441 "aerosol birthday party" container -1 8209,11595,1 [Base.BathTowel].
+[30-06-18 18:06:09] 76561198095440441 "aerosol birthday party" container -1 8209,11599,0 [Base.Ham].
+[30-06-18 18:06:36] 76561198095440441 "aerosol birthday party" container -1 8211,11600,0 [Base.WaterBottleFull].
+[30-06-18 18:07:06] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.OatsRaw].
+[30-06-18 18:07:16] 76561198045968247 "cashew" container -5 8177,11601,0 [Base.Nails].
+[30-06-18 18:07:21] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.CannedBolognese].
+[30-06-18 18:07:22] 76561198045968247 "cashew" container -1 8184,11601,0 [Base.MetalworkMag4].
+[30-06-18 18:07:24] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.CannedCarrots2, Base.CannedCorn].
+[30-06-18 18:07:28] 76561198045968247 "cashew" container -1 8184,11601,0 [Base.BookFirstAid1].
+[30-06-18 18:07:30] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.CannedCornedBeef].
+[30-06-18 18:07:33] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.TinnedSoup].
+[30-06-18 18:07:36] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.TinnedSoup, Base.Chocolate].
+[30-06-18 18:07:39] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.Chocolate].
+[30-06-18 18:07:48] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.PeanutButter, Base.Macandcheese, farming.RedRadishBagSeed, Base.Processedcheese].
+[30-06-18 18:07:51] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [farming.BroccoliBagSeed].
+[30-06-18 18:07:57] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.Pan].
+[30-06-18 18:08:01] 76561198045968247 "cashew" container -2 8183,11593,1 [Base.Disinfectant].
+[30-06-18 18:08:03] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.Wine2].
+[30-06-18 18:08:06] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [farming.StrewberrieBagSeed, Base.TunaTin].
+[30-06-18 18:08:09] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.WhiskeyFull].
+[30-06-18 18:08:12] 76561198095440441 "aerosol birthday party" container +0 8207,11553,0 [Base.WhiskeyFull].
+[30-06-18 18:08:55] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.HuntingMag3, Base.MetalworkMag4, Base.MechanicMag1].
+[30-06-18 18:08:58] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.BookFirstAid1].
+[30-06-18 18:09:04] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Nails, Base.NailsBox].
+[30-06-18 18:09:07] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Disinfectant, Base.DuctTape].
+[30-06-18 18:09:10] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.EmptyPetrolCan, Base.AlarmClock2].
+[30-06-18 18:13:42] 76561198095440441 "aerosol birthday party" container -6 8163,11603,0 [Base.Nails, Base.Scotchtape].
+[30-06-18 18:13:48] 76561198095440441 "aerosol birthday party" container -1 8163,11603,0 [Base.Saw].
+[30-06-18 18:14:39] 76561198095440441 "aerosol birthday party" container -1 8169,11603,1 [Base.Key1].
+[30-06-18 18:14:42] 76561198095440441 "aerosol birthday party" container -1 8169,11603,1 [Base.Pills].
+[30-06-18 18:15:06] 76561198095440441 "aerosol birthday party" container -5 8166,11596,1 [Base.Bullets9mm].
+[30-06-18 18:15:34] 76561198045968247 "cashew" container -1 8239,11553,1 [Base.DuctTape].
+[30-06-18 18:15:39] 76561198095440441 "aerosol birthday party" container -1 8171,11601,0 [farming.RedRadishBagSeed].
+[30-06-18 18:15:42] 76561198095440441 "aerosol birthday party" container -1 8171,11601,0 [Base.Honey].
+[30-06-18 18:15:45] 76561198095440441 "aerosol birthday party" container -2 8171,11601,0 [Base.Dogfood, Base.Chocolate].
+[30-06-18 18:15:51] 76561198095440441 "aerosol birthday party" container -1 8171,11600,0 [Base.Crisps2].
+[30-06-18 18:15:54] 76561198095440441 "aerosol birthday party" container -2 8171,11603,0 [Base.CannedChili, Base.CannedTomato2].
+[30-06-18 18:16:00] 76561198095440441 "aerosol birthday party" container -1 8171,11604,0 [Base.Banana].
+[30-06-18 18:16:03] 76561198095440441 "aerosol birthday party" container -1 8171,11604,0 [Base.Corn].
+[30-06-18 18:16:06] 76561198095440441 "aerosol birthday party" container -1 8171,11604,0 [Base.PopBottle].
+[30-06-18 18:16:12] 76561198095440441 "aerosol birthday party" container -2 8171,11604,0 [Base.Watermelon, Base.Yoghurt].
+[30-06-18 18:16:45] 76561198095440441 "aerosol birthday party" container -1 8156,11601,0 [Base.NailsBox].
+[30-06-18 18:16:54] 76561198095440441 "aerosol birthday party" container -1 8157,11601,0 [Base.DuctTape].
+[30-06-18 18:18:18] 76561198095440441 "aerosol birthday party" container -1 8149,11541,0 [farming.RedRadishBagSeed].
+[30-06-18 18:18:21] 76561198095440441 "aerosol birthday party" container -3 8149,11541,0 [Base.Crisps, Base.Crisps2].
+[30-06-18 18:18:24] 76561198095440441 "aerosol birthday party" container -2 8149,11541,0 [Base.CannedPotato2, Base.Cereal].
+[30-06-18 18:18:36] 76561198095440441 "aerosol birthday party" container -1 8151,11540,0 [Base.Eggplant].
+[30-06-18 18:18:39] 76561198095440441 "aerosol birthday party" container -1 8151,11540,0 [farming.Tomato].
+[30-06-18 18:18:48] 76561198095440441 "aerosol birthday party" container -1 8151,11540,0 [Base.Tofu].
+[30-06-18 18:18:49] 76561198045968247 "cashew" container -5 8134,11542,0 [Base.Nails].
+[30-06-18 18:18:52] 76561198045968247 "cashew" container -1 8134,11542,0 [Base.Scotchtape].
+[30-06-18 18:19:13] 76561198045968247 "cashew" container -1 8143,11546,0 [Base.ElectronicsMag3].
+[30-06-18 18:19:19] 76561198045968247 "cashew" container -2 8143,11546,0 [Base.BookElectrician1, Base.BookCarpentry1].
+[30-06-18 18:19:22] 76561198045968247 "cashew" container -2 8143,11546,0 [Base.BookMechanic1, Base.BookCarpentry2].
+[30-06-18 18:19:37] 76561198045968247 "cashew" container -1 8136,11543,0 [Base.NailsBox].
+[30-06-18 18:21:07] 76561198045968247 "cashew" container -5 8085,11552,0 [Base.Nails].
+[30-06-18 18:24:04] 76561198045968247 "cashew" container -1 8126,11590,1 [Base.CookingMag1].
+[30-06-18 18:24:10] 76561198045968247 "cashew" container -1 8124,11591,1 [Base.CannedPeas].
+[30-06-18 18:24:13] 76561198045968247 "cashew" container -3 8124,11591,1 [Base.CannedSardines, Base.CannedPotato2].
+[30-06-18 18:24:16] 76561198045968247 "cashew" container -1 8124,11591,1 [Base.CannedTomato2].
+[30-06-18 18:24:40] 76561198045968247 "cashew" container -1 8124,11592,1 [Base.PillsSleepingTablets].
+[30-06-18 18:24:45] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.CannedChili, Base.CannedPotato2].
+[30-06-18 18:24:48] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.Crisps2, Base.Cereal, Base.CannedTomato2].
+[30-06-18 18:24:51] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.Crisps, Base.Chocolate].
+[30-06-18 18:24:54] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.Dogfood].
+[30-06-18 18:24:57] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.Honey].
+[30-06-18 18:25:00] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [Base.PopBottle].
+[30-06-18 18:25:03] 76561198095440441 "aerosol birthday party" container +0 8207,11551,0 [farming.RedRadishBagSeed].
+[30-06-18 18:25:34] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.BookCarpentry1, Base.BookCarpentry2].
+[30-06-18 18:25:37] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.ElectronicsMag3, Base.BookElectrician1, Base.BookMechanic1].
+[30-06-18 18:25:40] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.CookingMag1].
+[30-06-18 18:25:49] 76561198045968247 "cashew" container +0 8207,11553,0 [Base.CannedCornedBeef, Base.TinnedSoup, Base.Chocolate].
+[30-06-18 18:25:55] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Nails].
+[30-06-18 18:26:04] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Screwdriver, Base.RedPen].
+[30-06-18 18:26:07] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Bullets9mm].
+[30-06-18 18:26:10] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Bullets9mm].
+[30-06-18 18:26:13] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Bullets9mm, Base.Scotchtape, Base.NailsBox].
+[30-06-18 18:26:16] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.TinCanEmpty, Base.DuctTape].
+[30-06-18 18:26:19] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.Nails, Base.PillsSleepingTablets].
+[30-06-18 18:26:40] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.FirstAidKit].
+[30-06-18 18:26:46] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:26:49] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:26:52] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:26:55] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:26:58] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:27:01] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.ShotgunShells].
+[30-06-18 18:28:36] 76561198045968247 "cashew" floor -1 8062,11589,0 [Base.CarKey].
+[30-06-18 18:29:08] 76561198045968247 "cashew" floor -1 8050,11609,0 [Base.CarKey].
+[30-06-18 18:29:12] 76561198045968247 "cashew" floor -1 8045,11605,0 [Base.CarKey].
+[30-06-18 18:29:36] 76561198095440441 "aerosol birthday party" container -1 8126,11619,1 [Base.Woodglue].
+[30-06-18 18:29:37] 76561198045968247 "cashew" container -1 8049,11611,0 [Base.DigitalWatch2].
+[30-06-18 18:29:57] 76561198095440441 "aerosol birthday party" container -1 8128,11622,0 [Base.CakeSlice].
+[30-06-18 18:30:00] 76561198095440441 "aerosol birthday party" container -1 8128,11622,0 [Base.Carrots].
+[30-06-18 18:30:03] 76561198095440441 "aerosol birthday party" container -1 8128,11622,0 [Base.Leek].
+[30-06-18 18:30:09] 76561198095440441 "aerosol birthday party" container -1 8128,11622,0 [Base.WaterBottleFull].
+[30-06-18 18:30:24] 76561198095440441 "aerosol birthday party" floor -1 8134,11618,0 [Base.Plank].
+[30-06-18 18:30:32] 76561198095440441 "aerosol birthday party" floor -1 8134,11618,0 [Base.Plank].
+[30-06-18 18:32:10] 76561198095440441 "aerosol birthday party" floor -1 8199,11561,0 [Base.Plank].
+[30-06-18 18:32:42] 76561198095440441 "aerosol birthday party" floor -1 8240,11561,0 [Base.Plank].
+[30-06-18 18:32:53] 76561198095440441 "aerosol birthday party" floor -1 8240,11552,0 [Base.Plank].
+[30-06-18 18:32:56] 76561198095440441 "aerosol birthday party" floor -1 8240,11552,0 [Base.Plank].
+[30-06-18 18:33:05] 76561198095440441 "aerosol birthday party" floor -1 8237,11550,0 [Base.Plank].
+[30-06-18 18:33:08] 76561198095440441 "aerosol birthday party" floor -1 8237,11550,0 [Base.Plank].
+[30-06-18 18:33:34] 76561198045968247 "cashew" floor +1 8221,11563,0 [Base.Banana].
+[30-06-18 18:33:34] 76561198045968247 "cashew" container -3 8221,11560,0 [Base.Banana, Base.CannedCarrots2, Base.CannedChili].
+[30-06-18 18:35:08] 76561198045968247 "cashew" floor +1 8208,11536,0 [Base.Log].
+[30-06-18 18:35:08] 76561198045968247 "cashew" floor +1 8208,11536,0 [Base.Twigs].
+[30-06-18 18:35:08] 76561198045968247 "cashew" floor +1 8208,11536,0 [Base.Log].
+[30-06-18 18:35:08] 76561198045968247 "cashew" floor +1 8208,11536,0 [Base.Twigs].
+[30-06-18 18:35:12] 76561198095440441 "aerosol birthday party" container -18 8214,11551,0 [Base.Nails, Base.NailsBox].
+[30-06-18 18:35:14] 76561198045968247 "cashew" floor -1 8208,11536,0 [Base.Log].
+[30-06-18 18:35:15] 76561198095440441 "aerosol birthday party" container -9 8214,11551,0 [Base.Nails].
+[30-06-18 18:35:17] 76561198045968247 "cashew" floor -1 8208,11536,0 [Base.Log].
+[30-06-18 18:35:17] 76561198045968247 "cashew" floor -1 8208,11536,0 [Base.Twigs].
+[30-06-18 18:35:17] 76561198045968247 "cashew" floor -1 8208,11536,0 [Base.Twigs].
+[30-06-18 18:36:02] 76561198045968247 "cashew" floor +1 8210,11557,0 [Base.Log].
+[30-06-18 18:36:02] 76561198045968247 "cashew" floor +1 8210,11557,0 [Base.Log].
+[30-06-18 18:36:03] 76561198045968247 "cashew" floor +1 8210,11557,0 [Base.Twigs].
+[30-06-18 18:36:03] 76561198045968247 "cashew" floor +1 8210,11557,0 [Base.Twigs].
+[30-06-18 18:36:34] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Log].
+[30-06-18 18:36:34] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:34] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:34] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:39] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Log].
+[30-06-18 18:36:39] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:39] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:39] 76561198095440441 "aerosol birthday party" floor +1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:40] 76561198045968247 "cashew" container -3 8214,11551,0 [Base.DuctTape].
+[30-06-18 18:36:44] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:47] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:50] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:53] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:36:57] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:37:00] 76561198095440441 "aerosol birthday party" floor -1 8210,11557,0 [Base.Plank].
+[30-06-18 18:37:28] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.DuctTape].
+[30-06-18 18:37:31] 76561198045968247 "cashew" container +0 8214,11551,0 [Base.DuctTape].
+[30-06-18 18:37:55] 76561198045968247 "cashew" floor +1 8212,11535,0 [Base.Log].
+[30-06-18 18:37:55] 76561198045968247 "cashew" floor +1 8212,11535,0 [Base.Log].
+[30-06-18 18:37:59] 76561198045968247 "cashew" floor +1 8213,11534,0 [Base.Log].
+[30-06-18 18:37:59] 76561198045968247 "cashew" floor +1 8213,11534,0 [Base.Twigs].
+[30-06-18 18:37:59] 76561198045968247 "cashew" floor +1 8213,11534,0 [Base.Log].
+[30-06-18 18:37:59] 76561198045968247 "cashew" floor +1 8213,11534,0 [Base.TreeBranch].
+[30-06-18 18:37:59] 76561198045968247 "cashew" floor +1 8213,11534,0 [Base.Twigs].
+[30-06-18 18:38:05] 76561198045968247 "cashew" floor +1 8213,11536,0 [Base.Log].
+[30-06-18 18:38:05] 76561198045968247 "cashew" floor +1 8213,11536,0 [Base.Log].
+[30-06-18 18:38:16] 76561198045968247 "cashew" floor +1 8213,11535,0 [Base.Log].
+[30-06-18 18:38:16] 76561198045968247 "cashew" floor +1 8213,11535,0 [Base.Log].
+[30-06-18 18:38:16] 76561198045968247 "cashew" floor +1 8213,11535,0 [Base.TreeBranch].
+[30-06-18 18:38:21] 76561198045968247 "cashew" floor -1 8212,11535,0 [Base.Log].
+[30-06-18 18:38:24] 76561198045968247 "cashew" floor -1 8212,11535,0 [Base.Log].
+[30-06-18 18:38:30] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.Bullets9mm].
+[30-06-18 18:38:36] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.Scotchtape].
+[30-06-18 18:38:42] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.BaseballBat].
+[30-06-18 18:38:51] 76561198045968247 "cashew" floor +1 8210,11551,0 [Base.Log].
+[30-06-18 18:38:51] 76561198045968247 "cashew" floor +1 8210,11551,0 [Base.Log].
+[30-06-18 18:38:57] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.DuctTape].
+[30-06-18 18:39:00] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.Glue, Base.DuctTape].
+[30-06-18 18:39:03] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.HuntingKnife].
+[30-06-18 18:39:06] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.Woodglue, Base.Rope].
+[30-06-18 18:39:08] 76561198045968247 "cashew" floor -1 8213,11536,0 [Base.Log].
+[30-06-18 18:39:09] 76561198095440441 "aerosol birthday party" container +0 8214,11551,0 [Base.Woodglue].
+[30-06-18 18:39:13] 76561198045968247 "cashew" floor -1 8213,11536,0 [Base.Log].
+[30-06-18 18:39:16] 76561198045968247 "cashew" floor -1 8213,11535,0 [Base.Log].
+[30-06-18 18:39:20] 76561198045968247 "cashew" floor -1 8213,11535,0 [Base.Log].
+[30-06-18 18:39:26] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Log].
+[30-06-18 18:39:26] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:27] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:27] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:31] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Log].
+[30-06-18 18:39:31] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:31] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:31] 76561198095440441 "aerosol birthday party" floor +1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:35] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:36] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Log].
+[30-06-18 18:39:37] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Log].
+[30-06-18 18:39:37] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Log].
+[30-06-18 18:39:38] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:41] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Log].
+[30-06-18 18:39:42] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:48] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:39:51] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:40:03] 76561198095440441 "aerosol birthday party" container -1 8209,11556,0 [Base.BookCarpentry1].
+[30-06-18 18:40:05] 76561198045968247 "cashew" floor -1 8213,11534,0 [Base.Log].
+[30-06-18 18:40:05] 76561198045968247 "cashew" floor -1 8213,11534,0 [Base.TreeBranch].
+[30-06-18 18:40:06] 76561198045968247 "cashew" floor -1 8213,11534,0 [Base.Twigs].
+[30-06-18 18:40:06] 76561198045968247 "cashew" floor -1 8213,11534,0 [Base.Twigs].
+[30-06-18 18:40:11] 76561198045968247 "cashew" floor -1 8213,11534,0 [Base.Log].
+[30-06-18 18:40:15] 76561198095440441 "aerosol birthday party" floor -1 8210,11551,0 [Base.Plank].
+[30-06-18 18:40:28] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Log].
+[30-06-18 18:40:28] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.TreeBranch].
+[30-06-18 18:40:29] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Twigs].
+[30-06-18 18:40:29] 76561198045968247 "cashew" floor +1 8211,11551,0 [Base.Twigs].
+[30-06-18 18:40:40] 76561198045968247 "cashew" floor -1 8213,11535,0 [Base.TreeBranch].
+[30-06-18 18:40:46] 76561198045968247 "cashew" floor +1 8216,11535,0 [Base.Log].
+[30-06-18 18:40:46] 76561198045968247 "cashew" floor +1 8216,11535,0 [Base.TreeBranch].
+[30-06-18 18:40:46] 76561198045968247 "cashew" floor +1 8216,11535,0 [Base.Twigs].
+[30-06-18 18:40:46] 76561198045968247 "cashew" floor +1 8216,11535,0 [Base.Log].
+[30-06-18 18:40:52] 76561198045968247 "cashew" floor +1 8215,11535,0 [Base.Log].
+[30-06-18 18:40:52] 76561198045968247 "cashew" floor +1 8215,11535,0 [Base.Twigs].
+[30-06-18 18:40:52] 76561198045968247 "cashew" floor +1 8215,11535,0 [Base.Log].
+[30-06-18 18:40:52] 76561198045968247 "cashew" floor +1 8215,11535,0 [Base.TreeBranch].
+[30-06-18 18:40:52] 76561198045968247 "cashew" floor +1 8215,11535,0 [Base.Twigs].
+[30-06-18 18:40:56] 76561198045968247 "cashew" floor +1 8217,11534,0 [Base.Log].
+[30-06-18 18:40:56] 76561198045968247 "cashew" floor +1 8217,11534,0 [Base.Log].
+[30-06-18 18:40:59] 76561198045968247 "cashew" floor +1 8216,11534,0 [Base.Log].
+[30-06-18 18:40:59] 76561198045968247 "cashew" floor +1 8216,11534,0 [Base.TreeBranch].
+[30-06-18 18:40:59] 76561198045968247 "cashew" floor +1 8216,11534,0 [Base.Log].
+[30-06-18 18:40:59] 76561198045968247 "cashew" floor +1 8216,11534,0 [Base.Twigs].
+[30-06-18 18:41:05] 76561198045968247 "cashew" floor +1 8218,11534,0 [Base.Log].
+[30-06-18 18:41:05] 76561198045968247 "cashew" floor +1 8218,11534,0 [Base.Twigs].
+[30-06-18 18:41:05] 76561198045968247 "cashew" floor +1 8218,11534,0 [Base.Log].
+[30-06-18 18:41:10] 76561198045968247 "cashew" floor -1 8218,11534,0 [Base.Log].
+[30-06-18 18:41:21] 76561198045968247 "cashew" floor -1 8218,11534,0 [Base.Log].
+[30-06-18 18:41:22] 76561198045968247 "cashew" floor -1 8218,11534,0 [Base.Twigs].
+[30-06-18 18:41:46] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Log].
+[30-06-18 18:41:47] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Log].
+[30-06-18 18:41:50] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Twigs].
+[30-06-18 18:41:50] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.TreeBranch].
+[30-06-18 18:41:52] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Log].
+[30-06-18 18:42:04] 76561198045968247 "cashew" floor -1 8216,11535,0 [Base.Log].
+[30-06-18 18:42:05] 76561198045968247 "cashew" floor -1 8216,11535,0 [Base.TreeBranch].
+[30-06-18 18:42:05] 76561198045968247 "cashew" floor -1 8215,11535,0 [Base.TreeBranch].
+[30-06-18 18:42:06] 76561198045968247 "cashew" floor -1 8216,11534,0 [Base.TreeBranch].
+[30-06-18 18:42:06] 76561198045968247 "cashew" floor -1 8216,11535,0 [Base.Twigs].
+[30-06-18 18:42:06] 76561198045968247 "cashew" floor -1 8215,11535,0 [Base.Twigs].
+[30-06-18 18:42:07] 76561198045968247 "cashew" floor -1 8215,11535,0 [Base.Twigs].
+[30-06-18 18:42:07] 76561198045968247 "cashew" floor -1 8216,11534,0 [Base.Twigs].
+[30-06-18 18:42:12] 76561198045968247 "cashew" floor -1 8216,11535,0 [Base.Log].
+[30-06-18 18:42:21] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Log].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Twigs].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Twigs].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Twigs].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Twigs].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.TreeBranch].
+[30-06-18 18:42:23] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.TreeBranch].
+[30-06-18 18:42:24] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.TreeBranch].
+[30-06-18 18:42:25] 76561198045968247 "cashew" floor +1 8211,11550,0 [Base.Log].
+[30-06-18 18:43:04] 76561198045968247 "cashew" container -1 8209,11556,0 [Base.BookMechanic1].
+[30-06-18 18:49:41] 76561198095440441 "aerosol birthday party" floor -1 8211,11551,0 [Base.Log].
+[30-06-18 18:49:41] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:41] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:41] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:46] 76561198095440441 "aerosol birthday party" floor -1 8211,11551,0 [Base.Log].
+[30-06-18 18:49:46] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:46] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:46] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:51] 76561198095440441 "aerosol birthday party" floor -1 8211,11551,0 [Base.Log].
+[30-06-18 18:49:51] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:51] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:51] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:56] 76561198095440441 "aerosol birthday party" floor -1 8211,11551,0 [Base.Log].
+[30-06-18 18:49:56] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:56] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:49:56] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:01] 76561198095440441 "aerosol birthday party" floor -1 8211,11551,0 [Base.Log].
+[30-06-18 18:50:01] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:01] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:01] 76561198095440441 "aerosol birthday party" floor +1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:07] 76561198095440441 "aerosol birthday party" floor -1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:10] 76561198095440441 "aerosol birthday party" floor -1 8211,11552,0 [Base.Plank].
+[30-06-18 18:50:13] 76561198095440441 "aerosol birthday party" floor -1 8211,11552,0 [Base.Plank].
+[30-06-18 18:52:39] 76561198095440441 "aerosol birthday party" container -1 8207,11550,0 [Base.Lettuce].
+[30-06-18 18:53:18] 76561198095440441 "aerosol birthday party" container +0 8207,11550,0 [Base.WatermelonSliced].
+[30-06-18 18:53:21] 76561198095440441 "aerosol birthday party" container +0 8207,11550,0 [Base.WatermelonSliced].
+[30-06-18 18:53:24] 76561198095440441 "aerosol birthday party" container +0 8207,11550,0 [Base.WatermelonSliced].
+[30-06-18 18:53:31] 76561198045968247 "cashew" container +0 8209,11556,0 [Base.BookMechanic1].
+[30-06-18 18:53:33] 76561198095440441 "aerosol birthday party" container +0 8209,11556,0 [Base.BookCarpentry1].
+[30-06-18 18:54:03] 76561198095440441 "aerosol birthday party" container -1 8209,11556,0 [Base.Magazine].
+[30-06-18 18:55:13] 76561198045968247 "cashew" container -2 8234,11557,1 [Base.ShotgunShellsBox].
+[30-06-18 18:55:55] 76561198045968247 "cashew" container -5 8230,11552,0 [Base.Nails].
+[30-06-18 18:55:58] 76561198045968247 "cashew" container -1 8230,11552,0 [Base.NailsBox].
+[30-06-18 18:56:07] 76561198045968247 "cashew" container -1 8227,11551,0 [Base.NailsBox].
+[30-06-18 18:56:10] 76561198045968247 "cashew" container -1 8227,11551,0 [Base.Screwdriver].
+[30-06-18 19:00:49] 76561198045968247 "cashew" container +0 8219,11552,0 [Base.LightBulb, Base.TinCanEmpty, Base.CarBattery1].
+[30-06-18 19:00:52] 76561198045968247 "cashew" container +0 8219,11552,0 [Base.TinCanEmpty].
+[30-06-18 19:07:28] 76561198045968247 "cashew" container -1 8207,11553,1 [Base.BathTowel].
+[30-06-18 19:07:31] 76561198045968247 "cashew" container -1 8207,11553,1 [Base.BathTowel].
+[30-06-18 19:07:37] 76561198045968247 "cashew" container +0 8207,11553,1 [Base.BathTowelWet].
+[30-06-18 19:07:52] 76561198045968247 "cashew" container -4 8219,11552,0 [Base.LightBulb].
+[30-06-18 19:07:55] 76561198045968247 "cashew" container -1 8219,11552,0 [Base.CarBattery1].
+[30-06-18 19:08:04] 76561198045968247 "cashew" container -1 8222,11554,0 [Base.MetalworkMag3].
+[30-06-18 19:08:13] 76561198045968247 "cashew" container -1 8219,11556,0 [Base.EmptyPetrolCan].
+[30-06-18 19:08:16] 76561198045968247 "cashew" container +0 8219,11556,0 [Base.MetalworkMag3].

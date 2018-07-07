@@ -1,0 +1,2377 @@
+06-07-2018 23:30:05
+cachedir is "C:\Users\conmc\Zomboid"
+-- listing properties --
+java.runtime.name=Java(TM) SE Runtime Environment
+sun.boot.library.path=A:\SteamLibrary\steamapps\common\Proj...
+java.vm.version=25.121-b13
+java.vm.vendor=Oracle Corporation
+java.vendor.url=http://java.oracle.com/
+path.separator=;
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg=sun.io
+user.script=
+user.country=US
+sun.os.patch.level=
+java.vm.specification.name=Java Virtual Machine Specification
+user.dir=A:\SteamLibrary\steamapps\common\Proj...
+java.runtime.version=1.8.0_121-b13
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs=A:\SteamLibrary\steamapps\common\Proj...
+os.arch=amd64
+java.io.tmpdir=C:\tmp\
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+user.variant=
+os.name=Windows 10
+sun.jnu.encoding=Cp1252
+zomboid.steam=1
+java.library.path=natives/;.
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+zomboid.znetlog=1
+os.version=10.0
+user.home=C:\Users\conmc
+user.timezone=America/Los_Angeles
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+file.encoding=Cp1252
+java.specification.version=1.8
+user.name=conmc
+java.class.path=.;jinput.jar;lwjgl.jar;lwjgl_util.jar...
+java.vm.specification.version=1.8
+sun.arch.data.model=64
+java.home=A:\SteamLibrary\steamapps\common\Proj...
+java.specification.vendor=Oracle Corporation
+user.language=en
+awt.toolkit=sun.awt.windows.WToolkit
+java.vm.info=mixed mode
+java.version=1.8.0_121
+java.ext.dirs=A:\SteamLibrary\steamapps\common\Proj...
+sun.boot.class.path=A:\SteamLibrary\steamapps\common\Proj...
+sun.stderr.encoding=cp437
+java.vendor=Oracle Corporation
+file.separator=\
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+sun.cpu.endian=little
+sun.io.unicode.encoding=UnicodeLittle
+sun.stdout.encoding=cp437
+sun.desktop=windows
+sun.cpu.isalist=amd64
+-----
+versionNumber=39.67.5 demo=false
+1530945005900 [javafmodJNI] Init: Start
+1530945005904 [javafmodJNI] Init: WIN 64
+1530945006073 fmod: Java loging: OK
+1530945006075 fmod: System Create: OK
+1530945006121 fmod: Create DSP for capture sound
+LightingFPS set to 15
+1530945007279 OpenGL version: 4.6.0 NVIDIA 388.71
+1530945007284 Desktop resolution 1920x1080
+1530945007284 Initial resolution 1920x1017 fullScreen=false
+OpenGL 1.5 buffer objects supported
+1530945007422 NVIDIA: current available GPU memory is 2921 MB
+1530945007422 NVIDIA: dedicated available GPU memory is 4096 MB
+1530945007423 NVIDIA: total available GPU memory is 4096 MB
+Jul 06, 2018 11:30:08 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+1530945008555 Loading networking libraries...
+1530945008555 Loading steam_api64...
+1530945008556 Loading RakNet64...
+1530945008605 Loading ZNetJNI64...
+1530945008672 znet: ZNet loaded
+1530945008673 znet: Compiled with SERVER_STEAMAPI == 0
+1530945008673 znet: Starting with bServer == false
+1530945008674 znet: SteamAPI initialised successfully
+1530945008674 SteamUtils initialised successfully
+1530945008710 znet: Java_zombie_core_znet_SteamWorkshop_n_1Init
+1530945008981 translator: language is EN
+1530945009109 texturepack: loading UI
+1530945009707 texturepack: finished loading UI
+1530945009709 texturepack: loading UI2
+1530945009955 texturepack: finished loading UI2
+1530945009956 texturepack: loading IconsMoveables
+1530945009961 texturepack: finished loading IconsMoveables
+1530945009962 texturepack: loading RadioIcons
+1530945009969 texturepack: finished loading RadioIcons
+1530945009969 texturepack: loading ApComUI
+1530945009978 texturepack: finished loading ApComUI
+1530945010015 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_battery.txt
+1530945010232 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_brake.txt
+1530945010239 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_door.txt
+1530945010245 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine.txt
+1530945010251 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine_door.txt
+1530945010257 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_gastank.txt
+1530945010265 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_glovebox.txt
+1530945010271 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_headlight.txt
+1530945010277 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_heater.txt
+1530945010283 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_muffler.txt
+1530945010289 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger.txt
+1530945010297 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger_compartment.txt
+1530945010305 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_radio.txt
+1530945010313 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_seat.txt
+1530945010320 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_suspension.txt
+1530945010327 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_tire.txt
+1530945010336 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk.txt
+1530945010345 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk_door.txt
+1530945010351 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_window.txt
+1530945010359 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_windshield.txt
+1530945010368 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\Lot_Rural_Farmhouse_00_distribution.txt
+1530945010396 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\camping.txt
+1530945010801 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\evolvedrecipes.txt
+1530945010824 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farmdistribution.txt
+1530945010830 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farming.txt
+1530945010860 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\fixing.txt
+1530945010895 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items.txt
+1530945011042 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items_radio.txt
+1530945011069 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\moveables.txt
+1530945011076 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\multistagebuild.txt
+1530945011093 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\newitems.txt
+1530945011295 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\beenbit.txt
+1530945012853 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\chewedbyzombies.txt
+1530945012859 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingalreadymembers.txt
+1530945012874 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetinghub.txt
+1530945012885 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingsloner.txt
+1530945012894 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingteamup.txt
+1530945012902 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveaggressive.txt
+1530945012908 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveneutral.txt
+1530945012919 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerfriendlyneutral.txt
+1530945012925 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerneutralaggressive.txt
+1530945012934 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupaggressiveaggressive.txt
+1530945012942 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupneutralaggressive.txt
+1530945012950 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\givenitem.txt
+1530945012956 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\killedzombie.txt
+1530945012963 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainalreadymembers.txt
+1530945012971 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainhub.txt
+1530945012984 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainloner.txt
+1530945012998 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainteamup.txt
+1530945013006 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\npcgroupcommands.txt
+1530945013015 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\patchedup.txt
+1530945013027 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalk.txt
+1530945013046 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkbleeding.txt
+1530945013060 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeing.txt
+1530945013066 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeingbleeding.txt
+1530945013072 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes.txt
+1530945013096 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes_radio.txt
+1530945013102 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\suburbsdistribution.txt
+1530945013140 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\uniquerecipes.txt
+1530945013153 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\burntvehicles.txt
+1530945013263 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\carnormal.txt
+1530945013370 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\smallcar.txt
+1530945013471 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\sportcar.txt
+1530945013512 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vans.txt
+1530945013541 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carluxury.txt
+1530945013570 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern.txt
+1530945013615 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern02.txt
+1530945013655 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_offroad.txt
+1530945013687 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_smallcar02.txt
+1530945013749 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_suv.txt
+1530945013767 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi.txt
+1530945013777 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi2.txt
+1530945013785 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles.txt
+1530945013807 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles_mccoy.txt
+1530945013821 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesfixing.txt
+1530945013830 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesitems.txt
+AngelCodeFont failed to load page 0 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/fonts/zomboidDialogue.bmfc_0.png
+AngelCodeFont failed to load page 0 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_0.tga
+AngelCodeFont failed to load page 1 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_1.tga
+AngelCodeFont failed to load page 2 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_2.tga
+AngelCodeFont failed to load page 0 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_0.tga
+AngelCodeFont failed to load page 1 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_1.tga
+AngelCodeFont failed to load page 2 texture A:/SteamLibrary/steamapps/common/ProjectZomboid/media/font/test_2.tga
+WARNING: Found unknown Windows version: Windows 10
+Attempting to use default windows plug-in.
+Loading: zombie.core.input.XInputEnvironmentPlugin
+Loading: net.java.games.input.DirectAndRawInputEnvironmentPlugin
+1530945015651 ----------------------------------------------
+1530945015651 --    Controller setup - use this info to     
+1530945015652 --    edit joypad.ini in save directory       
+1530945015652 ----------------------------------------------
+1530945015652 ----------------------------------------------
+1530945015652 --  Joypad: XInputController0
+1530945015653 ----------------------------------------------
+1530945015653 ----------------------------------------------
+1530945015657 --    Axis definitions for controller 0
+1530945015657 ----------------------------------------------
+1530945015658 Testing for axis: LeftY
+1530945015658 Testing for axis: LeftX
+1530945015658 Testing for axis: RightY
+1530945015658 Testing for axis: RightX
+1530945015659 Testing for axis: Trigger
+1530945015659 ----------------------------------------------
+1530945015659 --    Button definitions for controller 0
+1530945015659 ----------------------------------------------
+1530945015659 Testing for button: A
+1530945015659 Testing for button: B
+1530945015659 Testing for button: X
+1530945015659 Testing for button: Y
+1530945015659 Testing for button: LeftShoulder
+1530945015660 Testing for button: RightShoulder
+1530945015661 Testing for button: Back
+1530945015661 Testing for button: Start
+1530945015661 Testing for button: LeftThumb
+1530945015661 Testing for button: RightThumb
+1530945015661 ----------------------------------------------
+1530945015661 --  Joypad: XInputController1
+1530945015661 ----------------------------------------------
+1530945015661 ----------------------------------------------
+1530945015661 --    Axis definitions for controller 1
+1530945015661 ----------------------------------------------
+1530945015662 Testing for axis: LeftY
+1530945015662 Testing for axis: LeftX
+1530945015662 Testing for axis: RightY
+1530945015662 Testing for axis: RightX
+1530945015662 Testing for axis: Trigger
+1530945015662 ----------------------------------------------
+1530945015662 --    Button definitions for controller 1
+1530945015662 ----------------------------------------------
+1530945015662 Testing for button: A
+1530945015662 Testing for button: B
+1530945015662 Testing for button: X
+1530945015662 Testing for button: Y
+1530945015662 Testing for button: LeftShoulder
+1530945015662 Testing for button: RightShoulder
+1530945015662 Testing for button: Back
+1530945015662 Testing for button: Start
+1530945015662 Testing for button: LeftThumb
+1530945015662 Testing for button: RightThumb
+1530945015662 ----------------------------------------------
+1530945015662 --  Joypad: XInputController2
+1530945015662 ----------------------------------------------
+1530945015662 ----------------------------------------------
+1530945015662 --    Axis definitions for controller 2
+1530945015663 ----------------------------------------------
+1530945015663 Testing for axis: LeftY
+1530945015663 Testing for axis: LeftX
+1530945015663 Testing for axis: RightY
+1530945015663 Testing for axis: RightX
+1530945015663 Testing for axis: Trigger
+1530945015663 ----------------------------------------------
+1530945015663 --    Button definitions for controller 2
+1530945015663 ----------------------------------------------
+1530945015663 Testing for button: A
+1530945015663 Testing for button: B
+1530945015663 Testing for button: X
+1530945015663 Testing for button: Y
+1530945015663 Testing for button: LeftShoulder
+1530945015663 Testing for button: RightShoulder
+1530945015663 Testing for button: Back
+1530945015663 Testing for button: Start
+1530945015663 Testing for button: LeftThumb
+1530945015664 Testing for button: RightThumb
+1530945015664 ----------------------------------------------
+1530945015664 --  Joypad: XInputController3
+1530945015664 ----------------------------------------------
+1530945015664 ----------------------------------------------
+1530945015664 --    Axis definitions for controller 3
+1530945015664 ----------------------------------------------
+1530945015664 Testing for axis: LeftY
+1530945015664 Testing for axis: LeftX
+1530945015664 Testing for axis: RightY
+1530945015664 Testing for axis: RightX
+1530945015664 Testing for axis: Trigger
+1530945015664 ----------------------------------------------
+1530945015664 --    Button definitions for controller 3
+1530945015664 ----------------------------------------------
+1530945015664 Testing for button: A
+1530945015664 Testing for button: B
+1530945015664 Testing for button: X
+1530945015664 Testing for button: Y
+1530945015664 Testing for button: LeftShoulder
+1530945015664 Testing for button: RightShoulder
+1530945015665 Testing for button: Back
+1530945015665 Testing for button: Start
+1530945015665 Testing for button: LeftThumb
+1530945015665 Testing for button: RightThumb
+1530945015665 ----------------------------------------------
+1530945015665 --  Joypad: Advantage2 Keyboard
+1530945015665 ----------------------------------------------
+1530945015665 ----------------------------------------------
+1530945015665 --    Button definitions for controller 4
+1530945015665 ----------------------------------------------
+1530945015665 Testing for button: Play/Pause
+1530945015665 Testing for button: Scan Previous Track
+1530945015665 Testing for button: Scan Next Track
+1530945015665 Testing for button: Mute
+1530945015665 Testing for button: Volume Decrement
+1530945015665 Testing for button: Volume Increment
+1530945015665 Testing for button: Button 6
+1530945015665 ----------------------------------------------
+1530945015665 --  Joypad: ATR USB microphone 
+1530945015665 ----------------------------------------------
+1530945015665 ----------------------------------------------
+1530945015665 --    Button definitions for controller 5
+1530945015665 ----------------------------------------------
+1530945015665 Testing for button: Volume Decrement
+1530945015666 Testing for button: Volume Increment
+1530945015666 Testing for button: Mute
+1530945015666 Testing for button: Stop
+1530945015666 Testing for button: Scan Previous Track
+1530945015666 Testing for button: Scan Next Track
+1530945015666 Testing for button: Play/Pause
+1530945015666 Testing for button: Button 7
+1530945021119 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945021994 Loading: media/lua/shared/ISBaseObject.lua
+1530945022017 Loading: media/lua/shared/JoyPad/JoyPadSetup.lua
+1530945022110 Loading: media/lua/shared/NPCs/MainCreationMethods.lua
+1530945022175 Loading: media/lua/shared/Reloading/ISRackAction.lua
+1530945022190 Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua
+1530945022200 Loading: media/lua/shared/Reloading/ISReloadAction.lua
+1530945022210 Loading: media/lua/shared/Reloading/ISReloadManager.lua
+1530945022224 Loading: media/lua/shared/Reloading/ISReloadUtil.lua
+1530945022245 Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua
+1530945022255 Loading: media/lua/shared/Reloading/ISReloadable.lua
+1530945022276 Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua
+1530945022286 Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua
+1530945022313 Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua
+1530945022325 Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua
+1530945022336 Loading: media/lua/shared/Reloading/stormysReload.lua
+1530945022345 require("timedactionshelper") failed
+1530945022346 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945022354 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945022362 Loading: media/lua/shared/Sandbox/SandboxVars.lua
+1530945022367 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945022372 Loading: media/lua/shared/SoundBanks/SoundBanks.lua
+1530945022385 Loading: media/lua/shared/SpawnRegions.lua
+1530945022392 Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua
+1530945022417 Loading: media/lua/shared/StashDescriptions/StashUtil.lua
+1530945022427 Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua
+1530945022435 Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua
+1530945022443 Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua
+1530945022456 Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua
+1530945022471 Loading: media/lua/shared/Util/BuildingHelper.lua
+1530945022478 Loading: media/lua/shared/Util/ISPriorityTable.lua
+1530945022487 Loading: media/lua/shared/Util/LuaList.lua
+1530945022507 Loading: media/lua/shared/Util/LuaNet.lua
+1530945022515 Loading: media/lua/shared/Util/StringReplacer.lua
+1530945022520 Loading: media/lua/shared/Util/Vector2.lua
+1530945022540 Loading: media/lua/shared/a_requires.lua
+1530945022550 require("NPCs/SadisticAIDirector/SadisticAIDirector") failed
+1530945022550 Loading: media/lua/shared/defines.lua
+1530945022573 Loading: media/lua/shared/iwbumstempmodelcompat.lua
+1530945022585 Loading: media/lua/shared/keyBinding.lua
+1530945022650 Loading: media/lua/shared/luautils.lua
+1530945022688 Loading: media/lua/client/Blacksmith/ISUI/ISBlacksmithMenu.lua
+1530945022715 Loading: media/lua/client/Blacksmith/ISUI/ISFurnaceInfoWindow.lua
+1530945022724 Loading: media/lua/client/ISUI/ISCollapsableWindow.lua
+1530945022752 Loading: media/lua/client/ISUI/ISPanel.lua
+1530945022770 Loading: media/lua/client/ISUI/ISUIElement.lua
+1530945022792 Loading: media/lua/client/ISUI/ISButton.lua
+1530945022806 Loading: media/lua/client/ISUI/ISInventoryPane.lua
+1530945022837 Loading: media/lua/client/ISUI/ISMouseDrag.lua
+1530945022857 Loading: media/lua/client/TimedActions/ISTimedActionQueue.lua
+1530945022864 require("timedactionshelper") failed
+1530945022864 Loading: media/lua/client/TimedActions/ISEatFoodAction.lua
+1530945022873 Loading: media/lua/client/ISUI/ISResizeWidget.lua
+1530945022880 Loading: media/lua/client/Blacksmith/TimedActions/ISAddCoalInFurnace.lua
+1530945022887 Loading: media/lua/client/Blacksmith/TimedActions/ISAddLogsInDrum.lua
+1530945022893 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromKindle.lua
+1530945022901 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromLiterature.lua
+1530945022908 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromPetrol.lua
+1530945022921 Loading: media/lua/client/Blacksmith/TimedActions/ISEmptyDrum.lua
+1530945022928 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceInfoAction.lua
+1530945022934 Loading: media/lua/client/ISUI/ISLayoutManager.lua
+1530945022942 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromKindle.lua
+1530945022949 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromLiterature.lua
+1530945022955 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromPetrol.lua
+1530945022962 Loading: media/lua/client/Blacksmith/TimedActions/ISPutOutFireDrum.lua
+1530945022969 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveCharcoal.lua
+1530945022976 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveDrum.lua
+1530945022982 Loading: media/lua/client/Blacksmith/TimedActions/ISStopFurnaceFire.lua
+1530945022989 Loading: media/lua/client/Blacksmith/TimedActions/ISUseBellows.lua
+1530945023003 Loading: media/lua/client/BuildingObjects/ISUI/ISBuildMenu.lua
+1530945023023 Loading: media/lua/client/BuildingObjects/ISUI/ISInventoryBuildMenu.lua
+1530945023043 Loading: media/lua/client/BuildingObjects/ISUI/ISPaintMenu.lua
+1530945023077 Loading: media/lua/client/BuildingObjects/ISUI/ISRainCollectorMenu.lua
+1530945023089 Loading: media/lua/client/BuildingObjects/TimedActions/ISBuildAction.lua
+1530945023110 Loading: media/lua/client/BuildingObjects/TimedActions/ISInsertLightSourceFuelAction.lua
+1530945023127 Loading: media/lua/client/BuildingObjects/TimedActions/ISMultiStageBuild.lua
+1530945023134 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintAction.lua
+1530945023143 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintSignAction.lua
+1530945023149 Loading: media/lua/client/BuildingObjects/TimedActions/ISPlasterAction.lua
+1530945023159 Loading: media/lua/client/BuildingObjects/TimedActions/ISRemoveLightSourceFuelAction.lua
+1530945023166 Loading: media/lua/client/BuildingObjects/TimedActions/ISShovelGround.lua
+1530945023173 Loading: media/lua/client/BuildingObjects/TimedActions/ISToggleLightSourceAction.lua
+1530945023179 Loading: media/lua/client/Camping/ISUI/ISCampingMenu.lua
+1530945023187 require("Camping/camping") failed
+1530945023188 require("Camping/camping_fuel") failed
+1530945023188 Loading: media/lua/client/Camping/TimedActions/ISAddFuelAction.lua
+1530945023194 Loading: media/lua/client/Camping/TimedActions/ISAddPetrolAction.lua
+1530945023201 Loading: media/lua/client/Camping/TimedActions/ISAddTentAction.lua
+1530945023213 Loading: media/lua/client/Camping/TimedActions/ISLightFromKindle.lua
+1530945023221 Loading: media/lua/client/Camping/TimedActions/ISLightFromLiterature.lua
+1530945023228 Loading: media/lua/client/Camping/TimedActions/ISLightFromPetrol.lua
+1530945023234 Loading: media/lua/client/Camping/TimedActions/ISPlaceCampfireAction.lua
+1530945023241 Loading: media/lua/client/Camping/TimedActions/ISPutOutCampfireAction.lua
+1530945023247 Loading: media/lua/client/Camping/TimedActions/ISRemoveCampfireAction.lua
+1530945023254 Loading: media/lua/client/Camping/TimedActions/ISRemoveTentAction.lua
+1530945023260 Loading: media/lua/client/Camping/TimedActions/ISSleepInTentAction.lua
+1530945023267 Loading: media/lua/client/Chat/ChatContainer.lua
+1530945023274 Loading: media/lua/client/Chat/ChatNotLoggedOn.lua
+1530945023288 Loading: media/lua/client/Chat/ChatOnscreen.lua
+1530945023306 Loading: media/lua/client/Chat/ChatOutput.lua
+1530945023316 Loading: media/lua/client/Chat/ChatPanel.lua
+1530945023323 Loading: media/lua/client/Context/ISContextManager.lua
+1530945023330 Loading: media/lua/client/Context/ISMenuContext.lua
+1530945023335 Loading: media/lua/client/Context/ISMenuContextBuild.lua
+1530945023342 Loading: media/lua/client/Context/ISMenuContextInventory.lua
+1530945023348 Loading: media/lua/client/Context/ISMenuContextWorld.lua
+1530945023355 Loading: media/lua/client/Context/ISMenuElement.lua
+1530945023365 Loading: media/lua/client/Context/Inventory/InvContextMovable.lua
+1530945023370 Loading: media/lua/client/Context/Inventory/InvContextRadio.lua
+1530945023376 Loading: media/lua/client/Context/World/ISContextDisassemble.lua
+1530945023384 Loading: media/lua/client/Context/World/ISContextDoor.lua
+1530945023393 Loading: media/lua/client/Context/World/ISContextTelevision.lua
+1530945023399 Loading: media/lua/client/DebugUIs/DebugOptionsWindow.lua
+1530945023406 Loading: media/lua/client/DebugUIs/DebugScenarios.lua
+1530945023413 Loading: media/lua/client/DebugUIs/DebugToolstrip.lua
+1530945023420 Loading: media/lua/client/DebugUIs/DeviceInspector.lua
+1530945023430 Loading: media/lua/client/DebugUIs/LuaDebugOutput.lua
+1530945023437 Loading: media/lua/client/DebugUIs/LuaDebugger.lua
+1530945023444 Loading: media/lua/client/DebugUIs/LuaFileBrowser.lua
+1530945023475 Loading: media/lua/client/DebugUIs/LuaThreadWindow.lua
+1530945023485 Loading: media/lua/client/DebugUIs/MetaWorldRenderPanel.lua
+1530945023495 Loading: media/lua/client/DebugUIs/MetaWorldWindow.lua
+1530945023507 Loading: media/lua/client/DebugUIs/ObjectViewer.lua
+1530945023514 Loading: media/lua/client/DebugUIs/Scenarios/DebugScenario.lua
+1530945023519 Loading: media/lua/client/DebugUIs/SourceWindow.lua
+1530945023526 Loading: media/lua/client/DebugUIs/StashDebug.lua
+1530945023537 Loading: media/lua/client/DebugUIs/StreamMapWindow.lua
+1530945023548 Loading: media/lua/client/DebugUIs/TextureViewer.lua
+1530945023562 Loading: media/lua/client/DebugUIs/WatchWindow.lua
+1530945023573 Loading: media/lua/client/Farming/ISUI/ISFarmingInfo.lua
+1530945023582 Loading: media/lua/client/ISUI/ISPanelJoypad.lua
+1530945023590 Loading: media/lua/client/Farming/ISUI/ISFarmingMenu.lua
+1530945023600 Loading: media/lua/client/Farming/ISUI/ISFarmingWindow.lua
+1530945023606 Loading: media/lua/client/Farming/TimedActions/ISCureFliesAction.lua
+1530945023612 Loading: media/lua/client/Farming/TimedActions/ISCureMildewAction.lua
+1530945023618 Loading: media/lua/client/Farming/TimedActions/ISFertilizeAction.lua
+1530945023625 Loading: media/lua/client/Farming/TimedActions/ISHarvestPlantAction.lua
+1530945023632 Loading: media/lua/client/Farming/TimedActions/ISPlantInfoAction.lua
+1530945023639 Loading: media/lua/client/Farming/TimedActions/ISPlowAction.lua
+1530945023648 Loading: media/lua/client/Farming/TimedActions/ISSeedAction.lua
+1530945023656 Loading: media/lua/client/Farming/TimedActions/ISShovelAction.lua
+1530945023662 Loading: media/lua/client/Farming/TimedActions/ISWaterPlantAction.lua
+1530945023668 Loading: media/lua/client/Fishing/TimedActions/ISCheckFishingNetAction.lua
+1530945023675 Loading: media/lua/client/Fishing/TimedActions/ISFishingAction.lua
+1530945023682 Loading: media/lua/client/Fishing/fishing_properties.lua
+1530945023688 Loading: media/lua/client/ISTooltipRenderers/ISInventoryItemTooltip.lua
+1530945023695 Loading: media/lua/client/ISUI/AdminPanel/ISAddNonPvpZoneUI.lua
+1530945023702 Loading: media/lua/client/ISUI/AdminPanel/ISAdminMessage.lua
+1530945023710 Loading: media/lua/client/ISUI/AdminPanel/ISAdminPanelUI.lua
+1530945023719 Loading: media/lua/client/ISUI/AdminPanel/ISAdminTicketsUI.lua
+1530945023726 Loading: media/lua/client/ISUI/AdminPanel/ISFactionsList.lua
+1530945023736 Loading: media/lua/client/ISUI/AdminPanel/ISItemEditorUI.lua
+1530945023752 Loading: media/lua/client/ISUI/AdminPanel/ISMiniScoreboardUI.lua
+1530945023768 Loading: media/lua/client/ISUI/AdminPanel/ISPacketCounts.lua
+1530945023775 Loading: media/lua/client/ISUI/AdminPanel/ISPvpZonePanel.lua
+1530945023783 Loading: media/lua/client/ISUI/AdminPanel/ISSafehousesList.lua
+1530945023791 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptions.lua
+1530945023799 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptionsChange.lua
+1530945023813 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistModifyRow.lua
+1530945023822 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistTable.lua
+1530945023840 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistViewer.lua
+1530945023875 Loading: media/lua/client/ISUI/FPS.lua
+1530945023879 Loading: media/lua/client/ISUI/Fireplace/ISKnob.lua
+1530945023886 Loading: media/lua/client/ISUI/Fireplace/ISMicrowaveUI.lua
+1530945023894 Loading: media/lua/client/ISUI/Fireplace/ISOvenUI.lua
+1530945023901 Loading: media/lua/client/ISUI/ISAlarmClockDialog.lua
+1530945023912 Loading: media/lua/client/ISUI/ISBBQInfoWindow.lua
+1530945023931 Loading: media/lua/client/ISUI/ISBBQMenu.lua
+1530945023945 require("Camping/camping_fuel") failed
+1530945023946 Loading: media/lua/client/ISUI/ISBackButtonWheel.lua
+1530945023959 Loading: media/lua/client/ISUI/ISRadialMenu.lua
+1530945023971 Loading: media/lua/client/ISUI/ISBombTimerDialog.lua
+1530945023987 Loading: media/lua/client/ISUI/ISButtonPrompt.lua
+1530945024004 Loading: media/lua/client/ISUI/ISChat.lua
+1530945024019 Loading: media/lua/client/ISUI/ISRichTextPanel.lua
+1530945024026 Loading: media/lua/client/ISUI/ISCollapsableModalRichText.lua
+1530945024032 Loading: media/lua/client/ISUI/ISColorPicker.lua
+1530945024040 Loading: media/lua/client/ISUI/ISComboBox.lua
+1530945024048 Loading: media/lua/client/ISUI/ISScrollingListBox.lua
+1530945024056 Loading: media/lua/client/ISUI/ISContextMenu.lua
+1530945024064 Loading: media/lua/client/ISUI/ISControllerTestPanel.lua
+1530945024073 Loading: media/lua/client/ISUI/ISCraftingCategoryUI.lua
+1530945024080 Loading: media/lua/client/ISUI/ISCraftingUI.lua
+1530945024099 Loading: media/lua/client/ISUI/ISDPadWheels.lua
+1530945024106 Loading: media/lua/client/ISUI/ISDemoPopup.lua
+1530945024113 Loading: media/lua/client/ISUI/ISDigitalCode.lua
+1530945024131 Loading: media/lua/client/ISUI/ISDuplicateKeybindDialog.lua
+1530945024140 Loading: media/lua/client/ISUI/ISEquippedItem.lua
+1530945024155 Loading: media/lua/client/ISUI/ISFireplaceMenu.lua
+1530945024163 Loading: media/lua/client/ISUI/ISGameLoadingUI.lua
+1530945024169 Loading: media/lua/client/ISUI/ISGeneratorInfoWindow.lua
+1530945024183 Loading: media/lua/client/ISUI/ISImage.lua
+1530945024192 Loading: media/lua/client/ISUI/ISInfoContainer.lua
+1530945024200 Loading: media/lua/client/ISUI/ISInfoWindow.lua
+1530945024207 Loading: media/lua/client/ISUI/ISInventoryPage.lua
+1530945024234 Loading: media/lua/client/ISUI/ISInventoryPaneContextMenu.lua
+1530945024254 Loading: media/lua/client/ISUI/ISLabel.lua
+1530945024261 Loading: media/lua/client/ISUI/ISMegaVolumeControl.lua
+1530945024269 Loading: media/lua/client/ISUI/ISModalDialog.lua
+1530945024276 Loading: media/lua/client/ISUI/ISModalRichText.lua
+1530945024283 Loading: media/lua/client/ISUI/ISMoveableInfoWindow.lua
+1530945024293 Loading: media/lua/client/ISUI/ISNewsUpdate.lua
+1530945024303 Loading: media/lua/client/ISUI/ISOptionPanel.lua
+1530945024310 Loading: media/lua/client/ISUI/ISPostDeathUI.lua
+1530945024319 Loading: media/lua/client/ISUI/ISRadioOption.lua
+1530945024344 Loading: media/lua/client/ISUI/ISRainPanel.lua
+1530945024352 Loading: media/lua/client/ISUI/ISRect.lua
+1530945024357 Loading: media/lua/client/ISUI/ISResizeableButton.lua
+1530945024364 Loading: media/lua/client/ISUI/ISRichTextBox.lua
+1530945024370 Loading: media/lua/client/ISUI/ISSafehouseAddPlayerUI.lua
+1530945024377 Loading: media/lua/client/ISUI/ISSafehouseUI.lua
+1530945024399 Loading: media/lua/client/ISUI/ISSafetyUI.lua
+1530945024406 Loading: media/lua/client/ISUI/ISScavengeUI.lua
+1530945024413 Loading: media/lua/client/ISUI/ISScrollBar.lua
+1530945024419 Loading: media/lua/client/ISUI/ISServerSavingMessage.lua
+1530945024427 Loading: media/lua/client/ISUI/ISSetKeybindDialog.lua
+1530945024433 Loading: media/lua/client/ISUI/ISSleepDialog.lua
+1530945024440 Loading: media/lua/client/ISUI/ISSpinBox.lua
+1530945024449 Loading: media/lua/client/ISUI/ISTabPanel.lua
+1530945024457 Loading: media/lua/client/ISUI/ISTextBox.lua
+1530945024464 Loading: media/lua/client/ISUI/ISTextEntryBox.lua
+1530945024472 Loading: media/lua/client/ISUI/ISTickBox.lua
+1530945024478 Loading: media/lua/client/ISUI/ISToolTip.lua
+1530945024486 Loading: media/lua/client/ISUI/ISToolTipInv.lua
+1530945024494 Loading: media/lua/client/ISUI/ISTradingUI.lua
+1530945024501 Loading: media/lua/client/ISUI/ISTradingUIHistorial.lua
+1530945024509 Loading: media/lua/client/ISUI/ISUIHandler.lua
+1530945024515 Loading: media/lua/client/ISUI/ISUIWriteJournal.lua
+1530945024525 Loading: media/lua/client/ISUI/ISVehicleConfirmBox.lua
+1530945024532 Loading: media/lua/client/ISUI/ISVolumeControl.lua
+1530945024540 Loading: media/lua/client/ISUI/ISVolumeIndicator.lua
+1530945024548 Loading: media/lua/client/ISUI/ISWindow.lua
+1530945024555 Loading: media/lua/client/ISUI/ISWorldObjectContextMenu.lua
+1530945024586 Loading: media/lua/client/ISUI/Maps/ISMap.lua
+1530945024609 Loading: media/lua/client/ISUI/Maps/ISMapSymbols.lua
+1530945024616 Loading: media/lua/client/ISUI/Maps/ISTextBoxMap.lua
+1530945024625 Loading: media/lua/client/ISUI/PlayerData/ISPlayerData.lua
+1530945024634 Loading: media/lua/client/ISUI/PlayerData/ISPlayerDataObject.lua
+1530945024640 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsAddXPUI.lua
+1530945024650 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseAccessLevel.lua
+1530945024658 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseProfessionUI.lua
+1530945024666 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseTraitUI.lua
+1530945024672 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsManageInvUI.lua
+1530945024681 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUI.lua
+1530945024696 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUserlogUI.lua
+1530945024703 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsWarningPointUI.lua
+1530945024718 Loading: media/lua/client/ISUI/RichTextLayout.lua
+1530945024726 Loading: media/lua/client/ISUI/SpeedControlsHandler.lua
+1530945024735 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionTagUI.lua
+1530945024741 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionUI.lua
+1530945024753 Loading: media/lua/client/ISUI/UserPanel/ISFactionAddPlayerUI.lua
+1530945024764 Loading: media/lua/client/ISUI/UserPanel/ISFactionUI.lua
+1530945024772 Loading: media/lua/client/ISUI/UserPanel/ISTicketsUI.lua
+1530945024784 Loading: media/lua/client/ISUI/UserPanel/ISUserPanelUI.lua
+1530945024792 Loading: media/lua/client/ISUI/ZombiePopulationWindow.lua
+1530945024800 Loading: media/lua/client/LastStand/AReallyCDDAy.lua
+1530945024809 Loading: media/lua/client/LastStand/Challenge1.lua
+1530945024816 Loading: media/lua/client/LastStand/Challenge2.lua
+1530945024824 Loading: media/lua/client/LastStand/EightMonthsLater.lua
+1530945024832 Loading: media/lua/client/LastStand/ISUI/ISChallenge2PlayerUpWindow.lua
+1530945024848 Loading: media/lua/client/LastStand/ISUI/ISChallenge2UpgradeTab.lua
+1530945024856 Loading: media/lua/client/LastStand/ISUI/ISChallenge2VariousItemWindow.lua
+1530945024862 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponRepairWindow.lua
+1530945024869 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponUpWindow.lua
+1530945024875 Loading: media/lua/client/LastStand/Insomnia.lua
+1530945024883 Loading: media/lua/client/LastStand/LastStandSetup.lua
+1530945024890 Loading: media/lua/client/LastStand/OpeningHours.lua
+1530945024898 Loading: media/lua/client/LastStand/WinterIsComing.lua
+1530945024905 Loading: media/lua/client/LastStand/YouHaveOneDay.lua
+1530945024917 Loading: media/lua/client/Moveables/ISMoveableDefinitions.lua
+1530945024925 Loading: media/lua/client/Moveables/ISMoveableSpriteProps.lua
+1530945024951 Loading: media/lua/client/Moveables/ISMoveableTools.lua
+1530945024961 Loading: media/lua/client/Moveables/ISMoveablesAction.lua
+1530945024969 Loading: media/lua/client/Moveables/ISMoveablesIconToolTip.lua
+1530945024974 Loading: media/lua/client/Music/MusicChoices.lua
+1530945024980 Loading: media/lua/client/NPCs/ProfessionClothing.lua
+1530945024985 Loading: media/lua/client/NPCs/UI/CharacterInfoPage.lua
+1530945024992 Loading: media/lua/client/NPCs/UI/TeamOverview.lua
+1530945024999 Loading: media/lua/client/NPCs/UI/TeamPicker.lua
+1530945025006 Loading: media/lua/client/OptionScreens/BootstrapConnectPopup.lua
+1530945025013 Loading: media/lua/client/OptionScreens/CharacterCreationHeader.lua
+1530945025019 Loading: media/lua/client/OptionScreens/CharacterCreationMain.lua
+1530945025028 Loading: media/lua/client/OptionScreens/CharacterCreationProfession.lua
+1530945025057 Loading: media/lua/client/OptionScreens/CoopCharacterCreation.lua
+1530945025064 Loading: media/lua/client/OptionScreens/CoopCharacterCreationMain.lua
+1530945025069 Loading: media/lua/client/OptionScreens/CoopCharacterCreationProfession.lua
+1530945025076 Loading: media/lua/client/OptionScreens/CoopConnectPopup.lua
+1530945025082 Loading: media/lua/client/OptionScreens/CoopMapSpawnSelect.lua
+1530945025089 Loading: media/lua/client/OptionScreens/MapSpawnSelect.lua
+1530945025096 Loading: media/lua/client/OptionScreens/CoopOptionsScreen.lua
+1530945025105 Loading: media/lua/client/OptionScreens/CoopUserName.lua
+1530945025112 Loading: media/lua/client/OptionScreens/ISScoreboard.lua
+1530945025120 Loading: media/lua/client/OptionScreens/InviteFriends.lua
+1530945025127 Loading: media/lua/client/OptionScreens/LastStandChallenge.lua
+1530945025133 Loading: media/lua/client/OptionScreens/LastStandPlayerSelect.lua
+1530945025140 Loading: media/lua/client/OptionScreens/LoadGameScreen.lua
+1530945025149 Loading: media/lua/client/OptionScreens/LoginScreen.lua
+1530945025157 Loading: media/lua/client/OptionScreens/MainOptions.lua
+1530945025178 Loading: media/lua/client/OptionScreens/MainScreen.lua
+1530945025191 Loading: media/lua/client/OptionScreens/MapSelecter.lua
+1530945025200 Loading: media/lua/client/OptionScreens/ModMoreInfo.lua
+1530945025232 Loading: media/lua/client/OptionScreens/ModOrderUI.lua
+1530945025258 Loading: media/lua/client/OptionScreens/ModSelector.lua
+1530945025271 Loading: media/lua/client/OptionScreens/NewGameScreen.lua
+1530945025291 Loading: media/lua/client/OptionScreens/PublicServerList.lua
+1530945025308 Loading: media/lua/client/OptionScreens/SandboxOptions.lua
+1530945025324 Loading: media/lua/client/OptionScreens/ServerConnectPopup.lua
+1530945025331 Loading: media/lua/client/OptionScreens/ServerList.lua
+1530945025349 Loading: media/lua/client/OptionScreens/ServerSettingsScreen.lua
+1530945025520 MISSING in SettingsTable: SpawnPoint
+1530945025523 MISSING in SettingsTable: Mods
+1530945025526 MISSING in SettingsTable: Map
+1530945025526 MISSING in SettingsTable: SteamPort2
+1530945025526 MISSING in SettingsTable: WorkshopItems
+1530945025526 MISSING in SettingsTable: CoopServerLaunchTimeout
+1530945025526 MISSING in SettingsTable: CoopMasterPingTimeout
+1530945025526 MISSING in SettingsTable: server_browser_announced_ip
+1530945025526 MISSING in SettingsTable: UseTCPForMapDownloads
+1530945025526 MISSING in SettingsTable: StartYear
+1530945025526 Loading: media/lua/client/OptionScreens/ServerToolbox.lua
+1530945025534 Loading: media/lua/client/OptionScreens/ServerWorkshopItemScreen.lua
+1530945025541 Loading: media/lua/client/OptionScreens/StoryNewOrLoadScreen.lua
+1530945025549 Loading: media/lua/client/OptionScreens/StoryScreen.lua
+1530945025557 Loading: media/lua/client/OptionScreens/WorkshopSubmitScreen.lua
+1530945025574 Loading: media/lua/client/OptionScreens/WorldSelect.lua
+1530945025619 Loading: media/lua/client/RadioCom/ISRadioAction.lua
+1530945025647 Loading: media/lua/client/RadioCom/ISRadioInteractions.lua
+1530945025663 Loading: media/lua/client/RadioCom/ISRadioWindow.lua
+1530945025685 Loading: media/lua/client/RadioCom/ISUIRadio/ISBatteryStatusDisplay.lua
+1530945025728 Loading: media/lua/client/RadioCom/ISUIRadio/ISItemDropBox.lua
+1530945025742 Loading: media/lua/client/RadioCom/ISUIRadio/ISLedLight.lua
+1530945025776 Loading: media/lua/client/RadioCom/ISUIRadio/ISSineWaveDisplay.lua
+1530945025794 Loading: media/lua/client/RadioCom/ISUIRadio/ISSliderPanel.lua
+1530945025811 Loading: media/lua/client/RadioCom/ISUIRadio/ISSpeakerButton.lua
+1530945025831 Loading: media/lua/client/RadioCom/ISUIRadio/ISVolumeBar.lua
+1530945025840 Loading: media/lua/client/RadioCom/RadioWindowModules/RMWPanel.lua
+1530945025850 Loading: media/lua/client/RadioCom/RadioWindowModules/RWM.lua
+1530945025863 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannel.lua
+1530945025880 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945025883 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannelTV.lua
+1530945025898 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945025902 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMElement.lua
+1530945025916 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGeneral.lua
+1530945025947 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945025949 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGridPower.lua
+1530945025959 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945025959 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMMicrophone.lua
+1530945025981 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945025985 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMPower.lua
+1530945025996 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945026002 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSignal.lua
+1530945026012 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945026012 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSubEditPreset.lua
+1530945026025 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMTestPane.lua
+1530945026033 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945026033 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMVolume.lua
+1530945026046 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945026051 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLEvent.lua
+1530945026061 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLFrame.lua
+1530945026078 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLManager.lua
+1530945026091 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLSounds.lua
+1530945026099 Loading: media/lua/client/RadioCom/StoryLineSounds/StorySoundDebug.lua
+1530945026107 Loading: media/lua/client/Seasons/ISUI/ISWeather.lua
+1530945026122 Loading: media/lua/client/SurvivalGuide/ISTutorialPageInfo.lua
+1530945026132 Loading: media/lua/client/SurvivalGuide/ISTutorialPanel.lua
+1530945026140 Loading: media/lua/client/SurvivalGuide/SurvivalGuideEntries.lua
+1530945026161 Loading: media/lua/client/SurvivalGuide/SurvivalGuideManager.lua
+1530945026168 Loading: media/lua/client/Tests/RecipeTests.lua
+1530945026178 Loading: media/lua/client/TimedActions/ISActivateGenerator.lua
+1530945026186 Loading: media/lua/client/TimedActions/ISAddFuel.lua
+1530945026192 Loading: media/lua/client/TimedActions/ISAddItemInRecipe.lua
+1530945026198 Loading: media/lua/client/TimedActions/ISAddSheetAction.lua
+1530945026204 Loading: media/lua/client/TimedActions/ISAddSheetRope.lua
+1530945026210 Loading: media/lua/client/TimedActions/ISApplyBandage.lua
+1530945026216 Loading: media/lua/client/TimedActions/ISBBQAddFuel.lua
+1530945026222 Loading: media/lua/client/TimedActions/ISBBQInfoAction.lua
+1530945026230 Loading: media/lua/client/TimedActions/ISBBQInsertPropaneTank.lua
+1530945026238 Loading: media/lua/client/TimedActions/ISBBQLightFromLiterature.lua
+1530945026256 Loading: media/lua/client/TimedActions/ISBBQLightFromPetrol.lua
+1530945026269 Loading: media/lua/client/TimedActions/ISBBQRemovePropaneTank.lua
+1530945026276 Loading: media/lua/client/TimedActions/ISBBQToggle.lua
+1530945026283 Loading: media/lua/client/TimedActions/ISBarricadeAction.lua
+1530945026290 Loading: media/lua/client/TimedActions/ISBurnCorpseAction.lua
+1530945026296 Loading: media/lua/client/TimedActions/ISBurryCorpse.lua
+1530945026312 Loading: media/lua/client/TimedActions/ISChopTreeAction.lua
+1530945026321 Loading: media/lua/client/TimedActions/ISCleanBlood.lua
+1530945026327 Loading: media/lua/client/TimedActions/ISCleanBurn.lua
+1530945026333 Loading: media/lua/client/TimedActions/ISClearAshes.lua
+1530945026343 Loading: media/lua/client/TimedActions/ISClimbSheetRopeAction.lua
+1530945026349 Loading: media/lua/client/TimedActions/ISClimbThroughWindow.lua
+1530945026355 Loading: media/lua/client/TimedActions/ISComfreyCataplasm.lua
+1530945026361 Loading: media/lua/client/TimedActions/ISConsolidateDrainable.lua
+1530945026367 Loading: media/lua/client/TimedActions/ISCraftAction.lua
+1530945026374 Loading: media/lua/client/TimedActions/ISDestroyStuffAction.lua
+1530945026380 Loading: media/lua/client/TimedActions/ISDisinfect.lua
+1530945026389 Loading: media/lua/client/TimedActions/ISDismantleAction.lua
+1530945026395 Loading: media/lua/client/TimedActions/ISDrinkFromBottle.lua
+1530945026415 Loading: media/lua/client/TimedActions/ISDropItemAction.lua
+1530945026421 Loading: media/lua/client/TimedActions/ISDryMyself.lua
+1530945026427 Loading: media/lua/client/TimedActions/ISDumpContentsAction.lua
+1530945026434 Loading: media/lua/client/TimedActions/ISDumpWaterAction.lua
+1530945026441 Loading: media/lua/client/TimedActions/ISEquipWeaponAction.lua
+1530945026457 Loading: media/lua/client/TimedActions/ISFillGrave.lua
+1530945026464 Loading: media/lua/client/TimedActions/ISFinalizeDealAction.lua
+1530945026485 Loading: media/lua/client/TimedActions/ISFireplaceAddFuel.lua
+1530945026504 Loading: media/lua/client/TimedActions/ISFireplaceExtinguish.lua
+1530945026529 Loading: media/lua/client/TimedActions/ISFireplaceLightFromKindle.lua
+1530945026546 Loading: media/lua/client/TimedActions/ISFireplaceLightFromLiterature.lua
+1530945026569 Loading: media/lua/client/TimedActions/ISFireplaceLightFromPetrol.lua
+1530945026607 Loading: media/lua/client/TimedActions/ISFixAction.lua
+1530945026650 Loading: media/lua/client/TimedActions/ISFixGenerator.lua
+1530945026660 Loading: media/lua/client/TimedActions/ISGarlicCataplasm.lua
+1530945026669 Loading: media/lua/client/TimedActions/ISGeneratorInfoAction.lua
+1530945026675 Loading: media/lua/client/TimedActions/ISGetCompost.lua
+1530945026684 Loading: media/lua/client/TimedActions/ISGrabCorpseAction.lua
+1530945026693 Loading: media/lua/client/TimedActions/ISGrabItemAction.lua
+1530945026699 Loading: media/lua/client/TimedActions/ISInventoryTransferAction.lua
+1530945026720 Loading: media/lua/client/TimedActions/ISLightActions.lua
+1530945026729 Loading: media/lua/client/TimedActions/ISLockDoor.lua
+1530945026737 Loading: media/lua/client/TimedActions/ISMedicalCheckAction.lua
+1530945026787 Loading: media/lua/client/TimedActions/ISOpenCloseCurtain.lua
+1530945026833 Loading: media/lua/client/TimedActions/ISOpenCloseDoor.lua
+1530945026840 Loading: media/lua/client/TimedActions/ISOpenCloseWindow.lua
+1530945026849 Loading: media/lua/client/TimedActions/ISOpenContainerTimedAction.lua
+1530945026881 Loading: media/lua/client/TimedActions/ISOvenUITimedAction.lua
+1530945026887 Loading: media/lua/client/TimedActions/ISPadlockAction.lua
+1530945026894 Loading: media/lua/client/TimedActions/ISPlaceTrap.lua
+1530945026901 Loading: media/lua/client/TimedActions/ISPlantainCataplasm.lua
+1530945026908 Loading: media/lua/client/TimedActions/ISPlugGenerator.lua
+1530945026914 Loading: media/lua/client/TimedActions/ISPutOutFire.lua
+1530945026923 Loading: media/lua/client/TimedActions/ISReadABook.lua
+1530945026930 Loading: media/lua/client/TimedActions/ISRemoveBrokenGlass.lua
+1530945026936 Loading: media/lua/client/TimedActions/ISRemoveBullet.lua
+1530945026943 Loading: media/lua/client/TimedActions/ISRemoveBush.lua
+1530945026951 Loading: media/lua/client/TimedActions/ISRemoveGlass.lua
+1530945026959 Loading: media/lua/client/TimedActions/ISRemoveGrass.lua
+1530945026966 Loading: media/lua/client/TimedActions/ISRemoveSheetAction.lua
+1530945026973 Loading: media/lua/client/TimedActions/ISRemoveSheetRope.lua
+1530945026987 Loading: media/lua/client/TimedActions/ISRemoveWeaponUpgrade.lua
+1530945027001 Loading: media/lua/client/TimedActions/ISRestAction.lua
+1530945027008 Loading: media/lua/client/TimedActions/ISScavengeAction.lua
+1530945027016 Loading: media/lua/client/TimedActions/ISSitOnChairAction.lua
+1530945027022 Loading: media/lua/client/TimedActions/ISSmashWindow.lua
+1530945027028 Loading: media/lua/client/TimedActions/ISSplint.lua
+1530945027035 Loading: media/lua/client/TimedActions/ISStitch.lua
+1530945027043 Loading: media/lua/client/TimedActions/ISStopAlarmClockAction.lua
+1530945027050 Loading: media/lua/client/TimedActions/ISTakeFuel.lua
+1530945027060 Loading: media/lua/client/TimedActions/ISTakeGenerator.lua
+1530945027069 Loading: media/lua/client/TimedActions/ISTakePillAction.lua
+1530945027076 Loading: media/lua/client/TimedActions/ISTakeTrap.lua
+1530945027086 Loading: media/lua/client/TimedActions/ISTakeWaterAction.lua
+1530945027095 Loading: media/lua/client/TimedActions/ISToggleLightAction.lua
+1530945027105 Loading: media/lua/client/TimedActions/ISToggleSafetyAction.lua
+1530945027115 Loading: media/lua/client/TimedActions/ISToggleStoveAction.lua
+1530945027125 Loading: media/lua/client/TimedActions/ISTransferWaterAction.lua
+1530945027133 Loading: media/lua/client/TimedActions/ISUnbarricadeAction.lua
+1530945027142 Loading: media/lua/client/TimedActions/ISUnequipAction.lua
+1530945027151 Loading: media/lua/client/TimedActions/ISUpgradeWeapon.lua
+1530945027159 Loading: media/lua/client/TimedActions/ISWakeOtherPlayer.lua
+1530945027166 Loading: media/lua/client/TimedActions/ISWearClothing.lua
+1530945027175 Loading: media/lua/client/TimedActions/WalkToTimedAction.lua
+1530945027185 Loading: media/lua/client/Traps/TimedActions/ISAddBaitAction.lua
+1530945027194 Loading: media/lua/client/Traps/TimedActions/ISCheckTrapAction.lua
+1530945027201 Loading: media/lua/client/Traps/TimedActions/ISRemoveBaitAction.lua
+1530945027209 Loading: media/lua/client/Traps/TimedActions/ISRemoveTrapAction.lua
+1530945027216 Loading: media/lua/client/Tutorial/ISUI/TutorialFocus.lua
+1530945027224 Loading: media/lua/client/Tutorial/ISUI/TutorialMessage.lua
+1530945027233 Loading: media/lua/client/Tutorial/Steps.lua
+1530945027243 Loading: media/lua/client/Tutorial/TutorialStep.lua
+1530945027249 Loading: media/lua/client/Tutorial/Tutorial1.lua
+1530945027257 Loading: media/lua/client/Tutorial/TutorialSetup.lua
+1530945027263 Loading: media/lua/client/Vehicles/ISUI/ISCarMechanicsOverlay.lua
+1530945027270 Loading: media/lua/client/Vehicles/ISUI/ISLightbarUI.lua
+1530945027276 Loading: media/lua/client/Vehicles/ISUI/ISVehicleACUI.lua
+1530945027283 Loading: media/lua/client/Vehicles/ISUI/ISVehicleDashboard.lua
+1530945027291 Loading: media/lua/client/Vehicles/ISUI/ISVehicleEdit.lua
+1530945027298 Loading: media/lua/client/Vehicles/ISUI/ISVehicleGauge.lua
+1530945027303 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindow.lua
+1530945027312 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindowDetail.lua
+1530945027320 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMechanics.lua
+1530945027345 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMenu.lua
+1530945027366 Loading: media/lua/client/Vehicles/ISUI/ISVehiclePartMenu.lua
+1530945027373 Loading: media/lua/client/Vehicles/ISUI/ISVehicleRoadtripDebug.lua
+1530945027380 Loading: media/lua/client/Vehicles/ISUI/ISVehicleSeatUI.lua
+1530945027388 Loading: media/lua/client/Vehicles/TimedActions/ISAddGasolineToVehicle.lua
+1530945027394 Loading: media/lua/client/Vehicles/TimedActions/ISCloseVehicleDoor.lua
+1530945027400 Loading: media/lua/client/Vehicles/TimedActions/ISDeflateTire.lua
+1530945027407 Loading: media/lua/client/Vehicles/TimedActions/ISEnterVehicle.lua
+1530945027414 Loading: media/lua/client/Vehicles/TimedActions/ISExitVehicle.lua
+1530945027421 Loading: media/lua/client/Vehicles/TimedActions/ISHorn.lua
+1530945027429 Loading: media/lua/client/Vehicles/TimedActions/ISHotwireVehicle.lua
+1530945027435 Loading: media/lua/client/Vehicles/TimedActions/ISInflateTire.lua
+1530945027442 Loading: media/lua/client/Vehicles/TimedActions/ISInstallVehiclePart.lua
+1530945027450 Loading: media/lua/client/Vehicles/TimedActions/ISLightbarUITimedAction.lua
+1530945027456 Loading: media/lua/client/Vehicles/TimedActions/ISLockDoors.lua
+1530945027464 Loading: media/lua/client/Vehicles/TimedActions/ISLockVehicleDoor.lua
+1530945027470 Loading: media/lua/client/Vehicles/TimedActions/ISOpenCloseVehicleWindow.lua
+1530945027476 Loading: media/lua/client/Vehicles/TimedActions/ISOpenMechanicsUIAction.lua
+1530945027482 Loading: media/lua/client/Vehicles/TimedActions/ISOpenVehicleDoor.lua
+1530945027488 Loading: media/lua/client/Vehicles/TimedActions/ISPathFindAction.lua
+1530945027495 Loading: media/lua/client/Vehicles/TimedActions/ISRechargeCarBattery.lua
+1530945027501 Loading: media/lua/client/Vehicles/TimedActions/ISRefuelFromGasPump.lua
+1530945027508 Loading: media/lua/client/Vehicles/TimedActions/ISRepairEngine.lua
+1530945027515 Loading: media/lua/client/Vehicles/TimedActions/ISShutOffVehicleEngine.lua
+1530945027522 Loading: media/lua/client/Vehicles/TimedActions/ISSmashVehicleWindow.lua
+1530945027529 Loading: media/lua/client/Vehicles/TimedActions/ISStartVehicleEngine.lua
+1530945027536 Loading: media/lua/client/Vehicles/TimedActions/ISSwitchVehicleSeat.lua
+1530945027543 Loading: media/lua/client/Vehicles/TimedActions/ISTakeEngineParts.lua
+1530945027550 Loading: media/lua/client/Vehicles/TimedActions/ISTakeGasolineFromVehicle.lua
+1530945027556 Loading: media/lua/client/Vehicles/TimedActions/ISUninstallVehiclePart.lua
+1530945027563 Loading: media/lua/client/Vehicles/TimedActions/ISUnlockVehicleDoor.lua
+1530945027570 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfo.lua
+1530945027577 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfoWindow.lua
+1530945027585 Loading: media/lua/client/XpSystem/ISUI/ISCharacterScreen.lua
+1530945027592 Loading: media/lua/client/XpSystem/ISUI/ISHealthPanel.lua
+1530945027603 Loading: media/lua/client/XpSystem/ISUI/ISSkillProgressBar.lua
+1530945027609 Loading: media/lua/client/erosion/debug/ChunkReader.lua
+1530945027617 Loading: media/lua/client/erosion/debug/DebugDemoTime.lua
+1530945027626 Loading: media/lua/client/erosion/debug/Point2D.lua
+1530945027655 OnLoadSoundbanks
+1530945027657 texturepack: loading Tiles2x
+1530945033475 texturepack: finished loading Tiles2x
+1530945033476 texturepack: loading JumboTrees2x
+1530945034747 texturepack: finished loading JumboTrees2x
+1530945034747 texturepack: loading Tiles2x.floor
+1530945034982 texturepack: finished loading Tiles2x.floor
+1530945034983 texturepack: loading Characters
+1530945037531 texturepack: finished loading Characters
+1530945037537 LOADED UP A TOTAL OF 168 TEXTURES
+1530945037561 [VOICE MANAGER] Init: Start
+1530945037563 [VOICE MANAGER] VoiceInit
+1530945037599 znet: Java_zombie_core_raknet_RakVoice_RVInit
+1530945037623 fmod: globalSystem = 0x1A147428
+1530945037623 fmod: FMOD_System_GetRecordDriverInfo: nativeRate = 44100, nativeChannels = 2
+1530945037643 fmod: System create record sound: OK
+1530945037665 fmod: Create resampler: OK
+1530945037666 fmod: Create acoustic echo canceller: OK
+1530945037669 [VOICE MANAGER] FMOD_System_CreateSound OK
+1530945037676 fmod: GetRecordNumDrivers id = 0, sound = 0x1f7b18d8 loop=1
+1530945037716 [VOICE MANAGER] Init: End
+1530945037716 [VOICE MANAGER] UpdateVMClient going to sleep
+STATE: enter zombie.gameStates.AlphaWarningState
+STATE: exit zombie.gameStates.AlphaWarningState
+STATE: enter zombie.gameStates.MainScreenState
+1530945040015 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040018 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040029 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945040029 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040037 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040041 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945040043 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040048 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040083 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040083 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945040084 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945040566 znet: Server responded: 108.61.235.122
+1530945040776 znet: RulesRefreshComplete: 108.61.235.122 56261
+SERVER: info@coop mode enabled
+SERVER: status@Initialising
+SERVER: status@Initialising server systems
+SERVER: status@Loading world
+SERVER: server-address@76.88.95.251:16261
+1530945068725 Got server-address: 76.88.95.251:16261
+1530945068725 Successfully parsed: address = 76.88.95.251, port = 16261
+SERVER: steam-id@90115830916279301
+SERVER: status@Server Started
+1530945068735 Initialising RakNet...
+1530945068735 znet: Java_zombie_core_raknet_RakNetPeerInterface_Init
+1530945068735 znet: g_peer = 0x1e412190
+1530945068736 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetMaximumIncomingConnections
+1530945068736 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetClientPort
+1530945068736 znet: Java_zombie_core_raknet_RakNetPeerInterface_SetOccasionalPing
+1530945068736 znet: Java_zombie_core_raknet_RakNetPeerInterface_Startup
+1530945068753 znet: OnRakPeerStartup
+1530945068754 znet: RakNet-through-Steam mode activated
+RakNet.Startup() return code: 0 (0 means success)
+1530945068754 znet: Java_zombie_core_raknet_RakNetPeerInterface_ConnectToSteamServer
+1530945068754 Connecting,
+1530945069542 znet: Got Server Info Message: Zomboid Server Information
+1530945069543 znet: Server public IP: 76.88.95.251
+1530945069543 znet: Beginning authentication
+1530945069543 AuthPending,
+1530945069839 znet: Successfully authenticated
+1530945069840 ConnectionPending,
+1530945069840 znet: Connection attempt started
+1530945069952 znet: ZNetFriends::OnPersonaStateChange
+1530945069952 znet: ZNetFriends::OnPersonaStateChange
+1530945071934 znet: New connection
+1530945071934 RakNetPeerInterface.connectionStateChangedCallback state=Connected message= thread=Thread[UdpEngine,5,main]
+Connection Request Accepted
+1530945071935 [VOICE MANAGER] VoiceConnectReq uuid=1071857673840201100
+1530945071935 znet: Java_zombie_core_raknet_RakVoice_RequestVoiceChannel
+1530945071964 [VOICE MANAGER] UpdateVMClient woke up
+1530945072067 [VOICE MANAGER] VoiceOpenChannelReply uuid=1071857673840201100
+1530945072079 [VOICE MANAGER] VoiceOpenChannelReply discretizate=24000
+1530945072079 [VOICE MANAGER] VoiceOpenChannelReply period=20
+1530945072079 [VOICE MANAGER] VoiceOpenChannelReply buffering=8000
+1530945072122 fmod: globalSystem = 0x1A147428
+1530945072125 fmod: FMOD_System_GetRecordDriverInfo: nativeRate = 44100, nativeChannels = 2
+1530945072125 fmod: System create record sound: OK
+1530945072125 fmod: Create resampler: OK
+1530945072126 fmod: Create acoustic echo canceller: OK
+1530945072126 [VOICE MANAGER] FMOD_System_CreateSound OK
+1530945072147 fmod: GetRecordNumDrivers id = 0, sound = 0x461689f8 loop=1
+LOGGED INTO : 275 millisecond
+1530945072218 ConnectToServerState: Start
+1530945072219 ConnectToServerState: TestTCP
+1530945072268 Connected,nil
+1530945072773 fmod: Java_fmod_javafmodJNI_FMOD_1Sound_1GetData:3930 JNI_FMOD_Sound_GetData correct buffer
+1530945073251 translator: language is EN
+1530945073267 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_battery.txt
+1530945073268 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_brake.txt
+1530945073270 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_door.txt
+1530945073271 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine.txt
+1530945073273 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine_door.txt
+1530945073273 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_gastank.txt
+1530945073273 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_glovebox.txt
+1530945073274 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_headlight.txt
+1530945073275 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_heater.txt
+1530945073275 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_muffler.txt
+1530945073275 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger.txt
+1530945073277 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger_compartment.txt
+1530945073278 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_radio.txt
+1530945073278 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_seat.txt
+1530945073279 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_suspension.txt
+1530945073279 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_tire.txt
+1530945073280 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk.txt
+1530945073280 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk_door.txt
+1530945073281 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_window.txt
+1530945073281 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_windshield.txt
+1530945073282 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\Lot_Rural_Farmhouse_00_distribution.txt
+1530945073282 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\camping.txt
+1530945073284 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\evolvedrecipes.txt
+1530945073285 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farmdistribution.txt
+1530945073285 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farming.txt
+1530945073319 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\fixing.txt
+1530945073340 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items.txt
+1530945073416 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items_radio.txt
+1530945073471 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\moveables.txt
+1530945073485 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\multistagebuild.txt
+1530945073512 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\newitems.txt
+1530945073730 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\beenbit.txt
+1530945073757 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\chewedbyzombies.txt
+1530945073773 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingalreadymembers.txt
+1530945073778 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetinghub.txt
+1530945073779 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingsloner.txt
+1530945073780 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingteamup.txt
+1530945073786 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveaggressive.txt
+1530945073788 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveneutral.txt
+1530945073789 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerfriendlyneutral.txt
+1530945073790 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerneutralaggressive.txt
+1530945073795 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupaggressiveaggressive.txt
+1530945073806 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupneutralaggressive.txt
+1530945073812 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\givenitem.txt
+1530945073814 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\killedzombie.txt
+1530945073815 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainalreadymembers.txt
+1530945073821 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainhub.txt
+1530945073831 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainloner.txt
+1530945073841 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainteamup.txt
+1530945073849 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\npcgroupcommands.txt
+1530945073850 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\patchedup.txt
+1530945073850 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalk.txt
+1530945073851 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkbleeding.txt
+1530945073853 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeing.txt
+1530945073858 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeingbleeding.txt
+1530945073860 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes.txt
+1530945073874 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes_radio.txt
+1530945073877 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\suburbsdistribution.txt
+1530945073883 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\uniquerecipes.txt
+1530945073885 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\burntvehicles.txt
+1530945073890 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\carnormal.txt
+1530945073913 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\smallcar.txt
+1530945073925 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\sportcar.txt
+1530945073932 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vans.txt
+1530945073951 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carluxury.txt
+1530945073962 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern.txt
+1530945073977 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern02.txt
+1530945073987 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_offroad.txt
+1530945074020 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_smallcar02.txt
+1530945074045 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_suv.txt
+1530945074108 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi.txt
+1530945074128 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi2.txt
+1530945074174 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles.txt
+1530945074258 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles_mccoy.txt
+1530945074292 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesfixing.txt
+1530945074293 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesitems.txt
+1530945074337 Loading: media/lua/shared/ISBaseObject.lua
+1530945074338 Loading: media/lua/shared/JoyPad/JoyPadSetup.lua
+1530945074340 Loading: media/lua/shared/NPCs/MainCreationMethods.lua
+1530945074343 Loading: media/lua/shared/Reloading/ISRackAction.lua
+1530945074343 Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua
+1530945074344 Loading: media/lua/shared/Reloading/ISReloadAction.lua
+1530945074344 Loading: media/lua/shared/Reloading/ISReloadManager.lua
+1530945074346 Loading: media/lua/shared/Reloading/ISReloadUtil.lua
+1530945074347 Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua
+1530945074347 Loading: media/lua/shared/Reloading/ISReloadable.lua
+1530945074348 Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua
+1530945074351 Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua
+1530945074358 Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua
+1530945074361 Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua
+1530945074363 Loading: media/lua/shared/Reloading/stormysReload.lua
+1530945074363 require("timedactionshelper") failed
+1530945074363 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945074364 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945074365 Loading: media/lua/shared/Sandbox/SandboxVars.lua
+1530945074368 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945074374 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945074382 Loading: media/lua/shared/SoundBanks/SoundBanks.lua
+1530945074384 Loading: media/lua/shared/SpawnRegions.lua
+1530945074385 Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua
+1530945074386 Loading: media/lua/shared/StashDescriptions/StashUtil.lua
+1530945074386 Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua
+1530945074387 Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua
+1530945074388 Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua
+1530945074389 Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua
+1530945074390 Loading: media/lua/shared/Util/BuildingHelper.lua
+1530945074392 Loading: media/lua/shared/Util/ISPriorityTable.lua
+1530945074392 Loading: media/lua/shared/Util/LuaList.lua
+1530945074394 Loading: media/lua/shared/Util/LuaNet.lua
+1530945074411 Loading: media/lua/shared/Util/StringReplacer.lua
+1530945074447 Loading: media/lua/shared/Util/Vector2.lua
+1530945074460 Loading: media/lua/shared/a_requires.lua
+1530945074525 require("NPCs/SadisticAIDirector/SadisticAIDirector") failed
+1530945074532 Loading: media/lua/shared/defines.lua
+1530945074532 Loading: media/lua/shared/iwbumstempmodelcompat.lua
+1530945074536 Loading: media/lua/shared/keyBinding.lua
+1530945074539 Loading: media/lua/shared/luautils.lua
+1530945074562 Loading: media/lua/client/Blacksmith/ISUI/ISBlacksmithMenu.lua
+1530945074571 Loading: media/lua/client/Blacksmith/ISUI/ISFurnaceInfoWindow.lua
+1530945074581 Loading: media/lua/client/ISUI/ISCollapsableWindow.lua
+1530945074584 Loading: media/lua/client/ISUI/ISPanel.lua
+1530945074586 Loading: media/lua/client/ISUI/ISUIElement.lua
+1530945074588 Loading: media/lua/client/ISUI/ISButton.lua
+1530945074589 Loading: media/lua/client/ISUI/ISInventoryPane.lua
+1530945074605 Loading: media/lua/client/ISUI/ISMouseDrag.lua
+1530945074648 Loading: media/lua/client/TimedActions/ISTimedActionQueue.lua
+1530945074760 require("timedactionshelper") failed
+1530945074786 Loading: media/lua/client/TimedActions/ISEatFoodAction.lua
+1530945074787 Loading: media/lua/client/ISUI/ISResizeWidget.lua
+1530945074788 Loading: media/lua/client/Blacksmith/TimedActions/ISAddCoalInFurnace.lua
+1530945074792 Loading: media/lua/client/Blacksmith/TimedActions/ISAddLogsInDrum.lua
+1530945074799 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromKindle.lua
+1530945074800 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromLiterature.lua
+1530945074801 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromPetrol.lua
+1530945074802 Loading: media/lua/client/Blacksmith/TimedActions/ISEmptyDrum.lua
+1530945074802 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceInfoAction.lua
+1530945074803 Loading: media/lua/client/ISUI/ISLayoutManager.lua
+1530945074805 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromKindle.lua
+1530945074807 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromLiterature.lua
+1530945074808 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromPetrol.lua
+1530945074809 Loading: media/lua/client/Blacksmith/TimedActions/ISPutOutFireDrum.lua
+1530945074809 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveCharcoal.lua
+1530945074810 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveDrum.lua
+1530945074810 Loading: media/lua/client/Blacksmith/TimedActions/ISStopFurnaceFire.lua
+1530945074814 Loading: media/lua/client/Blacksmith/TimedActions/ISUseBellows.lua
+1530945074816 Loading: media/lua/client/BuildingObjects/ISUI/ISBuildMenu.lua
+1530945074825 Loading: media/lua/client/BuildingObjects/ISUI/ISInventoryBuildMenu.lua
+1530945074828 Loading: media/lua/client/BuildingObjects/ISUI/ISPaintMenu.lua
+1530945074829 Loading: media/lua/client/BuildingObjects/ISUI/ISRainCollectorMenu.lua
+1530945074830 Loading: media/lua/client/BuildingObjects/TimedActions/ISBuildAction.lua
+1530945074830 Loading: media/lua/client/BuildingObjects/TimedActions/ISInsertLightSourceFuelAction.lua
+1530945074832 Loading: media/lua/client/BuildingObjects/TimedActions/ISMultiStageBuild.lua
+1530945074834 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintAction.lua
+1530945074841 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintSignAction.lua
+1530945074842 Loading: media/lua/client/BuildingObjects/TimedActions/ISPlasterAction.lua
+1530945074843 Loading: media/lua/client/BuildingObjects/TimedActions/ISRemoveLightSourceFuelAction.lua
+1530945074843 Loading: media/lua/client/BuildingObjects/TimedActions/ISShovelGround.lua
+1530945074844 Loading: media/lua/client/BuildingObjects/TimedActions/ISToggleLightSourceAction.lua
+1530945074845 Loading: media/lua/client/Camping/ISUI/ISCampingMenu.lua
+1530945074846 require("Camping/camping") failed
+1530945074846 require("Camping/camping_fuel") failed
+1530945074847 Loading: media/lua/client/Camping/TimedActions/ISAddFuelAction.lua
+1530945074848 Loading: media/lua/client/Camping/TimedActions/ISAddPetrolAction.lua
+1530945074848 Loading: media/lua/client/Camping/TimedActions/ISAddTentAction.lua
+1530945074849 Loading: media/lua/client/Camping/TimedActions/ISLightFromKindle.lua
+1530945074851 Loading: media/lua/client/Camping/TimedActions/ISLightFromLiterature.lua
+1530945074852 Loading: media/lua/client/Camping/TimedActions/ISLightFromPetrol.lua
+1530945074854 Loading: media/lua/client/Camping/TimedActions/ISPlaceCampfireAction.lua
+1530945074855 Loading: media/lua/client/Camping/TimedActions/ISPutOutCampfireAction.lua
+1530945074857 Loading: media/lua/client/Camping/TimedActions/ISRemoveCampfireAction.lua
+1530945074858 Loading: media/lua/client/Camping/TimedActions/ISRemoveTentAction.lua
+1530945074862 Loading: media/lua/client/Camping/TimedActions/ISSleepInTentAction.lua
+1530945074863 Loading: media/lua/client/Chat/ChatContainer.lua
+1530945074865 Loading: media/lua/client/Chat/ChatNotLoggedOn.lua
+1530945074899 Loading: media/lua/client/Chat/ChatOnscreen.lua
+1530945074923 Loading: media/lua/client/Chat/ChatOutput.lua
+1530945074976 Loading: media/lua/client/Chat/ChatPanel.lua
+1530945074986 Loading: media/lua/client/Context/ISContextManager.lua
+1530945074987 Loading: media/lua/client/Context/ISMenuContext.lua
+1530945074987 Loading: media/lua/client/Context/ISMenuContextBuild.lua
+1530945074987 Loading: media/lua/client/Context/ISMenuContextInventory.lua
+1530945074994 Loading: media/lua/client/Context/ISMenuContextWorld.lua
+1530945074996 Loading: media/lua/client/Context/ISMenuElement.lua
+1530945075002 Loading: media/lua/client/Context/Inventory/InvContextMovable.lua
+1530945075032 Loading: media/lua/client/Context/Inventory/InvContextRadio.lua
+1530945075078 Loading: media/lua/client/Context/World/ISContextDisassemble.lua
+1530945075086 Loading: media/lua/client/Context/World/ISContextDoor.lua
+1530945075087 Loading: media/lua/client/Context/World/ISContextTelevision.lua
+1530945075098 Loading: media/lua/client/DebugUIs/DebugOptionsWindow.lua
+1530945075108 Loading: media/lua/client/DebugUIs/DebugScenarios.lua
+1530945075108 Loading: media/lua/client/DebugUIs/DebugToolstrip.lua
+1530945075108 Loading: media/lua/client/DebugUIs/DeviceInspector.lua
+1530945075111 Loading: media/lua/client/DebugUIs/LuaDebugOutput.lua
+1530945075150 Loading: media/lua/client/DebugUIs/LuaDebugger.lua
+1530945075159 Loading: media/lua/client/DebugUIs/LuaFileBrowser.lua
+1530945075162 Loading: media/lua/client/DebugUIs/LuaThreadWindow.lua
+1530945075168 Loading: media/lua/client/DebugUIs/MetaWorldRenderPanel.lua
+1530945075169 Loading: media/lua/client/DebugUIs/MetaWorldWindow.lua
+1530945075169 Loading: media/lua/client/DebugUIs/ObjectViewer.lua
+1530945075170 Loading: media/lua/client/DebugUIs/Scenarios/DebugScenario.lua
+1530945075171 Loading: media/lua/client/DebugUIs/SourceWindow.lua
+1530945075171 Loading: media/lua/client/DebugUIs/StashDebug.lua
+1530945075173 Loading: media/lua/client/DebugUIs/StreamMapWindow.lua
+1530945075174 Loading: media/lua/client/DebugUIs/TextureViewer.lua
+1530945075174 Loading: media/lua/client/DebugUIs/WatchWindow.lua
+1530945075175 Loading: media/lua/client/Farming/ISUI/ISFarmingInfo.lua
+1530945075177 Loading: media/lua/client/ISUI/ISPanelJoypad.lua
+1530945075178 Loading: media/lua/client/Farming/ISUI/ISFarmingMenu.lua
+1530945075180 Loading: media/lua/client/Farming/ISUI/ISFarmingWindow.lua
+1530945075180 Loading: media/lua/client/Farming/TimedActions/ISCureFliesAction.lua
+1530945075181 Loading: media/lua/client/Farming/TimedActions/ISCureMildewAction.lua
+1530945075181 Loading: media/lua/client/Farming/TimedActions/ISFertilizeAction.lua
+1530945075183 Loading: media/lua/client/Farming/TimedActions/ISHarvestPlantAction.lua
+1530945075183 Loading: media/lua/client/Farming/TimedActions/ISPlantInfoAction.lua
+1530945075184 Loading: media/lua/client/Farming/TimedActions/ISPlowAction.lua
+1530945075184 Loading: media/lua/client/Farming/TimedActions/ISSeedAction.lua
+1530945075185 Loading: media/lua/client/Farming/TimedActions/ISShovelAction.lua
+1530945075185 Loading: media/lua/client/Farming/TimedActions/ISWaterPlantAction.lua
+1530945075186 Loading: media/lua/client/Fishing/TimedActions/ISCheckFishingNetAction.lua
+1530945075187 Loading: media/lua/client/Fishing/TimedActions/ISFishingAction.lua
+1530945075188 Loading: media/lua/client/Fishing/fishing_properties.lua
+1530945075189 Loading: media/lua/client/ISTooltipRenderers/ISInventoryItemTooltip.lua
+1530945075190 Loading: media/lua/client/ISUI/AdminPanel/ISAddNonPvpZoneUI.lua
+1530945075191 Loading: media/lua/client/ISUI/AdminPanel/ISAdminMessage.lua
+1530945075192 Loading: media/lua/client/ISUI/AdminPanel/ISAdminPanelUI.lua
+1530945075193 Loading: media/lua/client/ISUI/AdminPanel/ISAdminTicketsUI.lua
+1530945075194 Loading: media/lua/client/ISUI/AdminPanel/ISFactionsList.lua
+1530945075201 Loading: media/lua/client/ISUI/AdminPanel/ISItemEditorUI.lua
+1530945075203 Loading: media/lua/client/ISUI/AdminPanel/ISMiniScoreboardUI.lua
+1530945075210 Loading: media/lua/client/ISUI/AdminPanel/ISPacketCounts.lua
+1530945075214 Loading: media/lua/client/ISUI/AdminPanel/ISPvpZonePanel.lua
+1530945075221 Loading: media/lua/client/ISUI/AdminPanel/ISSafehousesList.lua
+1530945075226 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptions.lua
+1530945075228 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptionsChange.lua
+1530945075230 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistModifyRow.lua
+1530945075231 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistTable.lua
+1530945075232 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistViewer.lua
+1530945075233 Loading: media/lua/client/ISUI/FPS.lua
+1530945075233 Loading: media/lua/client/ISUI/Fireplace/ISKnob.lua
+1530945075234 Loading: media/lua/client/ISUI/Fireplace/ISMicrowaveUI.lua
+1530945075235 Loading: media/lua/client/ISUI/Fireplace/ISOvenUI.lua
+1530945075237 Loading: media/lua/client/ISUI/ISAlarmClockDialog.lua
+1530945075238 Loading: media/lua/client/ISUI/ISBBQInfoWindow.lua
+1530945075238 Loading: media/lua/client/ISUI/ISBBQMenu.lua
+1530945075239 require("Camping/camping_fuel") failed
+1530945075240 Loading: media/lua/client/ISUI/ISBackButtonWheel.lua
+1530945075240 Loading: media/lua/client/ISUI/ISRadialMenu.lua
+1530945075241 Loading: media/lua/client/ISUI/ISBombTimerDialog.lua
+1530945075242 Loading: media/lua/client/ISUI/ISButtonPrompt.lua
+1530945075248 Loading: media/lua/client/ISUI/ISChat.lua
+1530945075254 Loading: media/lua/client/ISUI/ISRichTextPanel.lua
+1530945075263 Loading: media/lua/client/ISUI/ISCollapsableModalRichText.lua
+1530945075271 Loading: media/lua/client/ISUI/ISColorPicker.lua
+1530945075272 Loading: media/lua/client/ISUI/ISComboBox.lua
+1530945075274 Loading: media/lua/client/ISUI/ISScrollingListBox.lua
+1530945075276 Loading: media/lua/client/ISUI/ISContextMenu.lua
+1530945075279 Loading: media/lua/client/ISUI/ISControllerTestPanel.lua
+1530945075281 Loading: media/lua/client/ISUI/ISCraftingCategoryUI.lua
+1530945075282 Loading: media/lua/client/ISUI/ISCraftingUI.lua
+1530945075290 Loading: media/lua/client/ISUI/ISDPadWheels.lua
+1530945075307 Loading: media/lua/client/ISUI/ISDemoPopup.lua
+1530945075317 Loading: media/lua/client/ISUI/ISDigitalCode.lua
+1530945075320 Loading: media/lua/client/ISUI/ISDuplicateKeybindDialog.lua
+1530945075321 Loading: media/lua/client/ISUI/ISEquippedItem.lua
+1530945075323 Loading: media/lua/client/ISUI/ISFireplaceMenu.lua
+1530945075327 Loading: media/lua/client/ISUI/ISGameLoadingUI.lua
+1530945075328 Loading: media/lua/client/ISUI/ISGeneratorInfoWindow.lua
+1530945075328 Loading: media/lua/client/ISUI/ISImage.lua
+1530945075329 Loading: media/lua/client/ISUI/ISInfoContainer.lua
+1530945075329 Loading: media/lua/client/ISUI/ISInfoWindow.lua
+1530945075330 Loading: media/lua/client/ISUI/ISInventoryPage.lua
+1530945075335 Loading: media/lua/client/ISUI/ISInventoryPaneContextMenu.lua
+1530945075341 Loading: media/lua/client/ISUI/ISLabel.lua
+1530945075341 Loading: media/lua/client/ISUI/ISMegaVolumeControl.lua
+1530945075342 Loading: media/lua/client/ISUI/ISModalDialog.lua
+1530945075343 Loading: media/lua/client/ISUI/ISModalRichText.lua
+1530945075345 Loading: media/lua/client/ISUI/ISMoveableInfoWindow.lua
+1530945075357 Loading: media/lua/client/ISUI/ISNewsUpdate.lua
+1530945075365 Loading: media/lua/client/ISUI/ISOptionPanel.lua
+1530945075367 Loading: media/lua/client/ISUI/ISPostDeathUI.lua
+1530945075376 Loading: media/lua/client/ISUI/ISRadioOption.lua
+1530945075376 Loading: media/lua/client/ISUI/ISRainPanel.lua
+1530945075382 Loading: media/lua/client/ISUI/ISRect.lua
+1530945075385 Loading: media/lua/client/ISUI/ISResizeableButton.lua
+1530945075385 Loading: media/lua/client/ISUI/ISRichTextBox.lua
+1530945075386 Loading: media/lua/client/ISUI/ISSafehouseAddPlayerUI.lua
+1530945075390 Loading: media/lua/client/ISUI/ISSafehouseUI.lua
+1530945075393 Loading: media/lua/client/ISUI/ISSafetyUI.lua
+1530945075396 Loading: media/lua/client/ISUI/ISScavengeUI.lua
+1530945075401 Loading: media/lua/client/ISUI/ISScrollBar.lua
+1530945075407 Loading: media/lua/client/ISUI/ISServerSavingMessage.lua
+1530945075411 Loading: media/lua/client/ISUI/ISSetKeybindDialog.lua
+1530945075412 Loading: media/lua/client/ISUI/ISSleepDialog.lua
+1530945075413 Loading: media/lua/client/ISUI/ISSpinBox.lua
+1530945075413 Loading: media/lua/client/ISUI/ISTabPanel.lua
+1530945075415 Loading: media/lua/client/ISUI/ISTextBox.lua
+1530945075417 Loading: media/lua/client/ISUI/ISTextEntryBox.lua
+1530945075417 Loading: media/lua/client/ISUI/ISTickBox.lua
+1530945075418 Loading: media/lua/client/ISUI/ISToolTip.lua
+1530945075419 Loading: media/lua/client/ISUI/ISToolTipInv.lua
+1530945075421 Loading: media/lua/client/ISUI/ISTradingUI.lua
+1530945075425 Loading: media/lua/client/ISUI/ISTradingUIHistorial.lua
+1530945075426 Loading: media/lua/client/ISUI/ISUIHandler.lua
+1530945075428 Loading: media/lua/client/ISUI/ISUIWriteJournal.lua
+1530945075430 Loading: media/lua/client/ISUI/ISVehicleConfirmBox.lua
+1530945075448 Loading: media/lua/client/ISUI/ISVolumeControl.lua
+1530945075454 Loading: media/lua/client/ISUI/ISVolumeIndicator.lua
+1530945075456 Loading: media/lua/client/ISUI/ISWindow.lua
+1530945075459 Loading: media/lua/client/ISUI/ISWorldObjectContextMenu.lua
+1530945075480 Loading: media/lua/client/ISUI/Maps/ISMap.lua
+1530945075487 Loading: media/lua/client/ISUI/Maps/ISMapSymbols.lua
+1530945075488 Loading: media/lua/client/ISUI/Maps/ISTextBoxMap.lua
+1530945075489 Loading: media/lua/client/ISUI/PlayerData/ISPlayerData.lua
+1530945075490 Loading: media/lua/client/ISUI/PlayerData/ISPlayerDataObject.lua
+1530945075491 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsAddXPUI.lua
+1530945075492 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseAccessLevel.lua
+1530945075497 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseProfessionUI.lua
+1530945075502 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseTraitUI.lua
+1530945075502 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsManageInvUI.lua
+1530945075503 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUI.lua
+1530945075507 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUserlogUI.lua
+1530945075508 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsWarningPointUI.lua
+1530945075509 Loading: media/lua/client/ISUI/RichTextLayout.lua
+1530945075510 Loading: media/lua/client/ISUI/SpeedControlsHandler.lua
+1530945075511 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionTagUI.lua
+1530945075511 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionUI.lua
+1530945075512 Loading: media/lua/client/ISUI/UserPanel/ISFactionAddPlayerUI.lua
+1530945075513 Loading: media/lua/client/ISUI/UserPanel/ISFactionUI.lua
+1530945075515 Loading: media/lua/client/ISUI/UserPanel/ISTicketsUI.lua
+1530945075516 Loading: media/lua/client/ISUI/UserPanel/ISUserPanelUI.lua
+1530945075517 Loading: media/lua/client/ISUI/ZombiePopulationWindow.lua
+1530945075518 Loading: media/lua/client/LastStand/AReallyCDDAy.lua
+1530945075520 Loading: media/lua/client/LastStand/Challenge1.lua
+1530945075521 Loading: media/lua/client/LastStand/Challenge2.lua
+1530945075522 Loading: media/lua/client/LastStand/EightMonthsLater.lua
+1530945075526 Loading: media/lua/client/LastStand/ISUI/ISChallenge2PlayerUpWindow.lua
+1530945075528 Loading: media/lua/client/LastStand/ISUI/ISChallenge2UpgradeTab.lua
+1530945075529 Loading: media/lua/client/LastStand/ISUI/ISChallenge2VariousItemWindow.lua
+1530945075530 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponRepairWindow.lua
+1530945075531 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponUpWindow.lua
+1530945075531 Loading: media/lua/client/LastStand/Insomnia.lua
+1530945075538 Loading: media/lua/client/LastStand/LastStandSetup.lua
+1530945075546 Loading: media/lua/client/LastStand/OpeningHours.lua
+1530945075550 Loading: media/lua/client/LastStand/WinterIsComing.lua
+1530945075557 Loading: media/lua/client/LastStand/YouHaveOneDay.lua
+1530945075566 Loading: media/lua/client/Moveables/ISMoveableDefinitions.lua
+1530945075580 Loading: media/lua/client/Moveables/ISMoveableSpriteProps.lua
+1530945075592 Loading: media/lua/client/Moveables/ISMoveableTools.lua
+1530945075593 Loading: media/lua/client/Moveables/ISMoveablesAction.lua
+1530945075593 Loading: media/lua/client/Moveables/ISMoveablesIconToolTip.lua
+1530945075594 Loading: media/lua/client/Music/MusicChoices.lua
+1530945075595 Loading: media/lua/client/NPCs/ProfessionClothing.lua
+1530945075595 Loading: media/lua/client/NPCs/UI/CharacterInfoPage.lua
+1530945075596 Loading: media/lua/client/NPCs/UI/TeamOverview.lua
+1530945075596 Loading: media/lua/client/NPCs/UI/TeamPicker.lua
+1530945075597 Loading: media/lua/client/OptionScreens/BootstrapConnectPopup.lua
+1530945075598 Loading: media/lua/client/OptionScreens/CharacterCreationHeader.lua
+1530945075599 Loading: media/lua/client/OptionScreens/CharacterCreationMain.lua
+1530945075603 Loading: media/lua/client/OptionScreens/CharacterCreationProfession.lua
+1530945075607 Loading: media/lua/client/OptionScreens/CoopCharacterCreation.lua
+1530945075609 Loading: media/lua/client/OptionScreens/CoopCharacterCreationMain.lua
+1530945075610 Loading: media/lua/client/OptionScreens/CoopCharacterCreationProfession.lua
+1530945075610 Loading: media/lua/client/OptionScreens/CoopConnectPopup.lua
+1530945075611 Loading: media/lua/client/OptionScreens/CoopMapSpawnSelect.lua
+1530945075611 Loading: media/lua/client/OptionScreens/MapSpawnSelect.lua
+1530945075613 Loading: media/lua/client/OptionScreens/CoopOptionsScreen.lua
+1530945075614 Loading: media/lua/client/OptionScreens/CoopUserName.lua
+1530945075615 Loading: media/lua/client/OptionScreens/ISScoreboard.lua
+1530945075618 Loading: media/lua/client/OptionScreens/InviteFriends.lua
+1530945075620 Loading: media/lua/client/OptionScreens/LastStandChallenge.lua
+1530945075620 Loading: media/lua/client/OptionScreens/LastStandPlayerSelect.lua
+1530945075622 Loading: media/lua/client/OptionScreens/LoadGameScreen.lua
+1530945075624 Loading: media/lua/client/OptionScreens/LoginScreen.lua
+1530945075627 Loading: media/lua/client/OptionScreens/MainOptions.lua
+1530945075639 Loading: media/lua/client/OptionScreens/MainScreen.lua
+1530945075649 Loading: media/lua/client/OptionScreens/MapSelecter.lua
+1530945075660 Loading: media/lua/client/OptionScreens/ModMoreInfo.lua
+1530945075662 Loading: media/lua/client/OptionScreens/ModOrderUI.lua
+1530945075663 Loading: media/lua/client/OptionScreens/ModSelector.lua
+1530945075664 Loading: media/lua/client/OptionScreens/NewGameScreen.lua
+1530945075669 Loading: media/lua/client/OptionScreens/PublicServerList.lua
+1530945075678 Loading: media/lua/client/OptionScreens/SandboxOptions.lua
+1530945075683 Loading: media/lua/client/OptionScreens/ServerConnectPopup.lua
+1530945075690 Loading: media/lua/client/OptionScreens/ServerList.lua
+1530945075693 Loading: media/lua/client/OptionScreens/ServerSettingsScreen.lua
+1530945075710 MISSING in SettingsTable: SpawnPoint
+1530945075710 MISSING in SettingsTable: Mods
+1530945075710 MISSING in SettingsTable: Map
+1530945075710 MISSING in SettingsTable: SteamPort2
+1530945075710 MISSING in SettingsTable: WorkshopItems
+1530945075710 MISSING in SettingsTable: CoopServerLaunchTimeout
+1530945075710 MISSING in SettingsTable: CoopMasterPingTimeout
+1530945075710 MISSING in SettingsTable: server_browser_announced_ip
+1530945075710 MISSING in SettingsTable: UseTCPForMapDownloads
+1530945075710 MISSING in SettingsTable: StartYear
+1530945075711 Loading: media/lua/client/OptionScreens/ServerToolbox.lua
+1530945075712 Loading: media/lua/client/OptionScreens/ServerWorkshopItemScreen.lua
+1530945075712 Loading: media/lua/client/OptionScreens/StoryNewOrLoadScreen.lua
+1530945075713 Loading: media/lua/client/OptionScreens/StoryScreen.lua
+1530945075714 Loading: media/lua/client/OptionScreens/WorkshopSubmitScreen.lua
+1530945075740 Loading: media/lua/client/OptionScreens/WorldSelect.lua
+1530945075764 Loading: media/lua/client/RadioCom/ISRadioAction.lua
+1530945075813 Loading: media/lua/client/RadioCom/ISRadioInteractions.lua
+1530945075857 Loading: media/lua/client/RadioCom/ISRadioWindow.lua
+1530945075866 Loading: media/lua/client/RadioCom/ISUIRadio/ISBatteryStatusDisplay.lua
+1530945075874 Loading: media/lua/client/RadioCom/ISUIRadio/ISItemDropBox.lua
+1530945075881 Loading: media/lua/client/RadioCom/ISUIRadio/ISLedLight.lua
+1530945075882 Loading: media/lua/client/RadioCom/ISUIRadio/ISSineWaveDisplay.lua
+1530945075889 Loading: media/lua/client/RadioCom/ISUIRadio/ISSliderPanel.lua
+1530945075891 Loading: media/lua/client/RadioCom/ISUIRadio/ISSpeakerButton.lua
+1530945075893 Loading: media/lua/client/RadioCom/ISUIRadio/ISVolumeBar.lua
+1530945075897 Loading: media/lua/client/RadioCom/RadioWindowModules/RMWPanel.lua
+1530945075920 Loading: media/lua/client/RadioCom/RadioWindowModules/RWM.lua
+1530945075922 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannel.lua
+1530945075933 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075934 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannelTV.lua
+1530945075935 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075935 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMElement.lua
+1530945075936 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGeneral.lua
+1530945075943 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075944 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGridPower.lua
+1530945075947 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075948 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMMicrophone.lua
+1530945075950 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075962 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMPower.lua
+1530945075965 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945075974 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSignal.lua
+1530945076003 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945076011 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSubEditPreset.lua
+1530945076011 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMTestPane.lua
+1530945076011 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945076012 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMVolume.lua
+1530945076013 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945076018 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLEvent.lua
+1530945076029 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLFrame.lua
+1530945076030 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLManager.lua
+1530945076032 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLSounds.lua
+1530945076034 Loading: media/lua/client/RadioCom/StoryLineSounds/StorySoundDebug.lua
+1530945076037 Loading: media/lua/client/Seasons/ISUI/ISWeather.lua
+1530945076037 Loading: media/lua/client/SurvivalGuide/ISTutorialPageInfo.lua
+1530945076043 Loading: media/lua/client/SurvivalGuide/ISTutorialPanel.lua
+1530945076052 Loading: media/lua/client/SurvivalGuide/SurvivalGuideEntries.lua
+1530945076062 Loading: media/lua/client/SurvivalGuide/SurvivalGuideManager.lua
+1530945076072 Loading: media/lua/client/Tests/RecipeTests.lua
+1530945076083 Loading: media/lua/client/TimedActions/ISActivateGenerator.lua
+1530945076107 Loading: media/lua/client/TimedActions/ISAddFuel.lua
+1530945076112 Loading: media/lua/client/TimedActions/ISAddItemInRecipe.lua
+1530945076116 Loading: media/lua/client/TimedActions/ISAddSheetAction.lua
+1530945076119 Loading: media/lua/client/TimedActions/ISAddSheetRope.lua
+1530945076124 Loading: media/lua/client/TimedActions/ISApplyBandage.lua
+1530945076131 Loading: media/lua/client/TimedActions/ISBBQAddFuel.lua
+1530945076136 Loading: media/lua/client/TimedActions/ISBBQInfoAction.lua
+1530945076142 Loading: media/lua/client/TimedActions/ISBBQInsertPropaneTank.lua
+1530945076143 Loading: media/lua/client/TimedActions/ISBBQLightFromLiterature.lua
+1530945076150 Loading: media/lua/client/TimedActions/ISBBQLightFromPetrol.lua
+1530945076157 Loading: media/lua/client/TimedActions/ISBBQRemovePropaneTank.lua
+1530945076158 Loading: media/lua/client/TimedActions/ISBBQToggle.lua
+1530945076159 Loading: media/lua/client/TimedActions/ISBarricadeAction.lua
+1530945076160 Loading: media/lua/client/TimedActions/ISBurnCorpseAction.lua
+1530945076166 Loading: media/lua/client/TimedActions/ISBurryCorpse.lua
+1530945076168 Loading: media/lua/client/TimedActions/ISChopTreeAction.lua
+1530945076177 Loading: media/lua/client/TimedActions/ISCleanBlood.lua
+1530945076178 Loading: media/lua/client/TimedActions/ISCleanBurn.lua
+1530945076178 Loading: media/lua/client/TimedActions/ISClearAshes.lua
+1530945076179 Loading: media/lua/client/TimedActions/ISClimbSheetRopeAction.lua
+1530945076180 Loading: media/lua/client/TimedActions/ISClimbThroughWindow.lua
+1530945076181 Loading: media/lua/client/TimedActions/ISComfreyCataplasm.lua
+1530945076182 Loading: media/lua/client/TimedActions/ISConsolidateDrainable.lua
+1530945076182 Loading: media/lua/client/TimedActions/ISCraftAction.lua
+1530945076183 Loading: media/lua/client/TimedActions/ISDestroyStuffAction.lua
+1530945076184 Loading: media/lua/client/TimedActions/ISDisinfect.lua
+1530945076184 Loading: media/lua/client/TimedActions/ISDismantleAction.lua
+1530945076185 Loading: media/lua/client/TimedActions/ISDrinkFromBottle.lua
+1530945076185 Loading: media/lua/client/TimedActions/ISDropItemAction.lua
+1530945076186 Loading: media/lua/client/TimedActions/ISDryMyself.lua
+1530945076186 Loading: media/lua/client/TimedActions/ISDumpContentsAction.lua
+1530945076187 Loading: media/lua/client/TimedActions/ISDumpWaterAction.lua
+1530945076190 Loading: media/lua/client/TimedActions/ISEquipWeaponAction.lua
+1530945076193 Loading: media/lua/client/TimedActions/ISFillGrave.lua
+1530945076194 Loading: media/lua/client/TimedActions/ISFinalizeDealAction.lua
+1530945076195 Loading: media/lua/client/TimedActions/ISFireplaceAddFuel.lua
+1530945076197 Loading: media/lua/client/TimedActions/ISFireplaceExtinguish.lua
+1530945076198 Loading: media/lua/client/TimedActions/ISFireplaceLightFromKindle.lua
+1530945076200 Loading: media/lua/client/TimedActions/ISFireplaceLightFromLiterature.lua
+1530945076201 Loading: media/lua/client/TimedActions/ISFireplaceLightFromPetrol.lua
+1530945076202 Loading: media/lua/client/TimedActions/ISFixAction.lua
+1530945076203 Loading: media/lua/client/TimedActions/ISFixGenerator.lua
+1530945076203 Loading: media/lua/client/TimedActions/ISGarlicCataplasm.lua
+1530945076204 Loading: media/lua/client/TimedActions/ISGeneratorInfoAction.lua
+1530945076204 Loading: media/lua/client/TimedActions/ISGetCompost.lua
+1530945076204 Loading: media/lua/client/TimedActions/ISGrabCorpseAction.lua
+1530945076205 Loading: media/lua/client/TimedActions/ISGrabItemAction.lua
+1530945076206 Loading: media/lua/client/TimedActions/ISInventoryTransferAction.lua
+1530945076207 Loading: media/lua/client/TimedActions/ISLightActions.lua
+1530945076208 Loading: media/lua/client/TimedActions/ISLockDoor.lua
+1530945076209 Loading: media/lua/client/TimedActions/ISMedicalCheckAction.lua
+1530945076210 Loading: media/lua/client/TimedActions/ISOpenCloseCurtain.lua
+1530945076210 Loading: media/lua/client/TimedActions/ISOpenCloseDoor.lua
+1530945076210 Loading: media/lua/client/TimedActions/ISOpenCloseWindow.lua
+1530945076211 Loading: media/lua/client/TimedActions/ISOpenContainerTimedAction.lua
+1530945076211 Loading: media/lua/client/TimedActions/ISOvenUITimedAction.lua
+1530945076212 Loading: media/lua/client/TimedActions/ISPadlockAction.lua
+1530945076212 Loading: media/lua/client/TimedActions/ISPlaceTrap.lua
+1530945076212 Loading: media/lua/client/TimedActions/ISPlantainCataplasm.lua
+1530945076213 Loading: media/lua/client/TimedActions/ISPlugGenerator.lua
+1530945076213 Loading: media/lua/client/TimedActions/ISPutOutFire.lua
+1530945076215 Loading: media/lua/client/TimedActions/ISReadABook.lua
+1530945076215 Loading: media/lua/client/TimedActions/ISRemoveBrokenGlass.lua
+1530945076216 Loading: media/lua/client/TimedActions/ISRemoveBullet.lua
+1530945076233 Loading: media/lua/client/TimedActions/ISRemoveBush.lua
+1530945076239 Loading: media/lua/client/TimedActions/ISRemoveGlass.lua
+1530945076239 Loading: media/lua/client/TimedActions/ISRemoveGrass.lua
+1530945076240 Loading: media/lua/client/TimedActions/ISRemoveSheetAction.lua
+1530945076240 Loading: media/lua/client/TimedActions/ISRemoveSheetRope.lua
+1530945076240 Loading: media/lua/client/TimedActions/ISRemoveWeaponUpgrade.lua
+1530945076241 Loading: media/lua/client/TimedActions/ISRestAction.lua
+1530945076241 Loading: media/lua/client/TimedActions/ISScavengeAction.lua
+1530945076243 Loading: media/lua/client/TimedActions/ISSitOnChairAction.lua
+1530945076244 Loading: media/lua/client/TimedActions/ISSmashWindow.lua
+1530945076245 Loading: media/lua/client/TimedActions/ISSplint.lua
+1530945076246 Loading: media/lua/client/TimedActions/ISStitch.lua
+1530945076246 Loading: media/lua/client/TimedActions/ISStopAlarmClockAction.lua
+1530945076247 Loading: media/lua/client/TimedActions/ISTakeFuel.lua
+1530945076248 Loading: media/lua/client/TimedActions/ISTakeGenerator.lua
+1530945076249 Loading: media/lua/client/TimedActions/ISTakePillAction.lua
+1530945076249 Loading: media/lua/client/TimedActions/ISTakeTrap.lua
+1530945076250 Loading: media/lua/client/TimedActions/ISTakeWaterAction.lua
+1530945076251 Loading: media/lua/client/TimedActions/ISToggleLightAction.lua
+1530945076251 Loading: media/lua/client/TimedActions/ISToggleSafetyAction.lua
+1530945076252 Loading: media/lua/client/TimedActions/ISToggleStoveAction.lua
+1530945076253 Loading: media/lua/client/TimedActions/ISTransferWaterAction.lua
+1530945076253 Loading: media/lua/client/TimedActions/ISUnbarricadeAction.lua
+1530945076255 Loading: media/lua/client/TimedActions/ISUnequipAction.lua
+1530945076256 Loading: media/lua/client/TimedActions/ISUpgradeWeapon.lua
+1530945076257 Loading: media/lua/client/TimedActions/ISWakeOtherPlayer.lua
+1530945076257 Loading: media/lua/client/TimedActions/ISWearClothing.lua
+1530945076258 Loading: media/lua/client/TimedActions/WalkToTimedAction.lua
+1530945076258 Loading: media/lua/client/Traps/TimedActions/ISAddBaitAction.lua
+1530945076259 Loading: media/lua/client/Traps/TimedActions/ISCheckTrapAction.lua
+1530945076259 Loading: media/lua/client/Traps/TimedActions/ISRemoveBaitAction.lua
+1530945076260 Loading: media/lua/client/Traps/TimedActions/ISRemoveTrapAction.lua
+1530945076260 Loading: media/lua/client/Tutorial/ISUI/TutorialFocus.lua
+1530945076267 Loading: media/lua/client/Tutorial/ISUI/TutorialMessage.lua
+1530945076268 Loading: media/lua/client/Tutorial/Steps.lua
+1530945076270 Loading: media/lua/client/Tutorial/TutorialStep.lua
+1530945076274 Loading: media/lua/client/Tutorial/Tutorial1.lua
+1530945076277 Loading: media/lua/client/Tutorial/TutorialSetup.lua
+1530945076281 Loading: media/lua/client/Vehicles/ISUI/ISCarMechanicsOverlay.lua
+1530945076283 Loading: media/lua/client/Vehicles/ISUI/ISLightbarUI.lua
+1530945076290 Loading: media/lua/client/Vehicles/ISUI/ISVehicleACUI.lua
+1530945076291 Loading: media/lua/client/Vehicles/ISUI/ISVehicleDashboard.lua
+1530945076292 Loading: media/lua/client/Vehicles/ISUI/ISVehicleEdit.lua
+1530945076294 Loading: media/lua/client/Vehicles/ISUI/ISVehicleGauge.lua
+1530945076295 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindow.lua
+1530945076296 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindowDetail.lua
+1530945076297 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMechanics.lua
+1530945076302 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMenu.lua
+1530945076305 Loading: media/lua/client/Vehicles/ISUI/ISVehiclePartMenu.lua
+1530945076310 Loading: media/lua/client/Vehicles/ISUI/ISVehicleRoadtripDebug.lua
+1530945076311 Loading: media/lua/client/Vehicles/ISUI/ISVehicleSeatUI.lua
+1530945076312 Loading: media/lua/client/Vehicles/TimedActions/ISAddGasolineToVehicle.lua
+1530945076313 Loading: media/lua/client/Vehicles/TimedActions/ISCloseVehicleDoor.lua
+1530945076313 Loading: media/lua/client/Vehicles/TimedActions/ISDeflateTire.lua
+1530945076314 Loading: media/lua/client/Vehicles/TimedActions/ISEnterVehicle.lua
+1530945076315 Loading: media/lua/client/Vehicles/TimedActions/ISExitVehicle.lua
+1530945076316 Loading: media/lua/client/Vehicles/TimedActions/ISHorn.lua
+1530945076320 Loading: media/lua/client/Vehicles/TimedActions/ISHotwireVehicle.lua
+1530945076323 Loading: media/lua/client/Vehicles/TimedActions/ISInflateTire.lua
+1530945076328 Loading: media/lua/client/Vehicles/TimedActions/ISInstallVehiclePart.lua
+1530945076328 Loading: media/lua/client/Vehicles/TimedActions/ISLightbarUITimedAction.lua
+1530945076329 Loading: media/lua/client/Vehicles/TimedActions/ISLockDoors.lua
+1530945076329 Loading: media/lua/client/Vehicles/TimedActions/ISLockVehicleDoor.lua
+1530945076330 Loading: media/lua/client/Vehicles/TimedActions/ISOpenCloseVehicleWindow.lua
+1530945076330 Loading: media/lua/client/Vehicles/TimedActions/ISOpenMechanicsUIAction.lua
+1530945076330 Loading: media/lua/client/Vehicles/TimedActions/ISOpenVehicleDoor.lua
+1530945076331 Loading: media/lua/client/Vehicles/TimedActions/ISPathFindAction.lua
+1530945076332 Loading: media/lua/client/Vehicles/TimedActions/ISRechargeCarBattery.lua
+1530945076333 Loading: media/lua/client/Vehicles/TimedActions/ISRefuelFromGasPump.lua
+1530945076333 Loading: media/lua/client/Vehicles/TimedActions/ISRepairEngine.lua
+1530945076334 Loading: media/lua/client/Vehicles/TimedActions/ISShutOffVehicleEngine.lua
+1530945076334 Loading: media/lua/client/Vehicles/TimedActions/ISSmashVehicleWindow.lua
+1530945076334 Loading: media/lua/client/Vehicles/TimedActions/ISStartVehicleEngine.lua
+1530945076335 Loading: media/lua/client/Vehicles/TimedActions/ISSwitchVehicleSeat.lua
+1530945076335 Loading: media/lua/client/Vehicles/TimedActions/ISTakeEngineParts.lua
+1530945076336 Loading: media/lua/client/Vehicles/TimedActions/ISTakeGasolineFromVehicle.lua
+1530945076336 Loading: media/lua/client/Vehicles/TimedActions/ISUninstallVehiclePart.lua
+1530945076336 Loading: media/lua/client/Vehicles/TimedActions/ISUnlockVehicleDoor.lua
+1530945076337 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfo.lua
+1530945076340 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfoWindow.lua
+1530945076341 Loading: media/lua/client/XpSystem/ISUI/ISCharacterScreen.lua
+1530945076343 Loading: media/lua/client/XpSystem/ISUI/ISHealthPanel.lua
+1530945076346 Loading: media/lua/client/XpSystem/ISUI/ISSkillProgressBar.lua
+1530945076347 Loading: media/lua/client/erosion/debug/ChunkReader.lua
+1530945076348 Loading: media/lua/client/erosion/debug/DebugDemoTime.lua
+1530945076349 Loading: media/lua/client/erosion/debug/Point2D.lua
+1530945076483 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076539 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076545 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945076549 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076562 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076566 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945076566 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076567 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076569 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076570 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945076571 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945076712 znet: Server responded: 108.61.235.122
+STATE: exit zombie.gameStates.MainScreenState
+1530945076738 LOADED UP A TOTAL OF 177 TEXTURES
+STATE: enter zombie.gameStates.GameLoadingState
+1530945077037 Savefile name is "The_Big_6_Gay_player"
+1530945077051 Loading: media/lua/server/BuildingObjects/ISAnvil.lua
+1530945077053 Loading: media/lua/server/BuildingObjects/ISBuildingObject.lua
+1530945077063 Loading: media/lua/server/BuildingObjects/ISBSFurnace.lua
+1530945077063 Loading: media/lua/server/BuildingObjects/ISBuildUtil.lua
+1530945077071 Loading: media/lua/server/BuildingObjects/ISCompost.lua
+1530945077087 Loading: media/lua/server/BuildingObjects/ISDestroyCursor.lua
+1530945077090 Loading: media/lua/server/BuildingObjects/ISDoubleDoor.lua
+1530945077093 Loading: media/lua/server/BuildingObjects/ISDoubleTileFurniture.lua
+1530945077119 Loading: media/lua/server/BuildingObjects/ISEmptyGraves.lua
+1530945077120 Loading: media/lua/server/BuildingObjects/ISLightSource.lua
+1530945077121 Loading: media/lua/server/BuildingObjects/ISMetalDrum.lua
+1530945077122 Loading: media/lua/server/BuildingObjects/ISMoveableCursor.lua
+1530945077124 Loading: media/lua/server/BuildingObjects/ISNaturalFloor.lua
+1530945077127 Loading: media/lua/server/BuildingObjects/ISPaintCursor.lua
+1530945077128 Loading: media/lua/server/BuildingObjects/ISSimpleFurniture.lua
+1530945077128 Loading: media/lua/server/BuildingObjects/ISWoodenContainer.lua
+1530945077129 Loading: media/lua/server/BuildingObjects/ISWoodenDoor.lua
+1530945077129 Loading: media/lua/server/BuildingObjects/ISWoodenDoorFrame.lua
+1530945077130 Loading: media/lua/server/BuildingObjects/ISWoodenFloor.lua
+1530945077130 Loading: media/lua/server/BuildingObjects/ISWoodenStairs.lua
+1530945077131 Loading: media/lua/server/BuildingObjects/ISWoodenWall.lua
+1530945077132 Loading: media/lua/server/BuildingObjects/PaintingReference.lua
+1530945077133 Loading: media/lua/server/BuildingObjects/RainCollectorBarrel.lua
+1530945077139 Loading: media/lua/server/Camping/BuildingObjects/campingCampfire.lua
+1530945077141 Loading: media/lua/server/Camping/BuildingObjects/campingTent.lua
+1530945077146 Loading: media/lua/server/Camping/ISCampfire.lua
+1530945077147 Loading: media/lua/server/Camping/camping.lua
+1530945077151 Loading: media/lua/server/Camping/camping_fuel.lua
+1530945077167 Loading: media/lua/server/Camping/camping_text.lua
+1530945077168 Loading: media/lua/server/ClientCommands.lua
+1530945077181 Loading: media/lua/server/Farming/BuildingObjects/ISFarmingCursor.lua
+1530945077190 Loading: media/lua/server/Farming/BuildingObjects/farmingPlot.lua
+1530945077208 Loading: media/lua/server/Farming/ISPlant.lua
+1530945077213 Loading: media/lua/server/Farming/ScavengeDefinition.lua
+1530945077218 Loading: media/lua/server/Farming/basicFarming.lua
+1530945077224 Loading: media/lua/server/Farming/farmingCommands.lua
+1530945077225 Loading: media/lua/server/Farming/farming_displayInfo.lua
+1530945077226 Loading: media/lua/server/Farming/farming_vegetableconf.lua
+1530945077229 Loading: media/lua/server/FireFighting/FireFighting.lua
+1530945077230 Loading: media/lua/server/FireFighting/ISExtinguishCursor.lua
+1530945077231 Loading: media/lua/server/Fishing/BuildingObjects/FishingNet.lua
+1530945077234 Loading: media/lua/server/HealthSystem/HealthUpdate.lua
+1530945077235 Loading: media/lua/server/ISBuildingBlueprintManager.lua
+1530945077236 Loading: media/lua/server/ISCoordConversion.lua
+1530945077243 Loading: media/lua/server/ISDoor.lua
+1530945077282 Loading: media/lua/server/ISObjectClickHandler.lua
+1530945077309 Loading: media/lua/server/Items/Distributions.lua
+1530945077332 Loading: media/lua/server/Items/ItemBindingHandler.lua
+1530945077353 Loading: media/lua/server/Items/ItemPicker.lua
+1530945077355 Loading: media/lua/server/Items/ScriptItemInterface.lua
+1530945077356 Loading: media/lua/server/Items/SuburbsDistributions.lua
+1530945077356 Loading: media/lua/server/Items/WorldFiller.lua
+1530945077359 Loading: media/lua/server/Map/MetaEnum.lua
+1530945077359 Loading: media/lua/server/Movers/ISBaseMover.lua
+1530945077361 Loading: media/lua/server/Movers/MoverStateMachine.lua
+1530945077362 Loading: media/lua/server/Movers/MoverStates/ISBaseState.lua
+1530945077362 Loading: media/lua/server/Movers/MoverStates/MoveToState.lua
+1530945077362 Loading: media/lua/server/Movers/Rabbit.lua
+1530945077383 Loading: media/lua/server/NPCs/Behaviour/BaseBehaviour.lua
+1530945077385 Loading: media/lua/server/NPCs/Behaviour/GuardBehaviour.lua
+1530945077386 Loading: media/lua/server/NPCs/FetchQuest.lua
+1530945077386 Loading: media/lua/server/NPCs/ISConversationScript.lua
+1530945077387 Loading: media/lua/server/NPCs/NPCEncountersMain.lua
+1530945077387 Loading: media/lua/server/NPCs/NPCHouse.lua
+1530945077387 Loading: media/lua/server/NPCs/SadisticAIDirector/EventSystem.lua
+1530945077389 new event system
+1530945077390 Loading: media/lua/server/NPCs/SadisticAIDirector/MetaSurvivor.lua
+1530945077392 Loading: media/lua/server/NPCs/SadisticAIDirector/MetaSurvivorGroup.lua
+1530945077395 Loading: media/lua/server/NPCs/SadisticAIDirector/RelationshipModifiers/Modifiers.lua
+1530945077396 Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticAIDirector.lua
+1530945077396 Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticMusicDirector.lua
+1530945077398 Loading: media/lua/server/NPCs/SadisticAIDirector/SurvivorSelector.lua
+1530945077399 Loading: media/lua/server/NPCs/SendOnLootMission.lua
+1530945077399 Loading: media/lua/server/NPCs/TestThing.lua
+1530945077399 Loading: media/lua/server/NewSelectionSystem/GridSquareSelector.lua
+1530945077400 Loading: media/lua/server/Professions/Professions.lua
+1530945077400 Loading: media/lua/server/Seasons/season.lua
+1530945077406 Loading: media/lua/server/Seasons/seasonProps.lua
+1530945077420 Loading: media/lua/server/Traps/BuildingObjects/TrapBO.lua
+1530945077422 Loading: media/lua/server/Traps/ISTrap.lua
+1530945077423 Loading: media/lua/server/Traps/ISUI/ISTrapMenu.lua
+1530945077424 Loading: media/lua/server/Traps/TrapDefinition.lua
+1530945077424 Loading: media/lua/server/Traps/TrapRecipeCode.lua
+1530945077425 Loading: media/lua/server/Traps/TrapSystem.lua
+1530945077425 Loading: media/lua/server/Traps/trappingCommands.lua
+1530945077426 require("TrapSystem") failed
+1530945077426 Loading: media/lua/server/TurnBased/TurnBasedMain.lua
+1530945077426 Loading: media/lua/server/TutorialHelperFunctions.lua
+1530945077427 Loading: media/lua/server/Vehicles/VehicleCommands.lua
+1530945077428 Loading: media/lua/server/Vehicles/VehicleDistributions.lua
+1530945077430 Loading: media/lua/server/Vehicles/Vehicles.lua
+1530945077433 Loading: media/lua/server/XpSystem/XPSystem_SkillBook.lua
+1530945077434 Loading: media/lua/server/XpSystem/XpSystem_text.lua
+1530945077434 Loading: media/lua/server/XpSystem/XpUpdate.lua
+1530945077435 Loading: media/lua/server/katebaldspottutorial.lua
+1530945077435 Loading: media/lua/server/mapScripts.lua
+1530945077436 Loading: media/lua/server/metazones/metazoneHandler.lua
+1530945077437 Loading: media/lua/server/recipecode.lua
+1530945077438 Loading: media/lua/server/timedactionshelper.lua
+OpenGL 3.0 framebuffer objects supported
+1530945077471 FBO: creating 16x16
+1530945077509 FBO: creating 4096x2048
+1530945077519 SafeMode is off
+1530945077630 Loading 3D models
+1530945082556 znet: RulesFailedToRespond: 108.61.235.122 56261
+1530945089508 IsoMetaGrid.Create: begin scanning directories
+1530945089539 Looking in these map folders:
+1530945089539     A:\SteamLibrary\steamapps\common\ProjectZomboid\media\maps\Muldraugh, KY
+1530945089540     A:\SteamLibrary\steamapps\common\ProjectZomboid\media\maps\West Point, KY
+1530945089541 <End of map-folders list>
+1530945089547 IsoMetaGrid.Create: finished scanning directories in 0.039 seconds
+1530945089558 IsoMetaGrid.Create: begin loading
+1530945089583 using spawn region Muldraugh, KY
+1530945089969 12 possible spawn points
+1530945092910 tiledef: loading media/tiledefinitions.tiles
+1530945093092 tiledef: loading media/newtiledefinitions.tiles
+1530945094494 tiledef: loading media/tiledefinitions_erosion.tiles
+1530945094538 tiledef: loading media/tiledefinitions_apcom.tiles
+1530945094542 tiledef: loading media/tiledefinitions.tiles
+1530945094785 tiledef: loading media/newtiledefinitions.tiles
+1530945095485 MOVABLES: Object has only one face defined for group: (Streetname Sign) sheet = street_decoration_01
+1530945095485 MOVABLES: Not all members have a valid face defined for group: (Streetname Sign) sheet = street_decoration_01
+1530945095876 MOVABLES: Difference in SpriteGrid settings for members of group: (Wooden Bench) sheet = furniture_seating_indoor_03
+1530945095877 MOVABLES: Object has too many faces defined for group: (White Simple Chair) sheet = furniture_seating_indoor_03
+1530945095898 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Tattoo Parlor Sign) sheet = location_shop_accessories_genericsigns_01
+1530945095899 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Bail Bonds Sign) sheet = location_shop_accessories_genericsigns_01
+1530945095912 MOVABLES: Object only has 3 sprites, _might_ have a error in settings, group: (Pony Roam-o Sign) sheet = signs_one-off_01
+1530945096126 tiledef: loading media/tiledefinitions_erosion.tiles
+1530945096164 tiledef: loading media/tiledefinitions_apcom.tiles
+
+################## Radio Init ##################
+Radio (Client) loaded.
+################################################
+1530945096207 IsoMetaGrid.Create: finished loading in 6.649 seconds
+1530945096212 can't find map objects file: media/maps/West Point, KY/objects.lua
+1530945096213 Loading: media/maps/Muldraugh, KY/objects.lua
+1530945096572 ERROR: not adding suspicious zone "" "Vegitation" 9027,7530,9 179x10
+1530945096589 ERROR: not adding suspicious zone "" "Vegitation" 9206,7527,9 10x13
+1530945096589 ERROR: not adding suspicious zone "" "Vegitation" 9204,7527,9 2x3
+1530945096590 ERROR: not adding suspicious zone "" "Forest" 9216,7527,9 10x13
+1530945096590 ERROR: not adding suspicious zone "" "Forest" 9027,7540,9 199x15
+1530945096590 ERROR: not adding suspicious zone "" "DeepForest" 9226,7527,9 101x300
+1530945096590 ERROR: not adding suspicious zone "" "DeepForest" 9027,7555,9 199x272
+1530945096828 loading 11700 zones from map_zone.bin
+1530945096957 Max #ZONES on one chunk is 26
+1530945097111 Requested 529 chunks from the server
+1530945098167 Received 0 / 529 chunks
+1530945099200 Received 0 / 529 chunks
+1530945100147 Received 11 / 529 chunks
+1530945101219 Received 11 / 529 chunks
+1530945102156 Received 33 / 529 chunks
+1530945103302 Received 63 / 529 chunks
+1530945104202 Received 93 / 529 chunks
+1530945105156 Received 126 / 529 chunks
+1530945106205 Received 166 / 529 chunks
+1530945107135 Received 206 / 529 chunks
+1530945108176 Received 246 / 529 chunks
+1530945109160 Received 286 / 529 chunks
+1530945110164 Received 326 / 529 chunks
+1530945111155 Received 366 / 529 chunks
+1530945112216 Received 406 / 529 chunks
+1530945113177 Received 446 / 529 chunks
+1530945114195 Received 509 / 529 chunks
+1530945114984 Received 529 / 529 chunks
+1530945118735 LuaNet: Loading...
+1530945118738 LuaNet: Registering client listener...
+1530945118738 LuaNet: Initialization [DONE], triggering events for 'LuaNet.onInitAdd'.
+1530945119679 fmod: Java_fmod_javafmodJNI_FMOD_1Sound_1GetData:3930 JNI_FMOD_Sound_GetData correct buffer
+1530945119680 game loading took 38 seconds
+STATE: exit zombie.gameStates.GameLoadingState
+1530945126364 1 players found
+1530945126364 player 0 is mouse
+1530945126364 PLAYER DATA OFFSET 0
+1530945126364 320
+1530945126364 0
+1530945126364 640
+1530945126364 339
+STATE: enter zombie.gameStates.IngameState
+1530945128573 fmod: Java_fmod_javafmodJNI_FMOD_1Sound_1GetData:3930 JNI_FMOD_Sound_GetData correct buffer
+1530945128573 Init ISContextManager
+1530945128617 Waiting for player-connect response from server
+Processing delayed packets...
+1530945128998 LuaNet: Loading...
+1530945129041 znet: UpdateRichPresenceConnectionInfo
+1530945129041 znet: UpdateRichPresenceConnectionInfo: status=In game, connect=+connect 90115830916279301:0
+1530945129435 FBO: creating 2048x1024
+1530945129665 znet: ZNetFriends::OnPersonaStateChange
+1530945129689 znet: ZNetFriends::OnPersonaStateChange
+SERVER: get-parameter[1000001]@76.88.95.251
+SERVER: get-parameter[1000002]@90115830916279301
+FirstNAME:cashew
+1530945147187 znet: Java_zombie_core_raknet_RakNetPeerInterface_disconnect
+1530945147215 znet: Connection closed: reason=1 port=1
+1530945147216 znet: CancelAuthTicket 
+1530945147218 RakNetPeerInterface.connectionStateChangedCallback state=Disconnected message= thread=Thread[UdpEngine,5,main]
+1530945147219 [VOICE MANAGER] VoiceConnectClose uuid=1071857673840201100
+1530945147219 znet: Java_zombie_core_raknet_RakVoice_CloseVoiceChannel
+1530945150308 reanimate: saved 0 zombies
+1530945150323 removing all player data
+1530945150323 - player: 0
+1530945150323 removing player inventory
+1530945150323 removing buttonprompts
+1530945150323 removing loot inventory
+1530945150323 removing equipped icons
+1530945150323 removing characterInfo
+1530945150323 removing backButtonWheel
+1530945150323 removing safetyUI
+1530945150323 removing craftingUI
+1530945150323 removing mechanicsUI
+STATE: exit zombie.gameStates.IngameState
+1530945150323 znet: UpdateRichPresenceConnectionInfo
+1530945150323 znet: UpdateRichPresenceConnectionInfo: status=, connect=
+1530945152388 fmod: Java_fmod_javafmodJNI_FMOD_1Sound_1GetData:3930 JNI_FMOD_Sound_GetData correct buffer
+1530945153125 fmod: Java_fmod_javafmodJNI_FMOD_1Sound_1GetData:3930 JNI_FMOD_Sound_GetData correct buffer
+1530945153526 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_battery.txt
+1530945153529 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_brake.txt
+1530945153530 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_door.txt
+1530945153530 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine.txt
+1530945153530 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_engine_door.txt
+1530945153530 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_gastank.txt
+1530945153531 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_glovebox.txt
+1530945153531 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_headlight.txt
+1530945153531 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_heater.txt
+1530945153531 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_muffler.txt
+1530945153532 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger.txt
+1530945153533 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_passenger_compartment.txt
+1530945153533 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_radio.txt
+1530945152389 FBO: creating 16x16
+1530945153534 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_seat.txt
+1530945153534 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_suspension.txt
+1530945153534 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_tire.txt
+1530945153535 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk.txt
+1530945153535 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_trunk_door.txt
+1530945153536 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_window.txt
+1530945153536 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\template_windshield.txt
+1530945153537 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\Lot_Rural_Farmhouse_00_distribution.txt
+1530945153541 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\camping.txt
+1530945153543 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\evolvedrecipes.txt
+1530945153545 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farmdistribution.txt
+1530945153545 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\farming.txt
+1530945153557 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\fixing.txt
+1530945153563 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items.txt
+1530945153613 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\items_radio.txt
+1530945153618 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\moveables.txt
+1530945153631 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\multistagebuild.txt
+1530945153633 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\newitems.txt
+1530945153743 FBO: creating 4096x2048
+java.lang.RuntimeException: No OpenGL context found in the current thread.
+	at org.lwjgl.opengl.GLContext.getCapabilities(GLContext.java:124)
+	at org.lwjgl.opengl.GL30.glBindFramebuffer(GL30.java:1122)
+	at zombie.core.textures.GLFramebufferObject30.glBindFramebuffer(GLFramebufferObject30.java:27)
+	at zombie.core.textures.TextureFBO.startDrawing(TextureFBO.java:390)
+	at zombie.core.textures.TextureDraw.run(TextureDraw.java:399)
+	at zombie.core.SpriteRenderer$RingBuffer$StateRun.render(SpriteRenderer.java:558)
+	at zombie.core.SpriteRenderer$RingBuffer.render(SpriteRenderer.java:516)
+	at zombie.core.SpriteRenderer$RingBuffer.add(SpriteRenderer.java:222)
+	at zombie.core.SpriteRenderer.build(SpriteRenderer.java:1037)
+	at zombie.core.SpriteRenderer.postRender(SpriteRenderer.java:1108)
+	at zombie.core.opengl.RenderThread$1.run(RenderThread.java:96)
+	at java.lang.Thread.run(Thread.java:745)
+1530945153773 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\beenbit.txt
+1530945153773 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\chewedbyzombies.txt
+1530945153774 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingalreadymembers.txt
+1530945153777 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetinghub.txt
+1530945153778 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingsloner.txt
+1530945153780 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetingteamup.txt
+1530945153782 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveaggressive.txt
+1530945153784 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetloneraggressiveneutral.txt
+1530945153787 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerfriendlyneutral.txt
+1530945153792 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetlonerneutralaggressive.txt
+1530945153794 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupaggressiveaggressive.txt
+1530945153796 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\firstmeetteamupneutralaggressive.txt
+1530945153797 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\givenitem.txt
+1530945153804 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\killedzombie.txt
+1530945153806 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainalreadymembers.txt
+1530945153810 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainhub.txt
+1530945153811 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainloner.txt
+1530945153812 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\meetagainteamup.txt
+1530945153815 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\npcgroupcommands.txt
+1530945153819 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\patchedup.txt
+1530945153820 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalk.txt
+1530945153825 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkbleeding.txt
+1530945153826 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeing.txt
+1530945153826 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\npcs\randomtalkfleeingbleeding.txt
+1530945153826 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes.txt
+1530945153842 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\recipes_radio.txt
+1530945153850 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\suburbsdistribution.txt
+1530945153852 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\uniquerecipes.txt
+1530945153853 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\burntvehicles.txt
+1530945153854 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\carnormal.txt
+1530945153862 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\smallcar.txt
+1530945153868 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\sportcar.txt
+1530945153914 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vans.txt
+1530945153928 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carluxury.txt
+1530945153939 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern.txt
+1530945153943 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_carmodern02.txt
+1530945153945 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_offroad.txt
+1530945153950 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_smallcar02.txt
+1530945153951 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_suv.txt
+1530945153956 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi.txt
+1530945153959 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicle_taxi2.txt
+1530945153962 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles.txt
+1530945153975 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehicles_mccoy.txt
+1530945153988 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesfixing.txt
+1530945153989 script: loading A:\SteamLibrary\steamapps\common\ProjectZomboid\media\scripts\vehicles\vehiclesitems.txt
+1530945154028 Loading: media/lua/shared/ISBaseObject.lua
+1530945154035 Loading: media/lua/shared/JoyPad/JoyPadSetup.lua
+1530945154037 Loading: media/lua/shared/NPCs/MainCreationMethods.lua
+1530945154041 Loading: media/lua/shared/Reloading/ISRackAction.lua
+1530945154042 Loading: media/lua/shared/TimedActions/ISBaseTimedAction.lua
+1530945154043 Loading: media/lua/shared/Reloading/ISReloadAction.lua
+1530945154044 Loading: media/lua/shared/Reloading/ISReloadManager.lua
+1530945154051 Loading: media/lua/shared/Reloading/ISReloadUtil.lua
+1530945154061 Loading: media/lua/shared/Reloading/ISReloadableMagazine.lua
+1530945154064 Loading: media/lua/shared/Reloading/ISReloadable.lua
+1530945154065 Loading: media/lua/shared/Reloading/ISSemiAutoWeapon.lua
+1530945154071 Loading: media/lua/shared/Reloading/ISReloadableWeapon.lua
+1530945154074 Loading: media/lua/shared/Reloading/ISShotgunWeapon.lua
+1530945154077 Loading: media/lua/shared/Reloading/ISRevolverWeapon.lua
+1530945154080 Loading: media/lua/shared/Reloading/stormysReload.lua
+1530945154084 Loading: media/lua/server/timedactionshelper.lua
+1530945154086 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945154086 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945154087 Loading: media/lua/shared/Sandbox/SandboxVars.lua
+1530945154088 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945154089 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945154090 Loading: media/lua/shared/SoundBanks/SoundBanks.lua
+1530945154094 Loading: media/lua/shared/SpawnRegions.lua
+1530945154108 Loading: media/lua/shared/StashDescriptions/MarchRidgeStashDesc.lua
+1530945154134 Loading: media/lua/shared/StashDescriptions/StashUtil.lua
+1530945154156 Loading: media/lua/shared/StashDescriptions/MulStashDesc.lua
+1530945154195 Loading: media/lua/shared/StashDescriptions/RosewoodStashDesc.lua
+1530945154199 Loading: media/lua/shared/StashDescriptions/WpStashDesc.lua
+1530945154253 Loading: media/lua/shared/Util/AdjacentFreeTileFinder.lua
+1530945154255 Loading: media/lua/shared/Util/BuildingHelper.lua
+1530945154256 Loading: media/lua/shared/Util/ISPriorityTable.lua
+1530945154257 Loading: media/lua/shared/Util/LuaList.lua
+1530945154257 Loading: media/lua/shared/Util/LuaNet.lua
+1530945154258 Loading: media/lua/shared/Util/StringReplacer.lua
+1530945154259 Loading: media/lua/shared/Util/Vector2.lua
+1530945154259 Loading: media/lua/shared/a_requires.lua
+1530945154260 Loading: media/lua/server/NPCs/SadisticAIDirector/SadisticAIDirector.lua
+1530945154261 Loading: media/lua/shared/defines.lua
+1530945154262 Loading: media/lua/shared/iwbumstempmodelcompat.lua
+1530945154262 Loading: media/lua/shared/keyBinding.lua
+1530945154264 Loading: media/lua/shared/luautils.lua
+1530945154310 Loading: media/lua/client/Blacksmith/ISUI/ISBlacksmithMenu.lua
+1530945154313 Loading: media/lua/client/Blacksmith/ISUI/ISFurnaceInfoWindow.lua
+1530945154313 Loading: media/lua/client/ISUI/ISCollapsableWindow.lua
+1530945154314 Loading: media/lua/client/ISUI/ISPanel.lua
+1530945154315 Loading: media/lua/client/ISUI/ISUIElement.lua
+1530945154317 Loading: media/lua/client/ISUI/ISButton.lua
+1530945154318 Loading: media/lua/client/ISUI/ISInventoryPane.lua
+1530945154323 Loading: media/lua/client/ISUI/ISMouseDrag.lua
+1530945154324 Loading: media/lua/client/TimedActions/ISTimedActionQueue.lua
+1530945154325 Loading: media/lua/client/TimedActions/ISEatFoodAction.lua
+1530945154325 Loading: media/lua/client/ISUI/ISResizeWidget.lua
+1530945154326 Loading: media/lua/client/Blacksmith/TimedActions/ISAddCoalInFurnace.lua
+1530945154326 Loading: media/lua/client/Blacksmith/TimedActions/ISAddLogsInDrum.lua
+1530945154326 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromKindle.lua
+1530945154326 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromLiterature.lua
+1530945154327 Loading: media/lua/client/Blacksmith/TimedActions/ISDrumLightFromPetrol.lua
+1530945154327 Loading: media/lua/client/Blacksmith/TimedActions/ISEmptyDrum.lua
+1530945154327 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceInfoAction.lua
+1530945154327 Loading: media/lua/client/ISUI/ISLayoutManager.lua
+1530945154328 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromKindle.lua
+1530945154328 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromLiterature.lua
+1530945154329 Loading: media/lua/client/Blacksmith/TimedActions/ISFurnaceLightFromPetrol.lua
+1530945154330 Loading: media/lua/client/Blacksmith/TimedActions/ISPutOutFireDrum.lua
+1530945154330 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveCharcoal.lua
+1530945154330 Loading: media/lua/client/Blacksmith/TimedActions/ISRemoveDrum.lua
+1530945154331 Loading: media/lua/client/Blacksmith/TimedActions/ISStopFurnaceFire.lua
+1530945154331 Loading: media/lua/client/Blacksmith/TimedActions/ISUseBellows.lua
+1530945154331 Loading: media/lua/client/BuildingObjects/ISUI/ISBuildMenu.lua
+1530945154336 Loading: media/lua/client/BuildingObjects/ISUI/ISInventoryBuildMenu.lua
+1530945154338 Loading: media/lua/client/BuildingObjects/ISUI/ISPaintMenu.lua
+1530945154346 Loading: media/lua/client/BuildingObjects/ISUI/ISRainCollectorMenu.lua
+1530945154347 Loading: media/lua/client/BuildingObjects/TimedActions/ISBuildAction.lua
+1530945154349 Loading: media/lua/client/BuildingObjects/TimedActions/ISInsertLightSourceFuelAction.lua
+1530945154350 Loading: media/lua/client/BuildingObjects/TimedActions/ISMultiStageBuild.lua
+1530945154351 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintAction.lua
+1530945154352 Loading: media/lua/client/BuildingObjects/TimedActions/ISPaintSignAction.lua
+1530945154353 Loading: media/lua/client/BuildingObjects/TimedActions/ISPlasterAction.lua
+1530945154353 Loading: media/lua/client/BuildingObjects/TimedActions/ISRemoveLightSourceFuelAction.lua
+1530945154354 Loading: media/lua/client/BuildingObjects/TimedActions/ISShovelGround.lua
+1530945154355 Loading: media/lua/client/BuildingObjects/TimedActions/ISToggleLightSourceAction.lua
+1530945154356 Loading: media/lua/client/Camping/ISUI/ISCampingMenu.lua
+1530945154359 Loading: media/lua/server/Camping/camping.lua
+1530945154362 Loading: media/lua/server/Camping/camping_fuel.lua
+1530945154362 Loading: media/lua/client/Camping/TimedActions/ISAddFuelAction.lua
+1530945154363 Loading: media/lua/client/Camping/TimedActions/ISAddPetrolAction.lua
+1530945154363 Loading: media/lua/client/Camping/TimedActions/ISAddTentAction.lua
+1530945154364 Loading: media/lua/client/Camping/TimedActions/ISLightFromKindle.lua
+1530945154364 Loading: media/lua/client/Camping/TimedActions/ISLightFromLiterature.lua
+1530945154365 Loading: media/lua/client/Camping/TimedActions/ISLightFromPetrol.lua
+1530945154366 Loading: media/lua/client/Camping/TimedActions/ISPlaceCampfireAction.lua
+1530945154368 Loading: media/lua/client/Camping/TimedActions/ISPutOutCampfireAction.lua
+1530945154371 Loading: media/lua/client/Camping/TimedActions/ISRemoveCampfireAction.lua
+1530945154372 Loading: media/lua/client/Camping/TimedActions/ISRemoveTentAction.lua
+1530945154372 Loading: media/lua/client/Camping/TimedActions/ISSleepInTentAction.lua
+1530945154373 Loading: media/lua/client/Chat/ChatContainer.lua
+1530945154373 Loading: media/lua/client/Chat/ChatNotLoggedOn.lua
+1530945154374 Loading: media/lua/client/Chat/ChatOnscreen.lua
+1530945154374 Loading: media/lua/client/Chat/ChatOutput.lua
+1530945154376 Loading: media/lua/client/Chat/ChatPanel.lua
+1530945154378 Loading: media/lua/client/Context/ISContextManager.lua
+1530945154378 Loading: media/lua/client/Context/ISMenuContext.lua
+1530945154378 Loading: media/lua/client/Context/ISMenuContextBuild.lua
+1530945154379 Loading: media/lua/client/Context/ISMenuContextInventory.lua
+1530945154380 Loading: media/lua/client/Context/ISMenuContextWorld.lua
+1530945154381 Loading: media/lua/client/Context/ISMenuElement.lua
+1530945154381 Loading: media/lua/client/Context/Inventory/InvContextMovable.lua
+1530945154381 Loading: media/lua/client/Context/Inventory/InvContextRadio.lua
+1530945154382 Loading: media/lua/client/Context/World/ISContextDisassemble.lua
+1530945154385 Loading: media/lua/client/Context/World/ISContextDoor.lua
+1530945154385 Loading: media/lua/client/Context/World/ISContextTelevision.lua
+1530945154386 Loading: media/lua/client/DebugUIs/DebugOptionsWindow.lua
+1530945154387 Loading: media/lua/client/DebugUIs/DebugScenarios.lua
+1530945154387 Loading: media/lua/client/DebugUIs/DebugToolstrip.lua
+1530945154388 Loading: media/lua/client/DebugUIs/DeviceInspector.lua
+1530945154389 Loading: media/lua/client/DebugUIs/LuaDebugOutput.lua
+1530945154390 Loading: media/lua/client/DebugUIs/LuaDebugger.lua
+1530945154391 Loading: media/lua/client/DebugUIs/LuaFileBrowser.lua
+1530945154392 Loading: media/lua/client/DebugUIs/LuaThreadWindow.lua
+1530945154394 Loading: media/lua/client/DebugUIs/MetaWorldRenderPanel.lua
+1530945154395 Loading: media/lua/client/DebugUIs/MetaWorldWindow.lua
+1530945154396 Loading: media/lua/client/DebugUIs/ObjectViewer.lua
+1530945154399 Loading: media/lua/client/DebugUIs/Scenarios/DebugScenario.lua
+1530945154400 Loading: media/lua/client/DebugUIs/SourceWindow.lua
+1530945154401 Loading: media/lua/client/DebugUIs/StashDebug.lua
+1530945154402 Loading: media/lua/client/DebugUIs/StreamMapWindow.lua
+1530945154403 Loading: media/lua/client/DebugUIs/TextureViewer.lua
+1530945154422 Loading: media/lua/client/DebugUIs/WatchWindow.lua
+1530945154435 Loading: media/lua/client/Farming/ISUI/ISFarmingInfo.lua
+1530945154438 Loading: media/lua/client/ISUI/ISPanelJoypad.lua
+1530945154441 Loading: media/lua/client/Farming/ISUI/ISFarmingMenu.lua
+1530945154444 Loading: media/lua/client/Farming/ISUI/ISFarmingWindow.lua
+1530945154444 Loading: media/lua/client/Farming/TimedActions/ISCureFliesAction.lua
+1530945154445 Loading: media/lua/client/Farming/TimedActions/ISCureMildewAction.lua
+1530945154445 Loading: media/lua/client/Farming/TimedActions/ISFertilizeAction.lua
+1530945154445 Loading: media/lua/client/Farming/TimedActions/ISHarvestPlantAction.lua
+1530945154446 Loading: media/lua/client/Farming/TimedActions/ISPlantInfoAction.lua
+1530945154446 Loading: media/lua/client/Farming/TimedActions/ISPlowAction.lua
+1530945154447 Loading: media/lua/client/Farming/TimedActions/ISSeedAction.lua
+1530945154448 Loading: media/lua/client/Farming/TimedActions/ISShovelAction.lua
+1530945154448 Loading: media/lua/client/Farming/TimedActions/ISWaterPlantAction.lua
+1530945154449 Loading: media/lua/client/Fishing/TimedActions/ISCheckFishingNetAction.lua
+1530945154449 Loading: media/lua/client/Fishing/TimedActions/ISFishingAction.lua
+1530945154451 Loading: media/lua/client/Fishing/fishing_properties.lua
+1530945154452 Loading: media/lua/client/ISTooltipRenderers/ISInventoryItemTooltip.lua
+1530945154452 Loading: media/lua/client/ISUI/AdminPanel/ISAddNonPvpZoneUI.lua
+1530945154454 Loading: media/lua/client/ISUI/AdminPanel/ISAdminMessage.lua
+1530945154456 Loading: media/lua/client/ISUI/AdminPanel/ISAdminPanelUI.lua
+1530945154458 Loading: media/lua/client/ISUI/AdminPanel/ISAdminTicketsUI.lua
+1530945154462 Loading: media/lua/client/ISUI/AdminPanel/ISFactionsList.lua
+1530945154469 Loading: media/lua/client/ISUI/AdminPanel/ISItemEditorUI.lua
+1530945154472 Loading: media/lua/client/ISUI/AdminPanel/ISMiniScoreboardUI.lua
+1530945154473 Loading: media/lua/client/ISUI/AdminPanel/ISPacketCounts.lua
+1530945154475 Loading: media/lua/client/ISUI/AdminPanel/ISPvpZonePanel.lua
+1530945154475 Loading: media/lua/client/ISUI/AdminPanel/ISSafehousesList.lua
+1530945154476 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptions.lua
+1530945154477 Loading: media/lua/client/ISUI/AdminPanel/ISServerOptionsChange.lua
+1530945154478 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistModifyRow.lua
+1530945154479 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistTable.lua
+1530945154481 Loading: media/lua/client/ISUI/AdminPanel/ISWhitelistViewer.lua
+1530945154482 Loading: media/lua/client/ISUI/FPS.lua
+1530945154482 Loading: media/lua/client/ISUI/Fireplace/ISKnob.lua
+1530945154483 Loading: media/lua/client/ISUI/Fireplace/ISMicrowaveUI.lua
+1530945154485 Loading: media/lua/client/ISUI/Fireplace/ISOvenUI.lua
+1530945154486 Loading: media/lua/client/ISUI/ISAlarmClockDialog.lua
+1530945154492 Loading: media/lua/client/ISUI/ISBBQInfoWindow.lua
+1530945154492 Loading: media/lua/client/ISUI/ISBBQMenu.lua
+1530945154494 Loading: media/lua/client/ISUI/ISBackButtonWheel.lua
+1530945154495 Loading: media/lua/client/ISUI/ISRadialMenu.lua
+1530945154496 Loading: media/lua/client/ISUI/ISBombTimerDialog.lua
+1530945154496 Loading: media/lua/client/ISUI/ISButtonPrompt.lua
+1530945154499 Loading: media/lua/client/ISUI/ISChat.lua
+1530945154503 Loading: media/lua/client/ISUI/ISRichTextPanel.lua
+1530945154504 Loading: media/lua/client/ISUI/ISCollapsableModalRichText.lua
+1530945154505 Loading: media/lua/client/ISUI/ISColorPicker.lua
+1530945154506 Loading: media/lua/client/ISUI/ISComboBox.lua
+1530945154507 Loading: media/lua/client/ISUI/ISScrollingListBox.lua
+1530945154510 Loading: media/lua/client/ISUI/ISContextMenu.lua
+1530945154513 Loading: media/lua/client/ISUI/ISControllerTestPanel.lua
+1530945154514 Loading: media/lua/client/ISUI/ISCraftingCategoryUI.lua
+1530945154518 Loading: media/lua/client/ISUI/ISCraftingUI.lua
+1530945154525 Loading: media/lua/client/ISUI/ISDPadWheels.lua
+1530945154526 Loading: media/lua/client/ISUI/ISDemoPopup.lua
+1530945154526 Loading: media/lua/client/ISUI/ISDigitalCode.lua
+1530945154528 Loading: media/lua/client/ISUI/ISDuplicateKeybindDialog.lua
+1530945154529 Loading: media/lua/client/ISUI/ISEquippedItem.lua
+1530945154531 Loading: media/lua/client/ISUI/ISFireplaceMenu.lua
+1530945154532 Loading: media/lua/client/ISUI/ISGameLoadingUI.lua
+1530945154532 Loading: media/lua/client/ISUI/ISGeneratorInfoWindow.lua
+1530945154534 Loading: media/lua/client/ISUI/ISImage.lua
+1530945154534 Loading: media/lua/client/ISUI/ISInfoContainer.lua
+1530945154534 Loading: media/lua/client/ISUI/ISInfoWindow.lua
+1530945154536 Loading: media/lua/client/ISUI/ISInventoryPage.lua
+1530945154542 Loading: media/lua/client/ISUI/ISInventoryPaneContextMenu.lua
+1530945154550 Loading: media/lua/client/ISUI/ISLabel.lua
+1530945154551 Loading: media/lua/client/ISUI/ISMegaVolumeControl.lua
+1530945154551 Loading: media/lua/client/ISUI/ISModalDialog.lua
+1530945154552 Loading: media/lua/client/ISUI/ISModalRichText.lua
+1530945154553 Loading: media/lua/client/ISUI/ISMoveableInfoWindow.lua
+1530945154555 Loading: media/lua/client/ISUI/ISNewsUpdate.lua
+1530945154556 Loading: media/lua/client/ISUI/ISOptionPanel.lua
+1530945154557 Loading: media/lua/client/ISUI/ISPostDeathUI.lua
+1530945154558 Loading: media/lua/client/ISUI/ISRadioOption.lua
+1530945154558 Loading: media/lua/client/ISUI/ISRainPanel.lua
+1530945154559 Loading: media/lua/client/ISUI/ISRect.lua
+1530945154559 Loading: media/lua/client/ISUI/ISResizeableButton.lua
+1530945154560 Loading: media/lua/client/ISUI/ISRichTextBox.lua
+1530945154561 Loading: media/lua/client/ISUI/ISSafehouseAddPlayerUI.lua
+1530945154565 Loading: media/lua/client/ISUI/ISSafehouseUI.lua
+1530945154567 Loading: media/lua/client/ISUI/ISSafetyUI.lua
+1530945154567 Loading: media/lua/client/ISUI/ISScavengeUI.lua
+1530945154568 Loading: media/lua/client/ISUI/ISScrollBar.lua
+1530945154569 Loading: media/lua/client/ISUI/ISServerSavingMessage.lua
+1530945154569 Loading: media/lua/client/ISUI/ISSetKeybindDialog.lua
+1530945154570 Loading: media/lua/client/ISUI/ISSleepDialog.lua
+1530945154570 Loading: media/lua/client/ISUI/ISSpinBox.lua
+1530945154570 Loading: media/lua/client/ISUI/ISTabPanel.lua
+1530945154573 Loading: media/lua/client/ISUI/ISTextBox.lua
+1530945154574 Loading: media/lua/client/ISUI/ISTextEntryBox.lua
+1530945154575 Loading: media/lua/client/ISUI/ISTickBox.lua
+1530945154576 Loading: media/lua/client/ISUI/ISToolTip.lua
+1530945154577 Loading: media/lua/client/ISUI/ISToolTipInv.lua
+1530945154578 Loading: media/lua/client/ISUI/ISTradingUI.lua
+1530945154580 Loading: media/lua/client/ISUI/ISTradingUIHistorial.lua
+1530945154581 Loading: media/lua/client/ISUI/ISUIHandler.lua
+1530945154581 Loading: media/lua/client/ISUI/ISUIWriteJournal.lua
+1530945154583 Loading: media/lua/client/ISUI/ISVehicleConfirmBox.lua
+1530945154583 Loading: media/lua/client/ISUI/ISVolumeControl.lua
+1530945154583 Loading: media/lua/client/ISUI/ISVolumeIndicator.lua
+1530945154584 Loading: media/lua/client/ISUI/ISWindow.lua
+1530945154585 Loading: media/lua/client/ISUI/ISWorldObjectContextMenu.lua
+1530945154595 Loading: media/lua/client/ISUI/Maps/ISMap.lua
+1530945154597 Loading: media/lua/client/ISUI/Maps/ISMapSymbols.lua
+1530945154598 Loading: media/lua/client/ISUI/Maps/ISTextBoxMap.lua
+1530945154600 Loading: media/lua/client/ISUI/PlayerData/ISPlayerData.lua
+1530945154600 Loading: media/lua/client/ISUI/PlayerData/ISPlayerDataObject.lua
+1530945154601 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsAddXPUI.lua
+1530945154602 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseAccessLevel.lua
+1530945154603 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseProfessionUI.lua
+1530945154603 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsChooseTraitUI.lua
+1530945154604 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsManageInvUI.lua
+1530945154607 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUI.lua
+1530945154610 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsUserlogUI.lua
+1530945154612 Loading: media/lua/client/ISUI/PlayerStats/ISPlayerStatsWarningPointUI.lua
+1530945154612 Loading: media/lua/client/ISUI/RichTextLayout.lua
+1530945154614 Loading: media/lua/client/ISUI/SpeedControlsHandler.lua
+1530945154614 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionTagUI.lua
+1530945154615 Loading: media/lua/client/ISUI/UserPanel/ISCreateFactionUI.lua
+1530945154615 Loading: media/lua/client/ISUI/UserPanel/ISFactionAddPlayerUI.lua
+1530945154616 Loading: media/lua/client/ISUI/UserPanel/ISFactionUI.lua
+1530945154618 Loading: media/lua/client/ISUI/UserPanel/ISTicketsUI.lua
+1530945154621 Loading: media/lua/client/ISUI/UserPanel/ISUserPanelUI.lua
+1530945154622 Loading: media/lua/client/ISUI/ZombiePopulationWindow.lua
+1530945154622 Loading: media/lua/client/LastStand/AReallyCDDAy.lua
+1530945154623 Loading: media/lua/client/LastStand/Challenge1.lua
+1530945154624 Loading: media/lua/client/LastStand/Challenge2.lua
+1530945154626 Loading: media/lua/client/LastStand/EightMonthsLater.lua
+1530945154628 Loading: media/lua/client/LastStand/ISUI/ISChallenge2PlayerUpWindow.lua
+1530945154629 Loading: media/lua/client/LastStand/ISUI/ISChallenge2UpgradeTab.lua
+1530945154629 Loading: media/lua/client/LastStand/ISUI/ISChallenge2VariousItemWindow.lua
+1530945154630 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponRepairWindow.lua
+1530945154631 Loading: media/lua/client/LastStand/ISUI/ISChallenge2WeaponUpWindow.lua
+1530945154632 Loading: media/lua/client/LastStand/Insomnia.lua
+1530945154632 Loading: media/lua/client/LastStand/LastStandSetup.lua
+1530945154633 Loading: media/lua/client/LastStand/OpeningHours.lua
+1530945154635 Loading: media/lua/client/LastStand/WinterIsComing.lua
+1530945154636 Loading: media/lua/client/LastStand/YouHaveOneDay.lua
+1530945154637 Loading: media/lua/client/Moveables/ISMoveableDefinitions.lua
+1530945154638 Loading: media/lua/client/Moveables/ISMoveableSpriteProps.lua
+1530945154647 Loading: media/lua/client/Moveables/ISMoveableTools.lua
+1530945154648 Loading: media/lua/client/Moveables/ISMoveablesAction.lua
+1530945154648 Loading: media/lua/client/Moveables/ISMoveablesIconToolTip.lua
+1530945154649 Loading: media/lua/client/Music/MusicChoices.lua
+1530945154650 Loading: media/lua/client/NPCs/ProfessionClothing.lua
+1530945154651 Loading: media/lua/client/NPCs/UI/CharacterInfoPage.lua
+1530945154652 Loading: media/lua/client/NPCs/UI/TeamOverview.lua
+1530945154653 Loading: media/lua/client/NPCs/UI/TeamPicker.lua
+1530945154655 Loading: media/lua/client/OptionScreens/BootstrapConnectPopup.lua
+1530945154656 Loading: media/lua/client/OptionScreens/CharacterCreationHeader.lua
+1530945154657 Loading: media/lua/client/OptionScreens/CharacterCreationMain.lua
+1530945154660 Loading: media/lua/client/OptionScreens/CharacterCreationProfession.lua
+1530945154667 Loading: media/lua/client/OptionScreens/CoopCharacterCreation.lua
+1530945154668 Loading: media/lua/client/OptionScreens/CoopCharacterCreationMain.lua
+1530945154669 Loading: media/lua/client/OptionScreens/CoopCharacterCreationProfession.lua
+1530945154669 Loading: media/lua/client/OptionScreens/CoopConnectPopup.lua
+1530945154670 Loading: media/lua/client/OptionScreens/CoopMapSpawnSelect.lua
+1530945154670 Loading: media/lua/client/OptionScreens/MapSpawnSelect.lua
+1530945154672 Loading: media/lua/client/OptionScreens/CoopOptionsScreen.lua
+1530945154676 Loading: media/lua/client/OptionScreens/CoopUserName.lua
+1530945154677 Loading: media/lua/client/OptionScreens/ISScoreboard.lua
+1530945154679 Loading: media/lua/client/OptionScreens/InviteFriends.lua
+1530945154681 Loading: media/lua/client/OptionScreens/LastStandChallenge.lua
+1530945154682 Loading: media/lua/client/OptionScreens/LastStandPlayerSelect.lua
+1530945154684 Loading: media/lua/client/OptionScreens/LoadGameScreen.lua
+1530945154686 Loading: media/lua/client/OptionScreens/LoginScreen.lua
+1530945154687 Loading: media/lua/client/OptionScreens/MainOptions.lua
+1530945154693 Loading: media/lua/client/OptionScreens/MainScreen.lua
+1530945154706 Loading: media/lua/client/OptionScreens/MapSelecter.lua
+1530945154714 Loading: media/lua/client/OptionScreens/ModMoreInfo.lua
+1530945154723 Loading: media/lua/client/OptionScreens/ModOrderUI.lua
+1530945154736 Loading: media/lua/client/OptionScreens/ModSelector.lua
+1530945154795 Loading: media/lua/client/OptionScreens/NewGameScreen.lua
+1530945154832 Loading: media/lua/client/OptionScreens/PublicServerList.lua
+1530945154859 Loading: media/lua/client/OptionScreens/SandboxOptions.lua
+1530945154883 Loading: media/lua/client/OptionScreens/ServerConnectPopup.lua
+1530945154885 Loading: media/lua/client/OptionScreens/ServerList.lua
+1530945154890 Loading: media/lua/client/OptionScreens/ServerSettingsScreen.lua
+1530945154914 MISSING in SettingsTable: SpawnPoint
+1530945154924 MISSING in SettingsTable: Mods
+1530945154927 MISSING in SettingsTable: Map
+1530945154927 MISSING in SettingsTable: SteamPort2
+1530945154927 MISSING in SettingsTable: WorkshopItems
+1530945154927 MISSING in SettingsTable: CoopServerLaunchTimeout
+1530945154927 MISSING in SettingsTable: CoopMasterPingTimeout
+1530945154927 MISSING in SettingsTable: server_browser_announced_ip
+1530945154927 MISSING in SettingsTable: UseTCPForMapDownloads
+1530945154928 MISSING in SettingsTable: StartYear
+1530945154928 Loading: media/lua/client/OptionScreens/ServerToolbox.lua
+1530945154930 Loading: media/lua/client/OptionScreens/ServerWorkshopItemScreen.lua
+1530945154932 Loading: media/lua/client/OptionScreens/StoryNewOrLoadScreen.lua
+1530945154934 Loading: media/lua/client/OptionScreens/StoryScreen.lua
+1530945154935 Loading: media/lua/client/OptionScreens/WorkshopSubmitScreen.lua
+1530945154938 Loading: media/lua/client/OptionScreens/WorldSelect.lua
+1530945154939 Loading: media/lua/client/RadioCom/ISRadioAction.lua
+1530945154940 Loading: media/lua/client/RadioCom/ISRadioInteractions.lua
+1530945154941 Loading: media/lua/client/RadioCom/ISRadioWindow.lua
+1530945154944 Loading: media/lua/client/RadioCom/ISUIRadio/ISBatteryStatusDisplay.lua
+1530945154946 Loading: media/lua/client/RadioCom/ISUIRadio/ISItemDropBox.lua
+1530945154948 Loading: media/lua/client/RadioCom/ISUIRadio/ISLedLight.lua
+1530945154949 Loading: media/lua/client/RadioCom/ISUIRadio/ISSineWaveDisplay.lua
+1530945154950 Loading: media/lua/client/RadioCom/ISUIRadio/ISSliderPanel.lua
+1530945154951 Loading: media/lua/client/RadioCom/ISUIRadio/ISSpeakerButton.lua
+1530945154957 Loading: media/lua/client/RadioCom/ISUIRadio/ISVolumeBar.lua
+1530945154959 Loading: media/lua/client/RadioCom/RadioWindowModules/RMWPanel.lua
+1530945154959 Loading: media/lua/client/RadioCom/RadioWindowModules/RWM.lua
+1530945154959 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannel.lua
+1530945154961 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154975 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMChannelTV.lua
+1530945154979 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154979 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMElement.lua
+1530945154980 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGeneral.lua
+1530945154981 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154982 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMGridPower.lua
+1530945154983 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154983 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMMicrophone.lua
+1530945154983 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154983 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMPower.lua
+1530945154984 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154985 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSignal.lua
+1530945154988 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154990 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMSubEditPreset.lua
+1530945154992 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMTestPane.lua
+1530945154993 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154994 Loading: media/lua/client/RadioCom/RadioWindowModules/RWMVolume.lua
+1530945154995 require("RadioCom/RadioWindowModules/RWMPanel") failed
+1530945154996 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLEvent.lua
+1530945154996 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLFrame.lua
+1530945154998 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLManager.lua
+1530945155013 Loading: media/lua/client/RadioCom/StoryLineSounds/ISSLSounds.lua
+1530945155019 Loading: media/lua/client/RadioCom/StoryLineSounds/StorySoundDebug.lua
+1530945155021 Loading: media/lua/client/Seasons/ISUI/ISWeather.lua
+1530945155022 Loading: media/lua/client/SurvivalGuide/ISTutorialPageInfo.lua
+1530945155022 Loading: media/lua/client/SurvivalGuide/ISTutorialPanel.lua
+1530945155024 Loading: media/lua/client/SurvivalGuide/SurvivalGuideEntries.lua
+1530945155045 Loading: media/lua/client/SurvivalGuide/SurvivalGuideManager.lua
+1530945155081 Loading: media/lua/client/Tests/RecipeTests.lua
+1530945155091 Loading: media/lua/client/TimedActions/ISActivateGenerator.lua
+1530945155092 Loading: media/lua/client/TimedActions/ISAddFuel.lua
+1530945155098 Loading: media/lua/client/TimedActions/ISAddItemInRecipe.lua
+1530945155098 Loading: media/lua/client/TimedActions/ISAddSheetAction.lua
+1530945155099 Loading: media/lua/client/TimedActions/ISAddSheetRope.lua
+1530945155100 Loading: media/lua/client/TimedActions/ISApplyBandage.lua
+1530945155101 Loading: media/lua/client/TimedActions/ISBBQAddFuel.lua
+1530945155102 Loading: media/lua/client/TimedActions/ISBBQInfoAction.lua
+1530945155102 Loading: media/lua/client/TimedActions/ISBBQInsertPropaneTank.lua
+1530945155102 Loading: media/lua/client/TimedActions/ISBBQLightFromLiterature.lua
+1530945155104 Loading: media/lua/client/TimedActions/ISBBQLightFromPetrol.lua
+1530945155104 Loading: media/lua/client/TimedActions/ISBBQRemovePropaneTank.lua
+1530945155104 Loading: media/lua/client/TimedActions/ISBBQToggle.lua
+1530945155105 Loading: media/lua/client/TimedActions/ISBarricadeAction.lua
+1530945155108 Loading: media/lua/client/TimedActions/ISBurnCorpseAction.lua
+1530945155130 Loading: media/lua/client/TimedActions/ISBurryCorpse.lua
+1530945155139 Loading: media/lua/client/TimedActions/ISChopTreeAction.lua
+1530945155142 Loading: media/lua/client/TimedActions/ISCleanBlood.lua
+1530945155163 Loading: media/lua/client/TimedActions/ISCleanBurn.lua
+1530945155171 Loading: media/lua/client/TimedActions/ISClearAshes.lua
+1530945155171 Loading: media/lua/client/TimedActions/ISClimbSheetRopeAction.lua
+1530945155172 Loading: media/lua/client/TimedActions/ISClimbThroughWindow.lua
+1530945155172 Loading: media/lua/client/TimedActions/ISComfreyCataplasm.lua
+1530945155173 Loading: media/lua/client/TimedActions/ISConsolidateDrainable.lua
+1530945155175 Loading: media/lua/client/TimedActions/ISCraftAction.lua
+1530945155176 Loading: media/lua/client/TimedActions/ISDestroyStuffAction.lua
+1530945155177 Loading: media/lua/client/TimedActions/ISDisinfect.lua
+1530945155178 Loading: media/lua/client/TimedActions/ISDismantleAction.lua
+1530945155179 Loading: media/lua/client/TimedActions/ISDrinkFromBottle.lua
+1530945155179 Loading: media/lua/client/TimedActions/ISDropItemAction.lua
+1530945155180 Loading: media/lua/client/TimedActions/ISDryMyself.lua
+1530945155180 Loading: media/lua/client/TimedActions/ISDumpContentsAction.lua
+1530945155182 Loading: media/lua/client/TimedActions/ISDumpWaterAction.lua
+1530945155183 Loading: media/lua/client/TimedActions/ISEquipWeaponAction.lua
+1530945155185 Loading: media/lua/client/TimedActions/ISFillGrave.lua
+1530945155186 Loading: media/lua/client/TimedActions/ISFinalizeDealAction.lua
+1530945155186 Loading: media/lua/client/TimedActions/ISFireplaceAddFuel.lua
+1530945155188 Loading: media/lua/client/TimedActions/ISFireplaceExtinguish.lua
+1530945155188 Loading: media/lua/client/TimedActions/ISFireplaceLightFromKindle.lua
+1530945155189 Loading: media/lua/client/TimedActions/ISFireplaceLightFromLiterature.lua
+1530945155191 Loading: media/lua/client/TimedActions/ISFireplaceLightFromPetrol.lua
+1530945155191 Loading: media/lua/client/TimedActions/ISFixAction.lua
+1530945155203 Loading: media/lua/client/TimedActions/ISFixGenerator.lua
+1530945155203 Loading: media/lua/client/TimedActions/ISGarlicCataplasm.lua
+1530945155204 Loading: media/lua/client/TimedActions/ISGeneratorInfoAction.lua
+1530945155205 Loading: media/lua/client/TimedActions/ISGetCompost.lua
+1530945155205 Loading: media/lua/client/TimedActions/ISGrabCorpseAction.lua
+1530945155205 Loading: media/lua/client/TimedActions/ISGrabItemAction.lua
+1530945155205 Loading: media/lua/client/TimedActions/ISInventoryTransferAction.lua
+1530945155206 Loading: media/lua/client/TimedActions/ISLightActions.lua
+1530945155206 Loading: media/lua/client/TimedActions/ISLockDoor.lua
+1530945155207 Loading: media/lua/client/TimedActions/ISMedicalCheckAction.lua
+1530945155207 Loading: media/lua/client/TimedActions/ISOpenCloseCurtain.lua
+1530945155207 Loading: media/lua/client/TimedActions/ISOpenCloseDoor.lua
+1530945155207 Loading: media/lua/client/TimedActions/ISOpenCloseWindow.lua
+1530945155208 Loading: media/lua/client/TimedActions/ISOpenContainerTimedAction.lua
+1530945155208 Loading: media/lua/client/TimedActions/ISOvenUITimedAction.lua
+1530945155208 Loading: media/lua/client/TimedActions/ISPadlockAction.lua
+1530945155208 Loading: media/lua/client/TimedActions/ISPlaceTrap.lua
+1530945155209 Loading: media/lua/client/TimedActions/ISPlantainCataplasm.lua
+1530945155209 Loading: media/lua/client/TimedActions/ISPlugGenerator.lua
+1530945155209 Loading: media/lua/client/TimedActions/ISPutOutFire.lua
+1530945155209 Loading: media/lua/client/TimedActions/ISReadABook.lua
+1530945155210 Loading: media/lua/client/TimedActions/ISRemoveBrokenGlass.lua
+1530945155210 Loading: media/lua/client/TimedActions/ISRemoveBullet.lua
+1530945155210 Loading: media/lua/client/TimedActions/ISRemoveBush.lua
+1530945155211 Loading: media/lua/client/TimedActions/ISRemoveGlass.lua
+1530945155211 Loading: media/lua/client/TimedActions/ISRemoveGrass.lua
+1530945155211 Loading: media/lua/client/TimedActions/ISRemoveSheetAction.lua
+1530945155212 Loading: media/lua/client/TimedActions/ISRemoveSheetRope.lua
+1530945155212 Loading: media/lua/client/TimedActions/ISRemoveWeaponUpgrade.lua
+1530945155212 Loading: media/lua/client/TimedActions/ISRestAction.lua
+1530945155212 Loading: media/lua/client/TimedActions/ISScavengeAction.lua
+1530945155213 Loading: media/lua/client/TimedActions/ISSitOnChairAction.lua
+1530945155215 Loading: media/lua/client/TimedActions/ISSmashWindow.lua
+1530945155215 Loading: media/lua/client/TimedActions/ISSplint.lua
+1530945155215 Loading: media/lua/client/TimedActions/ISStitch.lua
+1530945155216 Loading: media/lua/client/TimedActions/ISStopAlarmClockAction.lua
+1530945155216 Loading: media/lua/client/TimedActions/ISTakeFuel.lua
+1530945155216 Loading: media/lua/client/TimedActions/ISTakeGenerator.lua
+1530945155216 Loading: media/lua/client/TimedActions/ISTakePillAction.lua
+1530945155216 Loading: media/lua/client/TimedActions/ISTakeTrap.lua
+1530945155217 Loading: media/lua/client/TimedActions/ISTakeWaterAction.lua
+1530945155217 Loading: media/lua/client/TimedActions/ISToggleLightAction.lua
+1530945155218 Loading: media/lua/client/TimedActions/ISToggleSafetyAction.lua
+1530945155218 Loading: media/lua/client/TimedActions/ISToggleStoveAction.lua
+1530945155218 Loading: media/lua/client/TimedActions/ISTransferWaterAction.lua
+1530945155219 Loading: media/lua/client/TimedActions/ISUnbarricadeAction.lua
+1530945155219 Loading: media/lua/client/TimedActions/ISUnequipAction.lua
+1530945155219 Loading: media/lua/client/TimedActions/ISUpgradeWeapon.lua
+1530945155220 Loading: media/lua/client/TimedActions/ISWakeOtherPlayer.lua
+1530945155220 Loading: media/lua/client/TimedActions/ISWearClothing.lua
+1530945155220 Loading: media/lua/client/TimedActions/WalkToTimedAction.lua
+1530945155220 Loading: media/lua/client/Traps/TimedActions/ISAddBaitAction.lua
+1530945155221 Loading: media/lua/client/Traps/TimedActions/ISCheckTrapAction.lua
+1530945155221 Loading: media/lua/client/Traps/TimedActions/ISRemoveBaitAction.lua
+1530945155221 Loading: media/lua/client/Traps/TimedActions/ISRemoveTrapAction.lua
+1530945155221 Loading: media/lua/client/Tutorial/ISUI/TutorialFocus.lua
+1530945155222 Loading: media/lua/client/Tutorial/ISUI/TutorialMessage.lua
+1530945155222 Loading: media/lua/client/Tutorial/Steps.lua
+1530945155223 Loading: media/lua/client/Tutorial/TutorialStep.lua
+1530945155225 Loading: media/lua/client/Tutorial/Tutorial1.lua
+1530945155226 Loading: media/lua/client/Tutorial/TutorialSetup.lua
+1530945155226 Loading: media/lua/client/Vehicles/ISUI/ISCarMechanicsOverlay.lua
+1530945155227 Loading: media/lua/client/Vehicles/ISUI/ISLightbarUI.lua
+1530945155228 Loading: media/lua/client/Vehicles/ISUI/ISVehicleACUI.lua
+1530945155228 Loading: media/lua/client/Vehicles/ISUI/ISVehicleDashboard.lua
+1530945155229 Loading: media/lua/client/Vehicles/ISUI/ISVehicleEdit.lua
+1530945155230 Loading: media/lua/client/Vehicles/ISUI/ISVehicleGauge.lua
+1530945155230 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindow.lua
+1530945155231 Loading: media/lua/client/Vehicles/ISUI/ISVehicleInfoWindowDetail.lua
+1530945155232 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMechanics.lua
+1530945155236 Loading: media/lua/client/Vehicles/ISUI/ISVehicleMenu.lua
+1530945155240 Loading: media/lua/client/Vehicles/ISUI/ISVehiclePartMenu.lua
+1530945155242 Loading: media/lua/client/Vehicles/ISUI/ISVehicleRoadtripDebug.lua
+1530945155246 Loading: media/lua/client/Vehicles/ISUI/ISVehicleSeatUI.lua
+1530945155248 Loading: media/lua/client/Vehicles/TimedActions/ISAddGasolineToVehicle.lua
+1530945155249 Loading: media/lua/client/Vehicles/TimedActions/ISCloseVehicleDoor.lua
+1530945155249 Loading: media/lua/client/Vehicles/TimedActions/ISDeflateTire.lua
+1530945155249 Loading: media/lua/client/Vehicles/TimedActions/ISEnterVehicle.lua
+1530945155250 Loading: media/lua/client/Vehicles/TimedActions/ISExitVehicle.lua
+1530945155250 Loading: media/lua/client/Vehicles/TimedActions/ISHorn.lua
+1530945155251 Loading: media/lua/client/Vehicles/TimedActions/ISHotwireVehicle.lua
+1530945155252 Loading: media/lua/client/Vehicles/TimedActions/ISInflateTire.lua
+1530945155252 Loading: media/lua/client/Vehicles/TimedActions/ISInstallVehiclePart.lua
+1530945155252 Loading: media/lua/client/Vehicles/TimedActions/ISLightbarUITimedAction.lua
+1530945155253 Loading: media/lua/client/Vehicles/TimedActions/ISLockDoors.lua
+1530945155254 Loading: media/lua/client/Vehicles/TimedActions/ISLockVehicleDoor.lua
+1530945155255 Loading: media/lua/client/Vehicles/TimedActions/ISOpenCloseVehicleWindow.lua
+1530945155257 Loading: media/lua/client/Vehicles/TimedActions/ISOpenMechanicsUIAction.lua
+1530945155258 Loading: media/lua/client/Vehicles/TimedActions/ISOpenVehicleDoor.lua
+1530945155258 Loading: media/lua/client/Vehicles/TimedActions/ISPathFindAction.lua
+1530945155258 Loading: media/lua/client/Vehicles/TimedActions/ISRechargeCarBattery.lua
+1530945155259 Loading: media/lua/client/Vehicles/TimedActions/ISRefuelFromGasPump.lua
+1530945155260 Loading: media/lua/client/Vehicles/TimedActions/ISRepairEngine.lua
+1530945155260 Loading: media/lua/client/Vehicles/TimedActions/ISShutOffVehicleEngine.lua
+1530945155261 Loading: media/lua/client/Vehicles/TimedActions/ISSmashVehicleWindow.lua
+1530945155261 Loading: media/lua/client/Vehicles/TimedActions/ISStartVehicleEngine.lua
+1530945155261 Loading: media/lua/client/Vehicles/TimedActions/ISSwitchVehicleSeat.lua
+1530945155262 Loading: media/lua/client/Vehicles/TimedActions/ISTakeEngineParts.lua
+1530945155262 Loading: media/lua/client/Vehicles/TimedActions/ISTakeGasolineFromVehicle.lua
+1530945155262 Loading: media/lua/client/Vehicles/TimedActions/ISUninstallVehiclePart.lua
+1530945155264 Loading: media/lua/client/Vehicles/TimedActions/ISUnlockVehicleDoor.lua
+1530945155266 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfo.lua
+1530945155268 Loading: media/lua/client/XpSystem/ISUI/ISCharacterInfoWindow.lua
+1530945155270 Loading: media/lua/client/XpSystem/ISUI/ISCharacterScreen.lua
+1530945155271 Loading: media/lua/client/XpSystem/ISUI/ISHealthPanel.lua
+1530945155276 Loading: media/lua/client/XpSystem/ISUI/ISSkillProgressBar.lua
+1530945155277 Loading: media/lua/client/erosion/debug/ChunkReader.lua
+1530945155278 Loading: media/lua/client/erosion/debug/DebugDemoTime.lua
+1530945155279 Loading: media/lua/client/erosion/debug/Point2D.lua
+STATE: enter zombie.gameStates.MainScreenState
+1530945155426 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155441 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155442 Loading: media/lua/shared/Sandbox/Beginner.lua
+1530945155444 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155444 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155445 Loading: media/lua/shared/Sandbox/FirstWeek.lua
+1530945155448 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155452 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155453 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155455 Loading: media/lua/shared/Sandbox/SixMonthsLater.lua
+1530945155455 Loading: media/lua/shared/Sandbox/Survival.lua
+1530945155599 znet: Server responded: 108.61.235.122
+1530945155609 znet: ZNetFriends::OnPersonaStateChange
+1530945155609 znet: ZNetFriends::OnPersonaStateChange
+1530945155609 znet: ZNetFriends::OnPersonaStateChange
+SERVER: process-status@terminated
+1530945155628 [VOICE MANAGER] UpdateVMClient going to sleep
+1530945155782 znet: RulesRefreshComplete: 108.61.235.122 56261
+1530945196972 waiting for UdpEngine thread termination
+1530945196991 znet: Java_zombie_core_raknet_RakNetPeerInterface_Shutdown
+1530945197058 znet: Java_zombie_core_znet_SteamUtils_n_1Shutdown

@@ -1,0 +1,6 @@
+[01-07-18 23:41:02] 76561198095440441 "aerosol birthday party" object.takeWater @ 12069,6796,0.
+[01-07-18 23:41:04] 76561198095440441 "aerosol birthday party" object.takeWater @ 12069,6796,0.
+[01-07-18 23:41:07] 76561198095440441 "aerosol birthday party" object.takeWater @ 12069,6796,0.
+[01-07-18 23:55:23] 76561198045968247 "cashew" vehicle.damageWindow @ 12151,7118,0.
+[02-07-18 00:00:30] 76561198045968247 "cashew" object.takeWater @ 12069,6796,0.
+[02-07-18 00:01:30] 76561198095440441 "aerosol birthday party" object.OnDestroyIsoThumpable @ 12072,6760,0.

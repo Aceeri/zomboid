@@ -1,0 +1,3 @@
+[01-07-18 17:40:28] 76561198095440441 "aerosol birthday party" added Rain Collector Barrel (carpentry_02_54) at 8204.0,11541.0,0.0.
+[01-07-18 17:48:11] 76561198045968247 "cashew" added Base.Molotov at 7751,11869,0.
+[01-07-18 17:48:31] 76561198045968247 "cashew" added Base.Molotov at 7746,11878,0.

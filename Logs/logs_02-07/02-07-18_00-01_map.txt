@@ -1,0 +1,2 @@
+[02-07-18 00:01:11] 76561198045968247 "cashew" destroyed Door with Base.Sledgehammer at 12074,6760,0.
+[02-07-18 00:01:30] 76561198095440441 "aerosol birthday party" removed IsoObject (location_shop_mall_01_18) at 12072,6759,0.

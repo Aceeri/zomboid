@@ -1,0 +1,26 @@
+[01-07-18 21:56:45] added connection index=0 76561198045968247.
+[01-07-18 21:56:45] 76561198045968247 "cashew" attempting to join.
+[01-07-18 21:56:45] 76561198045968247 "cashew" allowed to join.
+[01-07-18 21:58:58] 76561198045968247 "cashew" fully connected (10872,9489,0).
+[01-07-18 21:59:11] added connection index=1 76561198095440441.
+[01-07-18 21:59:11] 76561198095440441 "aerosol birthday party" attempting to join.
+[01-07-18 21:59:11] 76561198095440441 "aerosol birthday party" allowed to join.
+[01-07-18 22:00:11] 76561198095440441 "aerosol birthday party" fully connected (10918,10129,0).
+[01-07-18 22:00:17] user cashew died at (10871,9492,0) (non pvp).
+[01-07-18 22:00:41] 76561198045968247 "cashew" disconnected player (10871,9492,0).
+[01-07-18 22:00:43] 76561198045968247 "cashew" fully connected (10923,10096,0).
+[01-07-18 22:01:13] user aerosol birthday party died at (10919,10130,0) (non pvp).
+[01-07-18 22:01:57] 76561198095440441 "aerosol birthday party" disconnected player (10919,10130,0).
+[01-07-18 22:02:00] 76561198095440441 "aerosol birthday party" fully connected (10851,9846,0).
+[01-07-18 22:02:55] user aerosol birthday party died at (10850,9845,0) (non pvp).
+[01-07-18 22:03:22] 76561198095440441 "aerosol birthday party" disconnected player (10850,9845,0).
+[01-07-18 22:03:24] 76561198095440441 "aerosol birthday party" fully connected (10916,10132,0).
+[01-07-18 22:04:16] user aerosol birthday party died at (10918,10131,0) (non pvp).
+[01-07-18 22:04:44] 76561198095440441 "aerosol birthday party" disconnected player (10918,10131,0).
+[01-07-18 22:04:46] 76561198095440441 "aerosol birthday party" fully connected (10923,10096,0).
+[01-07-18 22:46:36] user aerosol birthday party died at (10832,9463,0) (non pvp).
+[01-07-18 22:46:43] user cashew died at (10830,9462,0) (non pvp).
+[01-07-18 22:46:44] 76561198095440441 "aerosol birthday party" removed connection index=1.
+[01-07-18 22:46:44] 76561198095440441 "aerosol birthday party" disconnected player (10832,9463,0).
+[01-07-18 22:46:52] 76561198045968247 "cashew" removed connection index=0.
+[01-07-18 22:46:52] 76561198045968247 "cashew" disconnected player (10830,9462,0).

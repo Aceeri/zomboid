@@ -1,0 +1,2 @@
+Burglar:burglar;Hemophobic;WeakStomach;
+Burglar Ex:burglar;Hemophobic;WeakStomach;NightVision;Outdoorsman;

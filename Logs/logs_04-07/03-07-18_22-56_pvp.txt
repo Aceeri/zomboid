@@ -1,0 +1,2 @@
+[03-07-18 22:56:48] user Brazen (11606,6691,0) disabled safety.
+[03-07-18 22:57:07] user Brazen (11609,6716,0) enabled safety.

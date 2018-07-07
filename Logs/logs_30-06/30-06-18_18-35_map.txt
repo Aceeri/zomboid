@@ -1,0 +1,10 @@
+[30-06-18 18:35:08] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8208,11536,0.
+[30-06-18 18:37:55] 76561198045968247 "cashew" removed Carolina Silverbell (e_carolinasilverbell_1_3) at 8212,11535,0.
+[30-06-18 18:37:59] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_2) at 8213,11534,0.
+[30-06-18 18:38:05] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8213,11536,0.
+[30-06-18 18:38:16] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8213,11535,0.
+[30-06-18 18:40:46] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8216,11535,0.
+[30-06-18 18:40:52] 76561198045968247 "cashew" removed Virginia Pine (e_virginiapine_1_2) at 8215,11535,0.
+[30-06-18 18:40:56] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8217,11534,0.
+[30-06-18 18:40:59] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8216,11534,0.
+[30-06-18 18:41:05] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8218,11534,0.

@@ -1,0 +1,205 @@
+[30-06-18 22:00:23] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_57) at 8208,11554,0.
+[30-06-18 22:01:02] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_7) at 8212,11555,0.
+[30-06-18 22:01:28] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_4) at 8211,11554,0.
+[30-06-18 22:02:09] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_4) at 8211,11553,0.
+[30-06-18 22:04:59] 76561198095440441 "aerosol birthday party" added Wooden Cross (location_community_cemetary_01_22) at 8207.0,11562.0,0.0.
+[30-06-18 22:06:37] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_59) at 8195,11555,0.
+[30-06-18 22:07:00] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_59) at 8195,11556,0.
+[30-06-18 22:07:26] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_57) at 8193,11556,0.
+[30-06-18 22:07:51] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_57) at 8193,11555,0.
+[30-06-18 22:08:11] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_39) at 8194,11555,0.
+[30-06-18 22:08:11] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_38) at 8194,11556,0.
+[30-06-18 22:08:58] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_7) at 8195,11552,0.
+[30-06-18 22:09:21] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_5) at 8195,11551,0.
+[30-06-18 22:12:26] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_0) at 8194,11557,1.
+[30-06-18 22:12:48] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_5) at 8193,11557,1.
+[30-06-18 22:15:55] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_39) at 8212,11553,0.
+[30-06-18 22:15:55] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_38) at 8212,11554,0.
+[30-06-18 22:16:21] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_6) at 8213,11554,0.
+[30-06-18 22:16:43] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_6) at 8213,11553,0.
+[30-06-18 22:17:52] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_44) at 8213,11547,0.
+[30-06-18 22:17:52] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_45) at 8214,11547,0.
+[30-06-18 22:21:24] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_0) at 8238,11560,0.
+[30-06-18 22:21:46] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_4) at 8238,11561,0.
+[30-06-18 22:22:26] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_low_01_4) at 8234,11559,0.
+[30-06-18 22:22:26] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_low_01_5) at 8235,11559,0.
+[30-06-18 22:23:09] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_0) at 8238,11552,0.
+[30-06-18 22:39:10] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_low_01_11) at 8258,11549,0.
+[30-06-18 22:39:10] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_low_01_10) at 8258,11550,0.
+[30-06-18 22:39:33] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_8) at 8263,11547,0.
+[30-06-18 22:39:54] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_8) at 8263,11546,0.
+[30-06-18 22:40:10] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_3) at 8264,11546,0.
+[30-06-18 22:40:10] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_2) at 8264,11547,0.
+[30-06-18 22:40:32] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_10) at 8265,11547,0.
+[30-06-18 22:40:52] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_10) at 8265,11546,0.
+[30-06-18 22:43:12] 76561198095440441 "aerosol birthday party" removed IsoObject (location_restaurant_bar_01_26) at 8268,11535,0.
+[30-06-18 22:44:53] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_5) at 8287,11556,0.
+[30-06-18 22:45:13] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_4) at 8286,11557,0.
+[30-06-18 22:45:34] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_6) at 8287,11557,0.
+[30-06-18 22:45:54] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_6) at 8287,11558,0.
+[30-06-18 22:47:37] 76561198095440441 "aerosol birthday party" removed IsoObject (location_restaurant_bar_01_26) at 8311,11549,0.
+[30-06-18 22:47:53] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_55) at 8312,11549,0.
+[30-06-18 22:47:53] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_54) at 8312,11550,0.
+[30-06-18 23:15:12] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_outdoor_01_17) at 8214,11546,0.
+[30-06-18 23:15:15] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_outdoor_01_17) at 8213,11546,0.
+[30-06-18 23:15:20] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_outdoor_01_16) at 8210,11546,0.
+[30-06-18 23:15:24] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_outdoor_01_18) at 8213,11548,0.
+[30-06-18 23:15:42] 76561198095440441 "aerosol birthday party" added IsoObject (furniture_seating_outdoor_01_17) at 8200.0,11546.0,0.0.
+[30-06-18 23:15:45] 76561198095440441 "aerosol birthday party" added IsoObject (furniture_seating_outdoor_01_17) at 8200.0,11545.0,0.0.
+[30-06-18 23:15:48] 76561198095440441 "aerosol birthday party" added IsoObject (furniture_seating_outdoor_01_16) at 8200.0,11544.0,0.0.
+[30-06-18 23:15:51] 76561198095440441 "aerosol birthday party" added IsoObject (furniture_seating_outdoor_01_18) at 8200.0,11543.0,0.0.
+[30-06-18 23:18:14] 76561198095440441 "aerosol birthday party" added Wooden Door Frame (walls_exterior_wooden_01_54) at 8217.0,11546.0,0.0.
+[30-06-18 23:18:48] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8217.0,11547.0,0.0.
+[30-06-18 23:18:53] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8217.0,11548.0,0.0.
+[30-06-18 23:18:59] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8217.0,11549.0,0.0.
+[30-06-18 23:20:06] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8218.0,11549.0,0.0.
+[30-06-18 23:20:12] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8219.0,11549.0,0.0.
+[30-06-18 23:20:18] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8220.0,11548.0,0.0.
+[30-06-18 23:20:23] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8220.0,11547.0,0.0.
+[30-06-18 23:21:25] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8220.0,11546.0,0.0.
+[30-06-18 23:21:31] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8217.0,11545.0,0.0.
+[30-06-18 23:21:36] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8217.0,11544.0,0.0.
+[30-06-18 23:21:41] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8217.0,11544.0,0.0.
+[30-06-18 23:21:46] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8218.0,11544.0,0.0.
+[30-06-18 23:23:34] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8220.0,11545.0,0.0.
+[30-06-18 23:23:44] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_100) at 8220.0,11544.0,0.0.
+[30-06-18 23:23:49] 76561198095440441 "aerosol birthday party" added WoodenWallFrame (carpentry_02_101) at 8219.0,11544.0,0.0.
+[30-06-18 23:24:00] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_23) at 8217,11544,0.
+[30-06-18 23:24:00] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8217.0,11544.0,0.0.
+[30-06-18 23:24:00] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_37) at 8217,11544,0.
+[30-06-18 23:24:05] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_22) at 8217,11545,0.
+[30-06-18 23:24:05] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8217.0,11545.0,0.0.
+[30-06-18 23:24:05] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_26) at 8217,11545,0.
+[30-06-18 23:24:10] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_21) at 8218,11544,0.
+[30-06-18 23:24:10] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8218.0,11544.0,0.0.
+[30-06-18 23:24:10] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_36) at 8218,11544,0.
+[30-06-18 23:24:14] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_22) at 8218,11545,0.
+[30-06-18 23:24:14] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8218.0,11545.0,0.0.
+[30-06-18 23:24:14] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_26) at 8218,11545,0.
+[30-06-18 23:24:18] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_22) at 8219,11544,0.
+[30-06-18 23:24:18] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8219.0,11544.0,0.0.
+[30-06-18 23:24:18] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_25) at 8219,11544,0.
+[30-06-18 23:24:22] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_22) at 8219,11545,0.
+[30-06-18 23:24:22] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8219.0,11545.0,0.0.
+[30-06-18 23:24:22] 76561198095440441 "aerosol birthday party" removed Fern (d_generic_1_80) at 8219,11545,0.
+[30-06-18 23:26:37] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_1) at 8236,11552,0.
+[30-06-18 23:26:58] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_1) at 8236,11551,0.
+[30-06-18 23:27:23] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_39) at 8237,11551,0.
+[30-06-18 23:27:23] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_tables_high_01_38) at 8237,11552,0.
+[30-06-18 23:27:36] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8219,11534,0.
+[30-06-18 23:27:47] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8221,11536,0.
+[30-06-18 23:27:49] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_3) at 8238,11551,0.
+[30-06-18 23:27:52] 76561198045968247 "cashew" removed Riverbirch (e_riverbirch_1_3) at 8223,11536,0.
+[30-06-18 23:27:58] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8221,11535,0.
+[30-06-18 23:29:51] 76561198095440441 "aerosol birthday party" added Wooden Door (carpentry_01_48) at 8217.0,11546.0,0.0.
+[30-06-18 23:30:00] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_23) at 8217,11546,0.
+[30-06-18 23:30:00] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8217.0,11546.0,0.0.
+[30-06-18 23:30:00] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_31) at 8217,11546,0.
+[30-06-18 23:30:05] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_21) at 8218,11546,0.
+[30-06-18 23:30:05] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8218.0,11546.0,0.0.
+[30-06-18 23:30:05] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_33) at 8218,11546,0.
+[30-06-18 23:30:09] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_16) at 8219,11546,0.
+[30-06-18 23:30:09] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8219.0,11546.0,0.0.
+[30-06-18 23:30:09] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_26) at 8219,11546,0.
+[30-06-18 23:30:13] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_21) at 8217,11547,0.
+[30-06-18 23:30:13] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8217.0,11547.0,0.0.
+[30-06-18 23:30:13] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_32) at 8217,11547,0.
+[30-06-18 23:30:17] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_21) at 8218,11547,0.
+[30-06-18 23:30:17] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8218.0,11547.0,0.0.
+[30-06-18 23:30:17] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_48) at 8218,11547,0.
+[30-06-18 23:30:21] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_16) at 8219,11547,0.
+[30-06-18 23:30:21] 76561198095440441 "aerosol birthday party" removed Swamp Sunflower (d_plants_1_19) at 8219,11547,0.
+[30-06-18 23:30:21] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8219.0,11547.0,0.0.
+[30-06-18 23:30:26] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_16) at 8219,11548,0.
+[30-06-18 23:30:26] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8219.0,11548.0,0.0.
+[30-06-18 23:30:26] 76561198095440441 "aerosol birthday party" removed Grass (e_newgrass_1_49) at 8219,11548,0.
+[30-06-18 23:30:30] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_22) at 8218,11548,0.
+[30-06-18 23:30:30] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8218.0,11548.0,0.0.
+[30-06-18 23:31:40] 76561198095440441 "aerosol birthday party" removed IsoObject (blends_natural_01_21) at 8217,11548,0.
+[30-06-18 23:31:40] 76561198095440441 "aerosol birthday party" added IsoObject (carpentry_02_58) at 8217.0,11548.0,0.0.
+[30-06-18 23:32:19] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8219,11549,0.
+[30-06-18 23:32:19] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8219.0,11549.0,0.0.
+[30-06-18 23:32:33] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8218,11549,0.
+[30-06-18 23:32:33] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8218.0,11549.0,0.0.
+[30-06-18 23:32:45] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8217,11549,0.
+[30-06-18 23:32:45] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8217.0,11549.0,0.0.
+[30-06-18 23:32:55] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8217,11547,0.
+[30-06-18 23:32:55] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217.0,11547.0,0.0.
+[30-06-18 23:34:58] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8217,11548,0.
+[30-06-18 23:34:58] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217.0,11548.0,0.0.
+[30-06-18 23:35:05] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8217,11545,0.
+[30-06-18 23:35:05] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217.0,11545.0,0.0.
+[30-06-18 23:35:11] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8217,11544,0.
+[30-06-18 23:35:11] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217.0,11544.0,0.0.
+[30-06-18 23:35:16] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8217,11544,0.
+[30-06-18 23:35:16] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8217.0,11544.0,0.0.
+[30-06-18 23:35:21] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8218,11544,0.
+[30-06-18 23:35:21] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8218.0,11544.0,0.0.
+[30-06-18 23:35:27] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_101) at 8219,11544,0.
+[30-06-18 23:35:27] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8219.0,11544.0,0.0.
+[30-06-18 23:36:39] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8220,11544,0.
+[30-06-18 23:36:39] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220.0,11544.0,0.0.
+[30-06-18 23:36:49] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8220,11545,0.
+[30-06-18 23:36:49] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220.0,11545.0,0.0.
+[30-06-18 23:36:56] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8220,11546,0.
+[30-06-18 23:36:56] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220.0,11546.0,0.0.
+[30-06-18 23:37:05] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8220,11547,0.
+[30-06-18 23:37:05] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220.0,11547.0,0.0.
+[30-06-18 23:38:59] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_59) at 8224,11597,0.
+[30-06-18 23:39:24] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_58) at 8224,11598,0.
+[30-06-18 23:40:08] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_57) at 8222,11598,0.
+[30-06-18 23:40:30] 76561198095440441 "aerosol birthday party" removed IsoObject (furniture_seating_indoor_02_56) at 8221,11597,0.
+[30-06-18 23:42:23] 76561198095440441 "aerosol birthday party" removed WoodenWallFrame (carpentry_02_100) at 8220,11548,0.
+[30-06-18 23:42:23] 76561198095440441 "aerosol birthday party" added WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220.0,11548.0,0.0.
+[30-06-18 23:42:40] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8217.0,11544.0,0.0.
+[30-06-18 23:42:44] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8218.0,11544.0,0.0.
+[30-06-18 23:43:00] 76561198095440441 "aerosol birthday party" added Shelves (carpentry_02_69) at 8217.0,11544.0,0.0.
+[30-06-18 23:44:14] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8222,11536,0.
+[30-06-18 23:44:19] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8221,11533,0.
+[30-06-18 23:44:22] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8222,11533,0.
+[30-06-18 23:44:25] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8221,11532,0.
+[30-06-18 23:44:28] 76561198045968247 "cashew" removed Cockspur Hawthorn (e_cockspurhawthorn_1_2) at 8220,11532,0.
+[30-06-18 23:44:37] 76561198045968247 "cashew" removed Riverbirch (e_riverbirch_1_3) at 8222,11532,0.
+[30-06-18 23:44:40] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_3) at 8222,11531,0.
+[30-06-18 23:44:48] 76561198045968247 "cashew" removed Virginia Pine (e_virginiapine_1_3) at 8225,11536,0.
+[30-06-18 23:44:53] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_2) at 8224,11533,0.
+[30-06-18 23:45:02] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8225,11533,0.
+[30-06-18 23:45:19] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_2) at 8226,11534,0.
+[30-06-18 23:45:22] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8228,11534,0.
+[30-06-18 23:45:30] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8227,11534,0.
+[30-06-18 23:45:38] 76561198045968247 "cashew" removed Riverbirch (e_riverbirch_1_3) at 8228,11535,0.
+[30-06-18 23:45:52] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_2) at 8229,11535,0.
+[30-06-18 23:45:57] 76561198045968247 "cashew" removed American Holly (e_americanholly_1_2) at 8230,11535,0.
+[30-06-18 23:46:02] 76561198045968247 "cashew" removed Canadian Hemlock (e_canadianhemlock_1_3) at 8231,11535,0.
+[30-06-18 23:46:06] 76561198045968247 "cashew" removed Virginia Pine (e_virginiapine_1_3) at 8232,11535,0.
+[30-06-18 23:48:10] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8219.0,11544.0,0.0.
+[30-06-18 23:48:28] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8214.0,11552.0,0.0.
+[30-06-18 23:48:33] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8213.0,11552.0,0.0.
+[30-06-18 23:48:37] 76561198095440441 "aerosol birthday party" added Wooden Crate (carpentry_01_19) at 8212.0,11552.0,0.0.
+[01-07-18 00:20:27] 76561198095440441 "aerosol birthday party" added Rain Collector Barrel (carpentry_02_54) at 8204.0,11543.0,0.0.
+[01-07-18 00:20:31] 76561198095440441 "aerosol birthday party" added Rain Collector Barrel (carpentry_02_54) at 8204.0,11542.0,0.0.
+[01-07-18 00:21:20] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217,11547,0.
+[01-07-18 00:21:20] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8217.0,11547.0,0.0.
+[01-07-18 00:21:27] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8217,11549,0.
+[01-07-18 00:21:27] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8217.0,11549.0,0.0.
+[01-07-18 00:21:39] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8217,11545,0.
+[01-07-18 00:21:39] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8217.0,11545.0,0.0.
+[01-07-18 00:21:44] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8217,11544,0.
+[01-07-18 00:21:44] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8217.0,11544.0,0.0.
+[01-07-18 00:21:56] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8218,11549,0.
+[01-07-18 00:21:56] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8218.0,11549.0,0.0.
+[01-07-18 00:22:00] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8219,11549,0.
+[01-07-18 00:22:00] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8219.0,11549.0,0.0.
+[01-07-18 00:22:06] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220,11548,0.
+[01-07-18 00:22:06] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8220.0,11548.0,0.0.
+[01-07-18 00:22:11] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220,11547,0.
+[01-07-18 00:22:11] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8220.0,11547.0,0.0.
+[01-07-18 00:22:17] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220,11545,0.
+[01-07-18 00:22:17] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8220.0,11545.0,0.0.
+[01-07-18 00:22:23] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_44) at 8220,11544,0.
+[01-07-18 00:22:23] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_40) at 8220.0,11544.0,0.0.
+[01-07-18 00:22:34] 76561198095440441 "aerosol birthday party" removed WoodenWallLvl1 (walls_exterior_wooden_01_45) at 8218,11544,0.
+[01-07-18 00:22:34] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8218.0,11544.0,0.0.
+[01-07-18 00:22:38] 76561198095440441 "aerosol birthday party" added WoodenWallLvl2 (walls_exterior_wooden_01_41) at 8218.0,11544.0,0.0.
+[01-07-18 00:23:48] 76561198045968247 "cashew" added IsoGenerator (appliances_misc_01_0) at 8208.0,11546.0,0.0.
+[01-07-18 00:24:27] 76561198095440441 "aerosol birthday party" added Wooden Sign (constructedobjects_signs_01_11) at 8210.0,11563.0,0.0.

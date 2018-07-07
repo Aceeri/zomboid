@@ -1,0 +1,18 @@
+[30-06-18 21:57:11] added connection index=0 76561198045968247.
+[30-06-18 21:57:11] 76561198045968247 "cashew" attempting to join.
+[30-06-18 21:57:11] 76561198045968247 "cashew" allowed to join.
+[30-06-18 21:57:49] 76561198045968247 "cashew" fully connected (8211,11556,0).
+[30-06-18 21:58:16] added connection index=1 76561198095440441.
+[30-06-18 21:58:16] 76561198095440441 "aerosol birthday party" attempting to join.
+[30-06-18 21:58:16] 76561198095440441 "aerosol birthday party" allowed to join.
+[30-06-18 21:58:49] 76561198095440441 "aerosol birthday party" fully connected (8209,11551,0).
+[01-07-18 00:15:25] 76561198095440441 "aerosol birthday party" removed connection index=1.
+[01-07-18 00:15:25] 76561198095440441 "aerosol birthday party" disconnected player (8210,11555,0).
+[01-07-18 00:15:46] added connection index=1 76561198095440441.
+[01-07-18 00:15:46] 76561198095440441 "aerosol birthday party" attempting to join.
+[01-07-18 00:15:46] 76561198095440441 "aerosol birthday party" allowed to join.
+[01-07-18 00:16:18] 76561198095440441 "aerosol birthday party" fully connected (8210,11555,0).
+[01-07-18 01:03:20] 76561198095440441 "aerosol birthday party" removed connection index=1.
+[01-07-18 01:03:20] 76561198095440441 "aerosol birthday party" disconnected player (8211,11554,0).
+[01-07-18 01:03:28] 76561198045968247 "cashew" removed connection index=0.
+[01-07-18 01:03:28] 76561198045968247 "cashew" disconnected player (8211,11555,0).
